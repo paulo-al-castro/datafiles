@@ -1,0 +1,220 @@
+id,city,lat,lng,state/territory,population
+1,Adelaide,-34.928661,138.598633,South Australia,1145000
+2,Adelaide River,-13.23943,131.10733,Northern Territory,237
+3,Albany,-35.003101,117.865952,Western Australia,26445
+4,Albury,-36.074823,146.924006,New South Wales,104258
+5,Alice Springs,-23.697479,133.883621,Northern Territory,27710
+6,Andamooka,-30.44972,137.163651,South Australia,528
+7,Ararat,-37.285419,142.927277,Victoria,6110
+8,Armidale,-30.50828,151.671234,New South Wales,22673
+9,Atherton,-17.268641,145.47522,Queensland,6959
+10,Ayr,-19.573931,147.406662,Queensland,9078
+11,Bairnsdale East,-37.830789,147.651752,Victoria,11005
+12,Ballarat,-37.56266,143.862579,Victoria,85109
+13,Ballina,-28.86414,153.565414,New South Wales,14242
+14,Barcaldine,-23.55353,145.285416,Queensland,1068
+15,Batemans Bay,-35.706581,150.175415,New South Wales,10557
+16,Bathurst,-33.417358,149.581284,New South Wales,6111
+17,Bedourie,-24.3637,139.465277,Queensland,142
+18,Bendigo,-36.758179,144.280243,Victoria,81657
+19,Berri,-34.281071,140.599579,South Australia,4716
+20,Bicheno,-41.884764,148.301446,Tasmania,177
+21,Biloela,-24.395895,150.515043,Queensland,6309
+22,Birdsville,-25.898001,139.351726,Queensland,283
+23,Bongaree,-27.08367,153.159424,Queensland,13649
+24,Bordertown,-36.307678,140.771667,South Australia,2583
+25,Boulia,-22.91139,139.909348,Queensland,600
+26,Bourke,-30.09008,145.945435,New South Wales,2475
+27,Bowen,-20.01367,148.247543,Queensland,10983
+28,Brisbane,-27.47101,153.024292,Queensland,1860000
+29,Broken Hill,-31.9652,141.451202,New South Wales,17395
+30,Broome,-17.955379,122.23922,Western Australia,13218
+31,Bunbury,-33.32711,115.641373,Western Australia,26998
+32,Bundaberg,-24.866211,152.3479,Queensland,52472
+33,Burketown,-17.741051,139.547745,Queensland,200
+34,Burnie,-41.05584,145.903748,Tasmania,19972
+35,Busselton,-33.652489,115.345497,Western Australia,10214
+36,Byron Bay,-28.64201,153.611938,New South Wales,6764
+37,Caboolture,-27.08465,152.951096,Queensland,31513
+38,Cairns,-16.92304,145.766251,Queensland,154225
+39,Caloundra,-26.797091,153.137711,Queensland,38706
+40,Camooweal,-19.921539,138.120132,Queensland,187
+41,Canberra,-35.27603,149.13435,Australian Capital Territory,327700
+42,Carnarvon,-24.88073,113.659401,Western Australia,7392
+43,Ceduna,-32.121559,133.678665,South Australia,1586
+44,Central Coast,-33.42979,151.371445,New South Wales,3026
+45,Charleville,-26.40542,146.242737,Queensland,1900
+46,Charters Towers,-20.07671,146.263535,Queensland,9573
+47,Clare,-33.833248,138.610641,South Australia,3061
+48,Cloncurry,-20.70718,140.513031,Queensland,1202
+49,Cobram,-35.920689,145.640656,Victoria,4659
+50,Coffs Harbour,-30.296261,153.11351,New South Wales,62978
+51,Colac,-38.339001,143.584885,Victoria,9089
+52,Cooma,-36.234692,149.125977,New South Wales,6520
+53,Cowell,-33.68227,136.921173,South Australia,537
+54,Cowra,-33.835541,148.696625,New South Wales,6795
+55,Cranbourne,-38.1,145.283333,Victoria,460491
+56,Currie,-39.929759,143.853847,Tasmania,
+57,Dalby,-27.18169,151.262054,Queensland,9847
+58,Darwin,-12.45722,130.836639,Northern Territory,93080
+59,Deniliquin,-35.532447,144.953643,New South Wales,8024
+60,Devonport,-41.176949,146.351517,Tasmania,19317
+61,Dubbo,-32.24295,148.604843,New South Wales,31574
+62,East Maitland,-32.75,151.583333,New South Wales,18625
+63,Echuca,-36.140572,144.751846,Victoria,19457
+64,Eidsvold,-25.370609,151.122589,Queensland,459
+65,Emerald,-23.522961,148.157837,Queensland,9398
+66,Esperance,-33.86013,121.882591,Western Australia,7888
+67,Exmouth,-21.940201,114.125008,Western Australia,1085
+68,Forbes,-33.384361,148.007599,New South Wales,4838
+69,Forster,-32.181358,152.517151,New South Wales,17591
+70,Gawler,-34.602509,138.749023,South Australia,16362
+71,Geelong,-38.153461,144.358093,Victoria,160991
+72,Georgetown,-18.29199,143.545837,Queensland,818
+73,Geraldton,-28.778971,114.614594,Western Australia,27258
+74,Gingin,-31.347219,115.90432,Western Australia,1446
+75,Gladstone,-23.84761,151.256348,Queensland,30489
+76,Gold Coast,-28.00029,153.430878,Queensland,527660
+77,Goondiwindi,-28.5464,150.307297,Queensland,4251
+78,Goulburn,-34.751549,149.720856,New South Wales,20940
+79,Griffith,-34.288528,146.050934,New South Wales,15455
+80,Gunnedah,-30.98065,150.258377,New South Wales,7148
+81,Gympie South,-26.211519,152.64769,Queensland,11649
+82,Halls Creek,-18.22485,127.666473,Western Australia,1209
+83,Hamilton,-37.74334,142.028915,Victoria,8869
+84,Hervey Bay,-25.29052,152.873764,Queensland,25114
+85,Hobart,-42.883209,147.331665,Tasmania,80870
+86,Horsham,-36.711311,142.199814,Victoria,12830
+87,Hughenden,-20.84399,144.200348,Queensland,421
+88,Innisfail,-17.522091,146.031021,Queensland,10143
+89,Inverell,-29.774031,151.111664,New South Wales,8561
+90,Ivanhoe,-32.900379,144.301498,New South Wales,265
+91,Kalbarri,-27.710501,114.165047,Western Australia,1537
+92,Kalgoorlie,-30.743762,121.465902,Western Australia,36852
+93,Karratha,-20.738951,116.842949,Western Australia,16796
+94,Karumba,-17.488819,140.838196,Queensland,173
+95,Katanning,-33.68787,117.558403,Western Australia,3934
+96,Katherine,-14.46517,132.263474,Northern Territory,10141
+97,Katoomba,-33.713032,150.311737,New South Wales,22076
+98,Kempsey,-31.078979,152.830933,New South Wales,11840
+99,Kiama,-34.668282,150.852188,New South Wales,10379
+100,Kimba,-33.14164,136.418747,South Australia,636
+101,Kingaroy,-26.53994,151.837296,Queensland,8573
+102,Kingoonya,-30.9,135.3,South Australia,50
+103,Kingston Beach,-42.983333,147.316667,Tasmania,14371
+104,Kingston South East,-36.83073,139.852203,South Australia,206
+105,Kununurra,-15.77813,128.744141,Western Australia,5679
+106,Kwinana,-32.230129,115.781281,Western Australia,20086
+107,Launceston,-41.438759,147.134674,Tasmania,72458
+108,Laverton,-28.625311,122.399399,Western Australia,316
+109,Leeton,-34.551048,146.404831,New South Wales,7299
+110,Leonora,-28.88509,121.330742,Western Australia,227
+111,Lithgow,-33.482471,150.136307,New South Wales,11128
+112,Longreach,-23.44212,144.249207,Queensland,2894
+113,Mandurah,-32.526901,115.721703,Western Australia,73356
+114,Manjimup,-34.241219,116.145638,Western Australia,4240
+115,Maryborough,-25.54073,152.704926,Queensland,20678
+116,Maryborough,-37.04562,143.739227,Victoria,7046
+117,McMinns Lagoon,-12.55397,131.111649,Northern Territory,5025
+118,Meekatharra,-26.59524,118.493927,Western Australia,654
+119,Melbourne,-37.813938,144.963425,Victoria,
+120,Melton,-37.683392,144.585434,Victoria,32368
+121,Meningie,-35.688412,139.338562,South Australia,1501
+122,Merredin,-31.48094,118.274483,Western Australia,2668
+123,Mildura,-34.185509,142.162506,Victoria,47867
+124,Moranbah,-21.99828,148.034836,Queensland,10000
+125,Morawa,-29.21343,116.007912,Western Australia,259
+126,Moree,-29.46278,149.841568,New South Wales,8203
+127,Mount Barker,-34.63084,117.666061,Western Australia,1781
+128,Mount Gambier,-37.831799,140.77919,South Australia,23209
+129,Mount Isa,-20.725229,139.497269,Queensland,33200
+130,Mount Magnet,-28.064791,117.849037,Western Australia,424
+131,Mudgee,-32.59948,149.587067,New South Wales,5391
+132,Murray Bridge,-35.119862,139.273453,South Australia,18194
+133,Muswellbrook,-32.261181,150.890091,New South Wales,11630
+134,Narrabri West,-30.333333,149.75,New South Wales,7082
+135,Narrogin,-32.932819,117.177628,Western Australia,4238
+136,Newcastle,-32.927792,151.784485,New South Wales,1134616
+137,Newman,-23.394506,119.729637,Western Australia,5138
+138,Norseman,-32.197689,121.778732,Western Australia,1004
+139,North Lismore,-28.8,153.283333,New South Wales,31430
+140,North Mackay,-21.116667,149.183333,Queensland,75922
+141,North Scottsdale,-41.121545,147.559519,Tasmania,2468
+142,Northam,-31.649321,116.674232,Western Australia,5855
+143,Nowra,-34.88422,150.600357,New South Wales,94781
+144,Oatlands,-42.30302,147.367233,Tasmania,1157
+145,Onslow,-21.636869,115.111687,Western Australia,573
+146,Orange,-33.283089,149.100006,New South Wales,39329
+147,Ouyen,-35.070869,142.320343,Victoria,1400
+148,Pambula,-36.930099,149.874496,New South Wales,6367
+149,Pannawonica,-21.639179,116.322227,Western Australia,686
+150,Parkes,-33.137199,148.175903,New South Wales,11137
+151,Penola,-37.375198,140.836777,South Australia,1514
+152,Perth,-31.95224,115.861397,Western Australia,1532000
+153,Peterborough,-32.97205,138.840729,South Australia,1689
+154,Pine Creek,-13.82077,131.832947,Northern Territory,665
+155,Port Augusta West,-32.483333,137.75,South Australia,13897
+156,Port Denison,-29.283333,114.916667,Western Australia,1213
+157,Port Douglas,-16.483829,145.467255,Queensland,3000
+158,Port Hedland,-20.312149,118.610588,Western Australia,14288
+159,Port Lincoln,-34.72625,135.87442,South Australia,13630
+160,Port Macquarie,-31.43084,152.908936,New South Wales,48547
+161,Port Pirie,-33.191761,138.017456,South Australia,12506
+162,Portland,-38.352612,141.605743,Victoria,11808
+163,Proserpine,-20.4011,148.5802,Queensland,3976
+164,Queanbeyan,-35.354931,149.231995,New South Wales,32602
+165,Queenstown,-42.080502,145.556458,Tasmania,2352
+166,Quilpie,-26.61348,144.269485,Queensland,560
+167,Ravensthorpe,-33.583031,120.046883,Western Australia,1101
+168,Richmond,-20.73243,143.143555,Queensland,296
+169,Richmond North,-33.581169,150.719421,New South Wales,13880
+170,Rockhampton,-23.38032,150.505951,Queensland,65850
+171,Roebourne,-20.772289,117.146477,Western Australia,19260
+172,Roma,-26.56741,148.787506,Queensland,5496
+173,Sale,-38.11095,147.068024,Victoria,22486
+174,Scone,-32.05014,150.868927,New South Wales,4624
+175,Seymour,-37.02655,145.139236,Victoria,3693
+176,Shepparton,-36.38047,145.398666,Victoria,33550
+177,Singleton,-32.567421,151.166031,New South Wales,13813
+178,Smithton,-40.845868,145.124975,Tasmania,4202
+179,South Grafton,-29.7,152.95,New South Wales,9955
+180,South Ingham,-18.65,146.166667,Queensland,6127
+181,South Melbourne,-37.833333,144.966667,Victoria,4170000
+182,Southern Cross,-31.22677,119.323761,Western Australia,187
+183,Stawell,-37.05632,142.780884,Victoria,6991
+184,Streaky Bay,-32.79924,134.211594,South Australia,1060
+185,Sunbury,-37.577419,144.726074,Victoria,29925
+186,Swan Hill,-35.3383,143.552652,Victoria,9276
+187,Sydney,-33.861481,151.205475,New South Wales,4630000
+188,Taree,-31.91099,152.453873,New South Wales,44182
+189,Thargomindah,-27.99498,143.823914,Queensland,203
+190,Theodore,-24.94743,150.075287,Queensland,246
+191,Three Springs,-29.533609,115.760529,Western Australia,190
+192,Tom Price,-22.69408,117.787651,Western Australia,2723
+193,Toowoomba,-27.56056,151.953857,Queensland,92800
+194,Townsville,-19.26639,146.805695,Queensland,138954
+195,Traralgon,-38.195278,146.541504,Victoria,18226
+196,Tumby Bay,-34.375061,136.103333,South Australia,1791
+197,Tumut,-35.300159,148.225052,New South Wales,6526
+198,Tweed Heads,-28.17561,153.542007,New South Wales,33065
+199,Ulladulla,-35.359058,150.472473,New South Wales,9250
+200,Victor Harbor,-35.550419,138.621536,South Australia,7760
+201,Wagga Wagga,-35.125771,147.353745,New South Wales,55381
+202,Wagin,-33.308941,117.343277,Western Australia,1598
+203,Wallaroo,-33.938808,137.633652,South Australia,2779
+204,Wangaratta,-36.358459,146.320557,Victoria,14022
+205,Warrnambool,-38.38176,142.487991,Victoria,29928
+206,Warwick,-28.219009,152.034378,Queensland,12347
+207,Weipa,-12.62346,141.87883,Queensland,2830
+208,West Tamworth,-31.10625,150.909356,New South Wales,38551
+209,Whyalla,-33.032681,137.564835,South Australia,22559
+210,Wilcannia,-31.56031,143.377045,New South Wales,442
+211,Windorah,-25.42224,142.656597,Queensland,158
+212,Winton,-22.381849,143.042404,Queensland,1157
+213,Wollongong,-34.424,150.893448,New South Wales,260914
+214,Wonthaggi,-38.605862,145.593552,Victoria,5985
+215,Woomera,-31.19981,136.832581,South Australia,450
+216,Yamba,-29.43545,153.360306,New South Wales,1806
+217,Yeppoon,-23.126829,150.744064,Queensland,10769
+218,Young,-34.313499,148.301071,New South Wales,7501
+219,Yulara,-25.245291,130.980545,Northern Territory,930

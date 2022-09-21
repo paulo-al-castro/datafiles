@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction/versions/1?resource=download
+
+
+This real estate dataset was built for regression analysis, linear regression, multiple regression, and prediction models. It includes the date of purchase, house age, location, distance to nearest MRT station, and house price of unit area. 

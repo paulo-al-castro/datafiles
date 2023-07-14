@@ -1,0 +1,2959 @@
+,Unnamed: 0,Price,Location,Postal Code,Area,Bedrooms,Bathrooms,Receptions,City-County,House-Type
+0,0,1675000,Wimbledon,SW19 8NY,2716,5,5,5,London,House
+1,1,650000,Clerkenwell,EC1V 3PA,814,2,2,2,London,Flat / Apartment
+2,2,735000,Putney,SW15 1QL,761,2,2,2,London,Flat / Apartment
+3,3,1765000,Putney,SW15 1LP,1986,4,4,4,London,House
+4,4,675000,Putney,SW15 1PL,700,2,2,2,London,Flat / Apartment
+5,5,420000,,W2 3EA,403,1,1,1,London,Flat / Apartment
+6,6,1475000,,SW11 6NW,1548,4,4,4,London,House
+7,7,650000, Fulham,SW6 3LF,560,1,1,1,London,New development
+8,8,2500000,,W8 6UG,1308,3,3,3,London,House
+9,9,925000,,W8 4NT,646,2,2,2,London,Flat / Apartment
+10,10,2400000,,SW17 8RR,3392,6,6,6,London,House
+11,11,2500000,Highgate,N6 5HQ,2974,6,6,6,London,House
+12,12,2795000,Walton-on-Thames,KT12 1ER,5294,5,5,5,Surrey,House
+13,13,725000, St. John's Wood,NW8 9HP,778,2,2,2,London,Flat / Apartment
+14,14,750000,17 Abercorn Place,NW8 9DY,647,2,2,2,London,Flat / Apartment
+15,15,12500000,Regents Park,NW1 4ND,4596,6,6,6,London,House
+16,16,1450000,,TW1 2PF,1702,3,3,3,Twickenham,Flat / Apartment
+17,17,1250000, Coulsdon,CR5 3QW,3503,6,6,6,Surrey,House
+18,18,2275000,Primrose Hill,NW3 3DS,1173,3,3,3,London,New development
+19,19,1075000,,W11 4SR,865,2,2,2,Holland Park,Duplex
+20,20,500000,,SW9 9BT,597,1,1,1,London,Flat / Apartment
+21,21,5500000,Marylebone,W1G 7BA,3016,4,4,4,London,House
+22,22,8950000,10 Draycott Avenue,SW3 3AA,3154,4,4,4,London,New development
+23,23,1175000,,W8 7AX,765,2,2,2,London,Flat / Apartment
+24,24,550000,Islington,N1 1PT,479,1,1,1,London,Flat / Apartment
+25,25,1300000, Islington,N1 2NT,1101,3,3,3,London,House
+26,26,800000,South Hampstead,NW6 3HR,1177,3,3,3,London,Flat / Apartment
+27,27,3500000,Belsize Park,NW3 2UP,2331,4,4,4,London,House
+28,28,374950,Esher,KT10 9FN,664,2,2,2,Surrey,New development
+29,29,400000, Surbiton,KT6 6NW,805,2,2,2,Surrey,Flat / Apartment
+30,30,1100000,20-21 Wetherby Gardens,SW5 0JP,582,2,2,2,London,Flat / Apartment
+31,31,1200000,,SW12 8LJ,1494,4,4,4,London,House
+32,32,1250000,,SW2 4XF,1507,4,4,4,London,House
+33,33,695000,,SW2 4XQ,945,3,3,3,London,Flat / Apartment
+34,34,1735000,Chiswick,W4 3BS,2118,4,4,4,London,House
+35,35,2350000,Chiswick,W4 4NR,2297,5,5,5,London,House
+36,36,1200000,Chiswick,W4 2BA,1351,4,4,4,London,House
+37,37,975000,,SW10 0JB,749,2,2,2,London,Flat / Apartment
+38,38,850000,Barnes,SW13 0NL,1177,3,3,3,London,House
+39,39,1599950,Fulham,SW6 5RF,1884,4,4,4,London,House
+40,40,925000,,SW11 2PZ,1321,2,2,2,London,Flat / Apartment
+41,41,650000,,SW11 3DU,869,3,3,3,Battersea,Flat / Apartment
+42,42,550000,,SW11 4BG,670,1,1,1,London,Flat / Apartment
+43,43,9975000, Battersea,SW11 3LD,10100,10,10,10,London,House
+44,44,1850000,,SW11 4PT,1910,5,5,5,London,House
+45,45,525000,,SW11 3AU,590,1,1,1,London,New development
+46,46,2200000,,SW4 6HS,2239,4,4,4,London,House
+47,47,3450000,Walton-on-Thames,KT12 1EU,5599,6,6,6,Surrey,House
+48,48,1999999, Victoria,SW1P 1EZ,1608,3,3,3,London,Flat / Apartment
+49,49,725000,South Hackney,E9 7LF,884,3,3,3,London,House
+50,50,1750000,Grove End Road,NW8 9LD,1232,2,2,2,London,Flat / Apartment
+51,51,5250000,,SW1W 9DF,2299,3,3,3,London,Flat / Apartment
+52,52,1250000,Crouch End,N8 9JJ,1307,3,3,3,London,New development
+53,53,490000, Downs Road,E5 8DS,570,1,1,1,Clapton,New development
+54,54,3350000,Coleridge Gardens,SW10 0RP,2185,3,3,3,London,Penthouse
+55,55,1000000,Battersea,SW11 4SS,1228,3,3,3,London,Flat / Apartment
+56,56,2350000,Barnes,SW13 0DX,2511,4,4,4,London,House
+57,57,2095000,Chelsea Harbour,SW10 0UY,1528,3,3,3,London,Flat / Apartment
+58,58,1250000, Bayswater,W2 4WA,811,2,2,2,London,Flat / Apartment
+59,59,735000,,SW11 2RE,969,2,2,2,London,Flat / Apartment
+60,60,875000,Tooting,SW17 8LW,1132,4,4,4,London,House
+61,61,1250000,,SW16 1RD,2498,6,6,6,London,House
+62,62,595000,,W12 8BG,643,2,2,2,London,Flat / Apartment
+63,63,1675000,Watford,WD19 4PL,5022,3,3,3,Hertfordshire,House
+64,64,2595000,Northwood,HA6 3QF,4858,6,6,6,Middlesex,House
+65,65,820000,Morgan Street,E3 5AZ,974,3,3,3,London,House
+66,66,830000,Regent's Park,NW1 4JG,850,2,2,2,London,Flat / Apartment
+67,67,500000,Kentish Town,NW5 1TX,458,1,1,1,London,Flat / Apartment
+68,68,2500000,Northwood,HA6 2TR,5999,7,7,7,Middlesex,House
+69,69,7500000,St John's Wood,NW8 6EN,3851,6,6,6,London,House
+70,70,749950,Putney,SW15 6LL,1382,3,3,3,London,Flat / Apartment
+71,71,480000,,SW4 0NP,448,1,1,1,London,Flat / Apartment
+72,72,3500000,Marylebone,W1G 7EB,1763,4,4,4,London,House
+73,73,2100000,Marylebone,W1B 1NX,1208,3,3,3,London,Flat / Apartment
+74,74,650000, Ealing,W5 3HJ,1023,2,2,2,London,New development
+75,75,1050000,Thames Ditton,KT7 0HQ,1693,4,4,4,Surrey,House
+76,76,1300000,,SW12 8BW,1890,5,5,5,London,House
+77,77,625000,Kidbrooke,SE7 8PP,1348,4,4,4,London,House
+78,78,625000,Clerkenwell,EC1N 8TE,540,1,1,1,London,Flat / Apartment
+79,79,1100000,Westminster,SW1P 2BN,791,2,2,2,London,New development
+80,80,5950000,,SW3 1RE,2646,4,4,4,London,House
+81,81,1325000,,SW11 6LL,1375,4,4,4,London,House
+82,82,1250000,,SW10 9JY,1068,2,2,2,London,Flat / Apartment
+83,83,2300000,,SW3 6DB,1119,3,3,3,London,House
+84,84,1500000,Hackney,E8 1DQ,1811,4,4,4,London,House
+85,85,1350000,,SW12 0HD,1603,5,5,5,London,House
+86,86,799995, Canary Wharf,E14 9BL,942,3,3,3,London,Flat / Apartment
+87,87,795000,,W2 5QT,495,1,1,1,London,Flat / Apartment
+88,88,525000,Woodford Green,IG8 7NP,829,2,2,2,Essex,House
+89,89,2595000,Fulham,SW6 4UP,2120,5,5,5,London,House
+90,90,820000, Westminster,SW1P 3DS,631,2,2,2,London,Flat / Apartment
+91,91,1200000,Surbiton,KT5 8QE,2108,4,4,4,Surrey,House
+92,92,680000,,W6 0AP,705,2,2,2,London,Flat / Apartment
+93,93,2300000,,SW6 3SU,1956,3,3,3,London,House
+94,94,2300000,Barnes,SW13 0DS,2083,5,5,5,London,House
+95,95,4000000,Barnes,SW13 9RR,3714,5,5,5,London,House
+96,96,500000,,SW11 5SQ,516,2,2,2,London,Flat / Apartment
+97,97,1275000,Little Venice,W9 2PZ,1185,3,3,3,London,Flat / Apartment
+98,98,4500000,,W8 6PG,2972,3,3,3,London,House
+99,99,1750000,Hampstead,NW11 7SY,2125,4,4,4,London,House
+100,100,2600000,Hampstead,NW3 2RU,2350,4,4,4,London,House
+101,101,3450000, Hampstead,NW3 7LW,2354,4,4,4,London,House
+102,102,2350000,,SW11 4PR,2183,5,5,5,London,House
+103,103,2375000,St. James's,SW1E 6LB,1218,2,2,2,London,Flat / Apartment
+104,104,1995000,Wimbledon,SW19 7EA,1841,5,5,5,London,House
+105,105,1000000,South Hackney,E9 7BY,1154,4,4,4,London,House
+106,106,1795000,,SW4 9HG,2314,5,5,5,London,House
+107,107,687500,,SE17 3BD,1178,3,3,3,London,New development
+108,108,2450000,,W1H 5HW,1483,3,3,3,London,House
+109,109,3500000,410 Strand,WC2R 0NR,1770,2,2,2,London,Flat / Apartment
+110,110,1225000,Loughton,IG10 2SA,2487,5,5,5,Essex,New development
+111,111,850000,Barnsbury,N1 1BJ,773,2,2,2,London,Flat / Apartment
+112,112,780000,,NW3 4HL,654,2,2,2,London,Flat / Apartment
+113,113,399950,Esher,KT10 9FN,697,2,2,2,Surrey,New development
+114,114,1499950,Surbiton,KT6 6PP,2982,5,5,5,Surrey,House
+115,115,900000,,SW14 8JP,1081,3,3,3,London,House
+116,116,2500000,,SW17 8RR,3986,6,6,6,London,House
+117,117,575000,Chiswick,W4 4AG,773,2,2,2,London,Flat / Apartment
+118,118,1250000,,SW8 3TA,1708,5,5,5,London,House
+119,119,1575000,Prince of Wales Drive,SW11 4EZ,1580,3,3,3,London,Flat / Apartment
+120,120,4750000,Wimbledon,SW19 5JZ,6602,6,6,6,London,House
+121,121,1175000,Putney,SW15 6ES,1909,4,4,4,London,House
+122,122,695000,Loughton,IG10 4BU,1337,3,3,3,Essex,House
+123,123,1200000,,SW18 3TF,1771,4,4,4,London,House
+124,124,1700000,Wandsworth,SW18 3NH,2374,5,5,5,London,House
+125,125,1000000,131 Ladbroke Grove,W11 1PS,2125,2,2,2,London,House
+126,126,1635000, City Of London,EC1A 9DS,903,2,2,2,London,New development
+127,127,625000, Esher,KT10 8AP,902,2,2,2,Surrey,Flat / Apartment
+128,128,1850000,,SW16 2BZ,3753,6,6,6,London,House
+129,129,2400000, Bayswater,W2 4SN,1736,4,4,4,London,Flat / Apartment
+130,130,1200000, South Bank,SE1 7NJ,590,1,1,1,London,New development
+131,131,785000, The Otto Buildings,E5 8DS,1173,2,2,2,Downs Road,New development
+132,132,1250000,,SW6 7EU,1298,2,2,2,London,House
+133,133,2300000, Fulham,SW6 3SS,1912,3,3,3,London,House
+134,134,1800000, Esher,KT10 0TX,3877,4,4,4,Surrey,New development
+135,135,1300000,Woodstock Road,W4 1DP,1465,3,3,3,London,Flat / Apartment
+136,136,1750000,Fulham,SW6 5NA,1580,4,4,4,London,House
+137,137,1495000,,SW19 5HR,2300,4,4,4,London,House
+138,138,1855000,Kingston upon Thames,KT2 7RD,2917,5,5,5,Surrey,House
+139,139,1625000,,SW18 2QF,1953,4,4,4,London,House
+140,140,3150000,,SW3 2LE,1449,3,3,3,London,House
+141,141,5250000,Richmond,TW9 1LW,4745,7,7,7,Surrey,House
+142,142,6000000,Richmond,TW10 6QW,4798,6,6,6,Surrey,House
+143,143,1395000,Putney,SW15 6FF,1902,5,5,5,London,House
+144,144,1385000, Putney,SW15 5LX,2056,3,3,3,London,Flat / Apartment
+145,145,800000,,SW4 9DX,922,2,2,2,London,Flat / Apartment
+146,146,3695000,St James's,SW1Y 6JT,2316,4,4,4,London,House
+147,147,2200000,,SW1X 0JL,1195,2,2,2,London,Flat / Apartment
+148,148,1175000,,SW1X 0JL,687,2,2,2,London,Flat / Apartment
+149,149,9500000,,W8 7JG,4815,5,5,5,London,House
+150,150,3100000,Holland Park,W14 8JS,2470,4,4,4,London,Flat / Apartment
+151,151,5500000,Islington,N1 1HQ,3674,4,4,4,London,House
+152,152,925000, Highbury,N5 1QA,1012,3,3,3,London,Flat / Apartment
+153,153,550000, Hackney,E2 8HN,414,1,1,1,London,Penthouse
+154,154,260000,Hackney,E8 3RH,381,0,0,0,London,Studio
+155,155,550000,Hertford Road,N1 5ET,547,1,1,1,London,Flat / Apartment
+156,156,2400000,Hampstead,NW3 1TU,2202,5,5,5,London,House
+157,157,580000, Wandsworth,SW18 1TH,460,1,1,1,London,New development
+158,158,2300000,Fulham,SW6 3QR,2785,5,5,5,London,House
+159,159,1200000,,SW12 8BE,1270,3,3,3,London,House
+160,160,1500000,,SW12 8LH,1934,5,5,5,London,House
+161,161,2250000,,SW4 9RR,2605,5,5,5,London,House
+162,162,1500000,,SW12 9NZ,2047,4,4,4,London,House
+163,163,2150000,,SW17 8RA,2850,5,5,5,London,House
+164,164,1595000,,SW17 7AP,2555,6,6,6,London,House
+165,165,1565000,,SW12 8DH,2088,5,5,5,London,House
+166,166,1500000,,SW12 0DL,2173,5,5,5,London,House
+167,167,400000,20 Love Lane,SE18 6GY,774,2,2,2,London,Flat / Apartment
+168,168,415000, Canary Wharf,E14 9PW,525,1,1,1,London,Flat / Apartment
+169,169,1395000,2 Dallington Street,EC1V 0BH,1230,2,2,2,London,Penthouse
+170,170,2800000, Chiswick,W4 1EN,2734,6,6,6,London,House
+171,171,1195000,Chelsea,SW10 9HA,872,2,2,2,London,Flat / Apartment
+172,172,2750000,Drayton Gardens,SW10 9RH,1839,4,4,4,London,Flat / Apartment
+173,173,6950000,Hammersmith,W6 9DJ,5501,6,6,6,London,House
+174,174,2750000,Battersea,SW11 4PX,2675,4,4,4,London,House
+175,175,525000,Wimbledon,SW19 4SX,514,2,2,2,London,Flat / Apartment
+176,176,5450000,,SW1X 9HB,1920,3,3,3,London,Flat / Apartment
+177,177,2325000,,SW12 8UF,2392,4,4,4,Thurleigh Road,New development
+178,178,3750000,Marylebone,W1G 6QW,3256,3,3,3,London,House
+179,179,1750000,,SW3 1LS,714,2,2,2,London,Flat / Apartment
+180,180,750000, Chelsea,SW1W 8QL,604,1,1,1,London,Flat / Apartment
+181,181,3150000,,W8 6TS,1755,4,4,4,London,Flat / Apartment
+182,182,1150000, Esher,KT10 9UD,2357,4,4,4,Surrey,House
+183,183,575000,,SE17 1GG,800,2,2,2,London,Flat / Apartment
+184,184,1250000,,SW17 8RU,2475,6,6,6,London,House
+185,185,1150000,,SW17 7PL,1703,4,4,4,London,House
+186,186,650000, Clerkenwell,EC1V 3AN,584,1,1,1,London,Flat / Apartment
+187,187,1295000,Chiswick,W4 2LH,1356,4,4,4,London,House
+188,188,765000, Fulham,SW6 4LA,1362,3,3,3,London,Flat / Apartment
+189,189,1100000,Barnes,SW13 9JF,1420,3,3,3,London,House
+190,190,2350000,Barnes,SW13 0BL,2153,4,4,4,London,House
+191,191,965000,Tooting Bec,SW17  8SF,1222,4,4,4,London,House
+192,192,1750000, Holland Park,W11 3NT,732,1,1,1,London,Flat / Apartment
+193,193,800000, Clapton,E5 8DS,1119,2,2,2,E5 8DE,New development
+194,194,1050000, Walton-on-Thames,KT12 3HN,2375,5,5,5,Surrey,House
+195,195,475000,105 Maida Vale,W9 1UJ,525,1,1,1,London,Flat / Apartment
+196,196,752500,131-143 Belsize Road,NW6 4BR,874,2,2,2,London,New development
+197,197,1399950,,N1 4FA,1748,4,4,4,De Beauvoir,House
+198,198,2795000,Esher,KT10 9PB,6061,7,7,7,Surrey,House
+199,199,1750000, Esher,KT10 0TX,3913,4,4,4,Surrey,New development
+200,200,2995000,Between The Commons,SW4 9AU,3406,5,5,5,London,House
+201,201,1825000,,SW14 8DY,2500,5,5,5,London,House
+202,202,550000,137-139 Queenstown Road,SW8 3RJ,609,2,2,2,London,Flat / Apartment
+203,203,1850000,,SW4 9EL,2516,5,5,5,London,House
+204,204,625000, Westminster,SW1P 2TB,428,1,1,1,London,Flat / Apartment
+205,205,2290000,St. James's,SW1E 6LB,1604,2,2,2,London,Flat / Apartment
+206,206,3450000,Chelsea,SW3 4BN,1820,5,5,5,London,House
+207,207,995000,Primrose Hill,NW3 3QR,710,2,2,2,London,Flat / Apartment
+208,208,450000, Holloway,N7 0JN,538,1,1,1,London,New development
+209,209,850000,Chiswick,W4 5LZ,935,2,2,2,London,Flat / Apartment
+210,210,975000, Maida Vale,W9 1NP,950,2,2,2,London,Flat / Apartment
+211,211,1850000,,W8 4SA,924,3,3,3,London,Flat / Apartment
+212,212,940000,Hackney,E8 3GX,1074,3,3,3,London,House
+213,213,1595000,Surbiton,KT6 6PN,3261,5,5,5,Surrey,House
+214,214,1275000,,SW14 8BT,1779,4,4,4,London,House
+215,215,1325000,,SW14 8RF,1541,4,4,4,London,House
+216,216,850000,Oxhey,WD19 4QG,1687,4,4,4,Hertfordshire,House
+217,217,865000,,SW11 6LN,880,2,2,2,London,Flat / Apartment
+218,218,650000,,SW11 1EA,859,2,2,2,London,Flat / Apartment
+219,219,3500000,,W8 6AX,1577,2,2,2,London,New development
+220,220,1695000,Highbury,N5 1XP,1944,5,5,5,London,House
+221,221,399995, Canary Wharf,E14 7SZ,472,1,1,1,London,Flat / Apartment
+222,222,5750000,Barnes,SW13 9EU,4682,6,6,6,London,House
+223,223,4650000,Belgravia,SW1W 0LN,2865,4,4,4,London,House
+224,224,1650000, Radlett,WD7 9HJ,4016,8,8,8,Hertfordshire,House
+225,225,2800000,,SW3 2NH,1448,3,3,3,London,House
+226,226,1100000,,N1 3LL,1056,3,3,3,London,Flat / Apartment
+227,227,2650000, Parr's Way,W6 9AN,1811,3,3,3,London,Flat / Apartment
+228,228,1575000,,SW2 4XL,2550,5,5,5,London,House
+229,229,525000,142 Battersea Park Road,SW11 4NB,775,1,1,1,London,Flat / Apartment
+230,230,1650000,Westminster,SW1P 3AF,1099,2,2,2,London,Flat / Apartment
+231,231,850000,Albany Street,NW1 4EB,726,2,2,2,London,Flat / Apartment
+232,232,2700000,Notting Hill,W2 4TU,1791,3,3,3,London,House
+233,233,695000,Wimbledon,SW19 8SH,795,2,2,2,London,House
+234,234,1400000,London,SW18 1AD,1799,4,4,4,Wandsworth,House
+235,235,2050000,St John's Wood,NW8 6PJ,1293,3,3,3,London,House
+236,236,615000,Whitechapel,E1 5BA,972,2,2,2,London,Flat / Apartment
+237,237,1000000, Putney,SW15 5LX,1777,3,3,3,London,Flat / Apartment
+238,238,315000,,SW4 7EX,526,1,1,1,London,Flat / Apartment
+239,239,1850000,2 Gatliff Road,SW1W 8DT,1328,3,3,3,London,New development
+240,240,2895000,,SW1W 8HN,1289,3,3,3,London,House
+241,241,450000,Bingham Court,N1 2DH,459,1,1,1,London,Flat / Apartment
+242,242,500000,Surbiton,KT5 9HU,963,2,2,2,Surrey,House
+243,243,675000,,SW17 8BW,949,2,2,2,London,Flat / Apartment
+244,244,650000,Peartree Street,EC1V 3AN,583,1,1,1,Clerkenwell,Flat / Apartment
+245,245,1395000,Chiswick,W4 1NB,1068,1,1,1,London,House
+246,246,2395000, Oxshott,KT22 0PL,4966,5,5,5,Surrey,House
+247,247,725000,42 Trinity Church Road,SW13 8EA,858,3,3,3,London,Flat / Apartment
+248,248,2000000,Barnes,SW13 9PH,2525,4,4,4,London,House
+249,249,625000,,SW6 7TP,664,2,2,2,London,Flat / Apartment
+250,250,1350000,Brackenbury Village,W6 0HY,1328,3,3,3,London,House
+251,251,2100000,Battersea,SW11 3DR,2191,4,4,4,London,House
+252,252,3650000,Esher,KT10 8LQ,8034,6,6,6,Surrey,House
+253,253,1850000,,SW14 8JJ,1892,4,4,4,London,House
+254,254,1500000,Albert Bridge Road,SW11 4PE,1132,3,3,3,London,Flat / Apartment
+255,255,3625000,Primrose Hill,NW1 8YH,2190,4,4,4,London,House
+256,256,1500000,Mill Street,SE1 2BB,1274,2,2,2,London,Flat / Apartment
+257,257,525000,Barnes,SW13 9ER,630,2,2,2,London,Flat / Apartment
+258,258,290000,Banbury Road,E9 7ED,455,1,1,1,London,Flat / Apartment
+259,259,1725000,Putney,SW15 3JG,2931,5,5,5,London,House
+260,260,1395000,Islington,N1 7AL,1510,3,3,3,London,House
+261,261,400000,George Beard Road,SE8 3AL,705,2,2,2,Deptford,Flat / Apartment
+262,262,3350000,,SW1X 9DU,1504,3,3,3,London,House
+263,263,1795000, Putney,SW15 6ED,2067,4,4,4,London,House
+264,264,600000, Northwood,HA6 2BX,1160,2,2,2,Middlesex,Flat / Apartment
+265,265,1500000,Ealing,W13 8BH,1997,4,4,4,London,House
+266,266,1600000,Wandsworth,SW18 2EQ,2149,4,4,4,London,House
+267,267,1550000,,SW16 1QW,3620,7,7,7,London,House
+268,268,1325000, Westminster,SW1P 4HD,1195,3,3,3,London,Flat / Apartment
+269,269,1395000,Camden,NW1 9RJ,1587,3,3,3,London,House
+270,270,735000,,WC1X 0ER,849,2,2,2,London,Flat / Apartment
+271,271,825000,Thames Ditton,KT7 0DJ,2094,4,4,4,Surrey,House
+272,272,1500000,,E1W 2BQ,2550,3,3,3,London,Flat / Apartment
+273,273,679000, Canary Wharf,E14 9DB,832,2,2,2,London,Flat / Apartment
+274,274,1500000,Park Walk,SW10 0AG,1244,3,3,3,London,Flat / Apartment
+275,275,1000000,Northwood,HA6 2SB,1501,3,3,3,Middlesex,New development
+276,276,4995000,Little Venice,W9 2PF,3035,4,4,4,London,House
+277,277,1350000,Putney,SW15 2LS,1604,4,4,4,London,House
+278,278,625000,,N1 0BH,723,2,2,2,London,New development
+279,279,600000,Hackney,N1 5QL,660,2,2,2,London,Flat / Apartment
+280,280,875000,28 Wapping High Street,E1W 1NG,627,1,1,1,London,Flat / Apartment
+281,281,565000,Canary Wharf,E14 5SH,872,2,2,2,London,Flat / Apartment
+282,282,5850000,,SW3 6EX,3128,5,5,5,London,House
+283,283,1250000,48 Rigault Road,SW6 4JJ,1201,2,2,2,London,Flat / Apartment
+284,284,1800000,Prince of Wales Drive,SW11 4HA,1453,3,3,3,London,Flat / Apartment
+285,285,1495000,New Road,N8 8TA,1781,4,4,4,London,New development
+286,286,3100000,,SW8 1QA,3800,8,8,8,London,House
+287,287,1050000,Wimbledon,SW19 8LU,1831,3,3,3,London,Flat / Apartment
+288,288,1850000,Wimbledon,SW19 7JG,2503,5,5,5,London,House
+289,289,730000,,N7 7FF,1061,3,3,3,London,Flat / Apartment
+290,290,2900000, Surbiton,KT6 5EY,5896,7,7,7,Surrey,House
+291,291,650000,,SW17 7AP,736,2,2,2,London,Flat / Apartment
+292,292,2100000,Barnes,SW13 0AJ,2438,5,5,5,London,House
+293,293,2250000,Barnes,SW13 0NT,2600,5,5,5,London,House
+294,294,1695000,,SW11 6QT,1867,5,5,5,London,House
+295,295,1375000,Wimbledon,SW20 0SB,1884,4,4,4,London,House
+296,296,1400000,Wandsworth,SW18 2DT,2138,5,5,5,London,House
+297,297,635000,Putney,SW15 2RR,927,2,2,2,London,Flat / Apartment
+298,298,2995000,,WC2H 9DL,1845,3,3,3,London,Penthouse
+299,299,1000000,,W13 8HQ,1758,4,4,4,Ealing,House
+300,300,449950,South Hackney,E9 7SX,526,2,2,2,London,Flat / Apartment
+301,301,425000,Shannon Place,NW8 7DP,474,1,1,1,London,Flat / Apartment
+302,302,650000, Coulsdon,CR5 3SD,1783,3,3,3,Surrey,House
+303,303,1795000,Putney,SW15 6NH,1902,3,3,3,London,House
+304,304,1600000,Primrose Hill,NW1 8TU,801,2,2,2,London,Flat / Apartment
+305,305,1750000,Kensington Park Gardens,W11 3HA,1002,3,3,3,London,Flat / Apartment
+306,306,2050000,,SW11 6LX,2275,5,5,5,London,House
+307,307,1150000,,SW11 1BW,1371,3,3,3,London,Flat / Apartment
+308,308,995000,,SW7 2TB,2446,5,5,5,London,House
+309,309,1900000,Islington,N1 2LD,1703,5,5,5,London,House
+310,310,675000,23 Wenlock Road,N1 7SJ,792,1,1,1,London,Flat / Apartment
+311,311,1500000, Hackney,E2 8HN,1273,3,3,3,London,New development
+312,312,620000, Holloway,N7 0JN,786,2,2,2,London,New development
+313,313,650000,De Beauvoir,N1 5PH,747,2,2,2,London,Flat / Apartment
+314,314,500000,Knighten Street,E1W 1PW,663,1,1,1,London,Flat / Apartment
+315,315,1395000,,SW2 4HF,2006,5,5,5,London,House
+316,316,2950000,,W6 9AJ,3597,4,4,4,London,House
+317,317,765000,Carlton Drive,SW15 2BS,841,2,2,2,London,New development
+318,318,1600000,Barnes,SW13 0AH,1854,4,4,4,London,House
+319,319,975000,,SW11 2JB,1126,3,3,3,London,House
+320,320,1699999,Battersea,SW11 4RF,2119,5,5,5,London,House
+321,321,950000,Battersea,SW11 4PU,1294,4,4,4,London,Flat / Apartment
+322,322,2150000,Paddington,W2 1JG,1582,3,3,3,London,House
+323,323,2950000,St James's,SW1Y 5JH,1840,2,2,2,London,Penthouse
+324,324,1500000,Fulham,SW6 2HJ,1115,3,3,3,London,House
+325,325,650000,Asher Way,E1W 2JB,882,2,2,2,London,Flat / Apartment
+326,326,950000,,SW16 2UW,1700,4,4,4,London,House
+327,327,625000,,SW12 8DG,663,2,2,2,London,Flat / Apartment
+328,328,4825000,Oxshott,KT22 0QE,10475,7,7,7,Surrey,House
+329,329,1575000,Barnes,SW13 9JG,1983,4,4,4,London,House
+330,330,2550000,,SW3 4AR,1266,3,3,3,London,House
+331,331,525000,Battersea,SW11 2JB,707,2,2,2,London,Flat / Apartment
+332,332,775000,South Hackney,E9 7TT,967,2,2,2,London,Flat / Apartment
+333,333,3250000,Putney,SW15 1JR,2210,3,3,3,London,House
+334,334,775000,Pinner,HA5 3TT,1459,4,4,4,Middlesex,Bungalow
+335,335,1775000,,SW11 6AQ,2153,5,5,5,London,House
+336,336,3250000,Hampstead,NW3 3HL,2543,5,5,5,London,House
+337,337,700000,59 Lurline Gardens,SW11 4DF,797,2,2,2,London,Flat / Apartment
+338,338,595000,,W5 3RP,760,2,2,2,London,Flat / Apartment
+339,339,525000,Putney,SW15 2QU,540,1,1,1,London,Flat / Apartment
+340,340,2450000,Wimbledon,SW20 8PA,3007,6,6,6,London,House
+341,341,550000,Wimbledon,SW19 3HH,538,2,2,2,London,House
+342,342,3950000,Wimbledon,SW19 4UF,6186,6,6,6,London,House
+343,343,600000,,SW18 2QF,1024,1,1,1,London,Flat / Apartment
+344,344,1450000, Wandsworth,SW18 1BX,1984,5,5,5,London,House
+345,345,5750000,Belgravia,SW1W 0JA,2896,3,3,3,London,House
+346,346,7500000,,SW7 1BX,1793,2,2,2,London,Flat / Apartment
+347,347,180000, Bow,E3 3AN,745,2,2,2,London,Flat / Apartment
+348,348,699950,Richmond,TW9 2AW,909,3,3,3,Surrey,House
+349,349,665000, Richmond,TW10 6PW,935,3,3,3,Surrey,Flat / Apartment
+350,350,210000, Putney,SW15 3HJ,328,0,0,0,London,Studio
+351,351,1550000,Northwood,HA6 2TG,3112,5,5,5,Middlesex,House
+352,352,865000,,HA6 1AR,1292,3,3,3,Northwood,House
+353,353,18000000,Mayfair,W1K 2NP,8315,7,7,7,London,House
+354,354,1100000,Woodford Green,IG8 0PP,3153,5,5,5,Essex,House
+355,355,2850000,Islington,N1 1BJ,2857,5,5,5,London,House
+356,356,1150000,Islington,N1 1HT,1074,3,3,3,London,Flat / Apartment
+357,357,550000, Hackney,E2 8HN,414,1,1,1,London,Penthouse
+358,358,690000, Hackney,E2 8HN,596,1,1,1,London,New development
+359,359,995000,Fortune Green,NW2 2BX,999,2,2,2,London,Flat / Apartment
+360,360,575000, Esher,KT10 9QS,1029,3,3,3,Surrey,Penthouse
+361,361,334950, Claygate,KT10 0RB,477,1,1,1,Surrey,Flat / Apartment
+362,362,1000000,Putney,SW15 2FU,962,2,2,2,London,Penthouse
+363,363,750000,Thames Ditton,KT7 0QX,1510,3,3,3,Surrey,House
+364,364,2100000,Surbiton,KT6 6JN,3596,5,5,5,Surrey,New development
+365,365,1299000, East Molesey,KT8 9DX,1903,4,4,4,Surrey,New development
+366,366,1900000,,SW14 7LQ,2358,4,4,4,London,House
+367,367,1295000,East Sheen,SW14 8DB,1813,4,4,4,London,House
+368,368,1280000,Star Place,E1W 1AE,1169,2,2,2,London,Flat / Apartment
+369,369,1425000, Chiswick,W4 3LL,2028,4,4,4,London,House
+370,370,1795000,Barnes,SW13 0EX,1720,4,4,4,London,House
+371,371,1125000,Battersea,SW11 2QD,1423,4,4,4,London,House
+372,372,945000,110 Battersea Park Road,SW11 4LZ,1001,2,2,2,London,Flat / Apartment
+373,373,3150000,Battersea,SW11 4PR,2809,5,5,5,London,House
+374,374,699950,Highbury,N5 2NP,920,2,2,2,London,Flat / Apartment
+375,375,1275000,Chiswick,W4 1BY,1420,4,4,4,London,House
+376,376,3750000,,SW10 0HX,2428,3,3,3,London,House
+377,377,460000,Abbey Road,NW8 9AB,431,1,1,1,London,Flat / Apartment
+378,378,6795000,St John's Wood,NW8 9JE,4637,6,6,6,London,House
+379,379,1695000,Putney,SW15 1QD,2096,4,4,4,London,House
+380,380,1050000,Loughton,IG10 1PX,2254,5,5,5,Essex,House
+381,381,15950000,,SW3 2ED,4090,4,4,4,London,House
+382,382,900000,Grays Inn,WC1X 9HF,769,2,2,2,London,Flat / Apartment
+383,383,6950000,,SW5 0AY,3001,4,4,4,London,Flat / Apartment
+384,384,1200000, Barnes,SW13 0NS,1155,3,3,3,London,Flat / Apartment
+385,385,399995,,SE3 7PE,990,3,3,3,Blackheath,Flat / Apartment
+386,386,1100000,South Hackney,E9 7AH,1607,4,4,4,London,House
+387,387,650000,Kingsland Road,E2 8AG,646,2,2,2,London,New development
+388,388,2950000,East Sheen,SW14 7AP,3716,5,5,5,London,House
+389,389,600000,,SW11 5BX,953,3,3,3,London,House
+390,390,2450000, Fulham,SW6 2JE,2313,4,4,4,London,House
+391,391,775000,,SW18 2EN,939,2,2,2,London,Flat / Apartment
+392,392,625000, St John's Wood,NW8 9EL,652,2,2,2,London,Flat / Apartment
+393,393,295000,Regent's Park,NW1 4HR,344,0,0,0,London,Studio
+394,394,2350000,St John's Wood,NW8 6JJ,1519,4,4,4,London,House
+395,395,1999995,Shoreditch,E2 7BX,1935,5,5,5,London,House
+396,396,2250000,,SW1X 8RS,1299,3,3,3,London,House
+397,397,550000,Richmond,TW9 1UA,582,2,2,2,Surrey,Flat / Apartment
+398,398,499000,Camden,NW1 9RN,451,1,1,1,London,Flat / Apartment
+399,399,850000,,SW11 1TH,1339,3,3,3,London,Flat / Apartment
+400,400,950000,Woodford Green,IG8 8RZ,1857,4,4,4,Essex,House
+401,401,799999, Epping,CM16 7JN,1507,4,4,4,Essex,House
+402,402,2500000,,SW1W 8JR,1340,3,3,3,London,House
+403,403,6450000,Belgravia,SW1W 8EZ,3336,5,5,5,London,House
+404,404,2250000,,W2 4HU,1765,2,2,2,London,Penthouse
+405,405,2500000,,W8 6TW,1752,3,3,3,London,Flat / Apartment
+406,406,475000,3 City North Place,N4 3FQ,560,1,1,1,London,New development
+407,407,560000, Holloway,N7 0JN,657,2,2,2,London,New development
+408,408,610000, Holloway,N7 0JN,758,2,2,2,London,New development
+409,409,600000, Holloway,N7 0JN,758,2,2,2,London,New development
+410,410,615000,Imperial Wharf,SW6 2FH,797,1,1,1,Fulham,Flat / Apartment
+411,411,625000, Sheen Road,TW10 5BB,960,2,2,2,Richmond,Flat / Apartment
+412,412,600000,St. Peters Square,W6 9AW,658,1,1,1,London,Flat / Apartment
+413,413,650000, Battersea,SW11 4BT,848,2,2,2,London,Flat / Apartment
+414,414,1285000,Richmond,TW9 2TF,1476,3,3,3,Surrey,House
+415,415,1795000,Kentish Town,NW5 1AJ,1824,5,5,5,London,House
+416,416,825000,Fulham,SW6 1QR,843,2,2,2,London,Flat / Apartment
+417,417,2350000,,SW2 4NX,3180,6,6,6,London,House
+418,418,2350000,Old Street,N1 7LG,2577,3,3,3,London,Flat / Apartment
+419,419,2500000,,SW7 4JA,1498,2,2,2,London,Flat / Apartment
+420,420,675000,,SW17 8AY,946,3,3,3,London,Flat / Apartment
+421,421,4650000,Oxshott,KT22 0PN,7996,6,6,6,Surrey,House
+422,422,1695000, Uxbridge,UB9 6LU,6356,6,6,6,Middlesex,House
+423,423,1050000,,SW4 0JT,976,2,2,2,The Metal Works,Flat / Apartment
+424,424,1200000, Belsize Park,NW3 4UR,932,2,2,2,London,Flat / Apartment
+425,425,625000,,SW6 6TA,663,2,2,2,London,Flat / Apartment
+426,426,649950,Walton-on-Thames,KT12 2AE,1378,4,4,4,Surrey,House
+427,427,450000,330 Garratt Lane,SW18 4FR,600,2,2,2,London,Flat / Apartment
+428,428,3450000,Fulham,SW6 3SR,3070,5,5,5,London,House
+429,429,995000,Pimlico,SW1V 4QE,908,2,2,2,London,Flat / Apartment
+430,430,795000,Wimbledon,SW19 7DN,1536,3,3,3,London,Flat / Apartment
+431,431,1775000,Wimbledon,SW19 8LF,2336,5,5,5,London,House
+432,432,1295000, Walton-on-Thames,KT12 5LJ,2371,5,5,5,Surrey,House
+433,433,975000,Richmond,TW10 7BF,1201,3,3,3,Surrey,House
+434,434,1100000,Coulsdon,CR5 3EZ,3185,5,5,5,Surrey,House
+435,435,549950,Putney,SW15 1DS,730,1,1,1,London,Flat / Apartment
+436,436,295000,,SW4 9HU,277,0,0,0,London,Studio
+437,437,2600000,Little Venice,W9 1AZ,1779,3,3,3,London,Flat / Apartment
+438,438,700000,Woodford Green,IG8 8AZ,1441,4,4,4,Essex,House
+439,439,3950000,Knightsbridge,SW1X 0AX,1917,1,1,1,London,House
+440,440,1500000,,N7 8LS,1666,3,3,3,London,House
+441,441,1350000,Highbury,N5 1EH,1629,4,4,4,London,House
+442,442,900000,,N1 3NU,1069,2,2,2,London,Flat / Apartment
+443,443,2750000,Islington,N7 8PN,2500,5,5,5,London,House
+444,444,699500, London,N7 6RG,990,2,2,2,N7 6QX,New development
+445,445,799950,Hampstead,NW3 1LD,770,2,2,2,London,Flat / Apartment
+446,446,2895000, Fulham,SW6 4AL,2730,5,5,5,London,House
+447,447,799950,Queens Club Gardens,W14 9SF,940,3,3,3,London,Flat / Apartment
+448,448,2250000,Fulham,SW6 2TB,2949,6,6,6,London,House
+449,449,1125000, Esher,KT10 0TF,2495,5,5,5,Surrey,House
+450,450,2020000, Earls Court,SW6 1UE,1262,3,3,3,London,New development
+451,451,975000,Tooting,SW17 0EG,1308,4,4,4,London,House
+452,452,1595000,,SW17 8RN,2790,6,6,6,London,House
+453,453,850000, Clerkenwell,EC1V 8BG,978,3,3,3,London,Flat / Apartment
+454,454,570000,,W12 9BD,682,2,2,2,London,Flat / Apartment
+455,455,2400000,Highgate,N6 4AA,2411,4,4,4,London,House
+456,456,475000, Greenwich,SE10 9FJ,496,1,1,1,London,Flat / Apartment
+457,457,800000,Richmond,TW10 6QH,734,2,2,2,Surrey,Flat / Apartment
+458,458,950000, Coulsdon,CR5 3PG,3006,5,5,5,Surrey,House
+459,459,1200000,Putney,SW15 4HH,1934,4,4,4,London,House
+460,460,3250000,Wimbledon,SW19 7DP,4370,6,6,6,London,House
+461,461,2375000,Islington,N1 0RD,2153,3,3,3,London,House
+462,462,650000,Shannon Place,NW8 7DN,595,2,2,2,London,Flat / Apartment
+463,463,1295000,Putney,SW15 2DS,876,4,4,4,London,House
+464,464,1000000,Putney,SW15 1PD,905,2,2,2,London,House
+465,465,1885000,Prince of Wales Drive,SW11 4DL,1675,4,4,4,London,Flat / Apartment
+466,466,635000,,SW19 4HS,797,2,2,2,London,Flat / Apartment
+467,467,3495000, Wimbledon,SW20 8TG,4420,6,6,6,London,New development
+468,468,1200000, Wandsworth,SW18 1AL,1378,3,3,3,London,House
+469,469,1200000, Wandsworth,SW18 3TF,1751,4,4,4,London,House
+470,470,1600000,Wandsworth,SW18 2DZ,2330,5,5,5,London,House
+471,471,799000,Putney,SW15 2EX,1214,3,3,3,London,House
+472,472,850000,Putney,SW15 2DZ,876,2,2,2,London,Flat / Apartment
+473,473,500000, Northwood,HA6 3NL,872,2,2,2,Middlesex,Flat / Apartment
+474,474,2500000,Marylebone,W1H 2JR,1323,3,3,3,London,House
+475,475,3950000,Hyde Park,W2 2AS,2547,4,4,4,London,House
+476,476,2995000,,SW1W 0JA,1393,3,3,3,London,House
+477,477,995000,,SW10 9JJ,888,1,1,1,London,Flat / Apartment
+478,478,2250000,,N1 8BA,1857,4,4,4,London,House
+479,479,749950,,N1 6JB,855,2,2,2,London,Flat / Apartment
+480,480,420000, Holloway,N7 0JN,538,1,1,1,London,New development
+481,481,424995,Hackney,E8 3AA,422,1,1,1,London,Flat / Apartment
+482,482,2150000,East Heath Road,NW3 1BP,2074,4,4,4,London,Flat / Apartment
+483,483,1500000,Fulham,SW6 7AB,1645,3,3,3,London,House
+484,484,1575000,,SW12 8LQ,2115,4,4,4,London,House
+485,485,1500000,,SW12 8RR,2242,5,5,5,London,House
+486,486,550000, Canary Wharf,E14 9RT,600,1,1,1,London,Flat / Apartment
+487,487,475000,Clerkenwell,WC1X 0EG,381,1,1,1,London,Flat / Apartment
+488,488,595000,Edith Terrace,SW10 0TL,791,2,2,2,London,Flat / Apartment
+489,489,2250000,Barnes,SW13 9PR,2937,6,6,6,London,House
+490,490,755000,,SW6 5LN,907,3,3,3,London,Flat / Apartment
+491,491,900000,Battersea,SW11 3ND,1218,3,3,3,London,Flat / Apartment
+492,492,1990000,St. James's,SW1E 6LB,1560,2,2,2,London,Flat / Apartment
+493,493,1195000,Wimbledon,SW19 8SZ,1464,3,3,3,London,House
+494,494,450000,,SW18 4EE,696,2,2,2,London,Flat / Apartment
+495,495,325000,Victoria Park,E9 5HP,339,1,1,1,London,Flat / Apartment
+496,496,1150000,,E9 5SL,1541,4,4,4,London,House
+497,497,850000, Putney,SW15 6AR,1456,2,2,2,London,Flat / Apartment
+498,498,879000, Putney,SW15 1PP,1004,2,2,2,London,New development
+499,499,1295000,,SW11 1QB,1875,5,5,5,London,House
+500,500,575000,Nightingale Lane,SW12 8AH,695,2,2,2,London,Flat / Apartment
+501,501,4100000,Mayfair,W1K 6RG,1496,2,2,2,London,Flat / Apartment
+502,502,1800000,Islington,N1 3BD,1919,3,3,3,London,House
+503,503,649950,52 Holloway Road,N7 8BW,804,2,2,2,London,Flat / Apartment
+504,504,899950,West Hampstead,NW6 1HR,1143,2,2,2,London,Flat / Apartment
+505,505,1999950,,SW6 4PS,1848,3,3,3,London,New development
+506,506,1995000,Surbiton,KT6 6JN,3510,5,5,5,Surrey,New development
+507,507,1595000,Kensington,SW7 5RR,1170,2,2,2,London,Flat / Apartment
+508,508,499000,Mayflower Street,SE16 4JL,690,2,2,2,London,New development
+509,509,3410000,Riverside Quarter,SW18 1PP,2852,4,4,4,London,Penthouse
+510,510,6750000,,SW7 3QB,2823,5,5,5,London,Flat / Apartment
+511,511,2850000,,SW7 3BT,1724,3,3,3,London,House
+512,512,1895000,,SW7 3PE,1474,3,3,3,London,Flat / Apartment
+513,513,1650000,Fulham,SW6 6RB,1756,4,4,4,London,House
+514,514,1225000,Fulham,W6 8NQ,1806,4,4,4,London,House
+515,515,1100000,,W12 7HG,2145,5,5,5,London,House
+516,516,1095000,Wimbledon,SW19 4PA,950,2,2,2,London,House
+517,517,2395000,Kingston upon Thames,KT2 7LN,3498,5,5,5,Surrey,House
+518,518,550000, Wimbledon,SW20 8JB,904,2,2,2,London,Flat / Apartment
+519,519,1500000, Wandsworth,SW18 3DA,2583,5,5,5,London,House
+520,520,750000, Wandsworth,SW18 1AS,911,2,2,2,London,Flat / Apartment
+521,521,1150000, Wandsworth,SW18 3BN,1822,5,5,5,London,House
+522,522,665000,Shannon Place,NW8 7DP,647,2,2,2,London,Flat / Apartment
+523,523,1250000,St. John's Wood,NW8 9UJ,1036,2,2,2,London,Flat / Apartment
+524,524,1895000,Richmond,TW9 2PE,2564,5,5,5,Surrey,House
+525,525,600000,70 Webb's Road,SW11 6SE,632,2,2,2,London,Flat / Apartment
+526,526,700000,,SW11 6JX,946,2,2,2,London,Flat / Apartment
+527,527,2450000,Clapham,SW11 6ES,3020,6,6,6,London,House
+528,528,1750000,,SW1X 9HA,853,2,2,2,London,Flat / Apartment
+529,529,895000,Islington,N1 7EG,1033,3,3,3,London,New development
+530,530,1000000, Hampstead,NW3 1DD,884,1,1,1,London,Flat / Apartment
+531,531,2300000,Fulham,SW6 2HH,2124,4,4,4,London,House
+532,532,375000,Ealing,W5 2QS,444,1,1,1,London,Flat / Apartment
+533,533,2150000,Esher,KT10 8PY,3177,5,5,5,Surrey,House
+534,534,785000, Esher,KT10 0HG,1474,3,3,3,Surrey,New development
+535,535,725000,,SW6 1EY,591,1,1,1,London,New development
+536,536,2850000,Richmond,TW10 5AL,5130,7,7,7,Surrey,House
+537,537,5950000,Oxshott,KT22 0SW,11716,6,6,6,Surrey,New development
+538,538,985000,Thirleby Road,SW1P 1HN,1140,2,2,2,London,Flat / Apartment
+539,539,585000,,SW18 2ND,795,2,2,2,London,Flat / Apartment
+540,540,995000,Wandsworth,SW18 2DG,1993,5,5,5,London,House
+541,541,550000, Shoreditch,E2 6DE,666,2,2,2,London,Flat / Apartment
+542,542,7300000,Belgravia,SW1W 9DH,2230,3,3,3,London,Flat / Apartment
+543,543,1250000,Primrose Hill,NW3 3DR,885,2,2,2,London,Flat / Apartment
+544,544,3750000,Hyde Park Estate,W2 2SA,2396,4,4,4,London,House
+545,545,430000,Clapham Common North Side,SW4 0AB,514,1,1,1,London,Studio
+546,546,830000,Clapham Common North Side,SW4 0AB,891,2,2,2,London,Flat / Apartment
+547,547,1100000,Fitzrovia,W1T 3BJ,635,1,1,1,London,Flat / Apartment
+548,548,3100000,Covent Garden,WC2N 6LU,1410,3,3,3,London,New development
+549,549,925000,,W8 4HH,706,1,1,1,London,Flat / Apartment
+550,550,2650000,Highbury,N5 2JA,3319,6,6,6,London,House
+551,551,450000,Hurlock Street,N5 1EU,569,2,2,2,London,Flat / Apartment
+552,552,650000,Hackney,E8 3GT,720,2,2,2,London,Flat / Apartment
+553,553,799950, West Hampstead,NW6 1JY,956,2,2,2,London,Flat / Apartment
+554,554,1250000, Fulham,SW6 2SD,1209,2,2,2,London,Penthouse
+555,555,2995000,Esher,KT10 9TW,5614,6,6,6,Surrey,House
+556,556,2250000,Esher,KT10 9LU,3661,4,4,4,Surrey,House
+557,557,2995000,Esher,KT10 9TT,7087,7,7,7,Surrey,House
+558,558,1100000, East Molesey,KT8 9DX,1629,3,3,3,Surrey,New development
+559,559,3350000,Richmond,TW10 5BP,3770,6,6,6,Surrey,House
+560,560,775000,Clerkenwell,EC1V 4LD,810,1,1,1,London,Flat / Apartment
+561,561,800000,Acton,W3 8AN,1080,3,3,3,London,House
+562,562,1850000,Barnes,SW13 0EH,1735,4,4,4,London,House
+563,563,1500000,Barnes,SW13 0PG,1108,3,3,3,London,House
+564,564,1695000,,W12 9SJ,2147,5,5,5,London,House
+565,565,750000, Battersea,SW11 8EU,686,1,1,1,London,Flat / Apartment
+566,566,1985000, Battersea,SW11 4BW,1492,3,3,3,London,Flat / Apartment
+567,567,1100000,St. John's Wood,NW8 9UJ,1125,2,2,2,London,Flat / Apartment
+568,568,650000,Clerkenwell,EC1V 3PA,674,2,2,2,London,Flat / Apartment
+569,569,4500000,Belgravia,SW1W 8PG,2145,3,3,3,London,House
+570,570,4750000,Notting Hill,W2 5PH,2552,4,4,4,London,New development
+571,571,995000,Buckhurst Hill,IG9 5NP,1706,5,5,5,Essex,House
+572,572,2150000,Highgate,N6 4RT,2172,3,3,3,London,House
+573,573,695000,Ealing,W5 2HT,964,2,2,2,London,Flat / Apartment
+574,574,575000,,W14 9HA,573,2,2,2,London,Flat / Apartment
+575,575,1950000,,SW5 0HQ,966,2,2,2,London,Flat / Apartment
+576,576,2000000,,SW14 8RW,2365,4,4,4,London,House
+577,577,1100000,Star Place,E1W 1AB,816,2,2,2,London,Flat / Apartment
+578,578,1550000,,SW17 8RL,2500,5,5,5,London,House
+579,579,649999,211-227 Hackney Road,E2 8NA,569,1,1,1,London,New development
+580,580,1500000,Chiswick,W4 5JR,1868,5,5,5,London,House
+581,581,725000,Hartington Road,W4 3UQ,960,3,3,3,London,House
+582,582,785000,,SW6 7TP,739,2,2,2,London,Flat / Apartment
+583,583,400000,South Hackney,E9 7DS,491,1,1,1,London,Flat / Apartment
+584,584,1395000,Northwood,HA6 3RD,2141,4,4,4,Middlesex,House
+585,585,799950,Northwood,HA6 3PS,1519,4,4,4,Middlesex,House
+586,586,975000,Chigwell,IG7 6JD,2169,3,3,3,Essex,Bungalow
+587,587,4750000,Belgravia,SW1X 9RP,2157,4,4,4,London,House
+588,588,899950,,N5 2ET,947,2,2,2,London,Flat / Apartment
+589,589,925000,Islington,N1 1EA,931,2,2,2,London,Flat / Apartment
+590,590,1800000,Fulham,SW6 3RB,1776,5,5,5,London,House
+591,591,2950000,Fulham,SW6 3SW,3144,6,6,6,London,House
+592,592,795000, Fulham,SW6 2FS,825,2,2,2,London,New development
+593,593,795000, Imperial Wharf,SW6 2GZ,798,2,2,2,London,Flat / Apartment
+594,594,499999, Longfield Avenue,W5 2QY,452,1,1,1,London,Flat / Apartment
+595,595,1450000,Surbiton,KT6 5BX,2523,4,4,4,Surrey,House
+596,596,780000,,SW6 1FU,558,1,1,1,London,New development
+597,597,398000,Ashton Reach,SE16 7EP,461,1,1,1,London,New development
+598,598,570000,,SE17 3BZ,680,2,2,2,London,Flat / Apartment
+599,599,625000,,SW17 0TR,1007,2,2,2,London,House
+600,600,1150000,Barnes,SW13 0PT,1259,3,3,3,London,House
+601,601,655000,Clerkenwell,EC1V 3PA,703,2,2,2,London,Flat / Apartment
+602,602,375000,Hoxton,N1 5JQ,482,1,1,1,London,Flat / Apartment
+603,603,2395000,Primrose Hill,NW3 3AG,2221,4,4,4,London,House
+604,604,670000,,SW11 1ES,614,2,2,2,London,Flat / Apartment
+605,605,1450000,,SW11 6JZ,1792,5,5,5,London,House
+606,606,1750000,Fitzrovia,W1T 6NG,2203,3,3,3,London,Flat / Apartment
+607,607,2250000,,SW1X 8EA,1673,3,3,3,London,House
+608,608,1295000,,N1 1LA,1424,3,3,3,London,Penthouse
+609,609,1750000,,SW14 8JH,2435,4,4,4,London,House
+610,610,700000,,SW12 9NL,707,2,2,2,London,Flat / Apartment
+611,611,2100000,Barnes,SW13 9RE,2137,5,5,5,London,House
+612,612,775000,Battersea,SW11 2DT,1414,4,4,4,London,House
+613,613,1575000,Wandsworth,SW18 2DX,2379,5,5,5,London,House
+614,614,650000,27 Frampton Park Road,E9 7PQ,1091,3,3,3,London,Flat / Apartment
+615,615,8750000,6 Campden Hill,W8 7AD,2755,3,3,3,London,New development
+616,616,775000, Richmond,TW9 1QQ,705,2,2,2,Surrey,Flat / Apartment
+617,617,975000,Northwood,HA6 3AJ,1200,3,3,3,Middlesex,House
+618,618,699999,5 Danvers Avenue,SW11 1AN,878,2,2,2,London,New development
+619,619,2250000,,SW14 8RW,2344,5,5,5,London,House
+620,620,1750000,East Sheen,SW14 8JQ,2540,5,5,5,London,House
+621,621,1380000,Chiswick,W4 3LH,1737,5,5,5,London,House
+622,622,1595000,Oxshott,KT22 0SS,3069,5,5,5,Surrey,House
+623,623,5500000,Barnes,SW13 9EL,4666,7,7,7,London,House
+624,624,3050000,Wimbledon,SW19 4HF,3717,5,5,5,London,House
+625,625,2350000,Wimbledon,SW19 4HU,3594,5,5,5,London,House
+626,626,1600000,Barts Square,EC1A 7BD,1018,2,2,2,City Of London,New development
+627,627,6950000,,SW3 2RJ,1840,3,3,3,London,Flat / Apartment
+628,628,5250000,Knightsbridge,SW3 2EF,2026,3,3,3,London,Flat / Apartment
+629,629,3375000,Knightsbridge,SW1X 9HD,913,2,2,2,London,Flat / Apartment
+630,630,1700000,13-15 St. Petersburgh Place,W2 4JZ,1138,3,3,3,London,Flat / Apartment
+631,631,4650000,Mayfair,W1S 1NR,2231,4,4,4,London,Penthouse
+632,632,2100000, Mayfair,W1K 7JB,1074,2,2,2,London,Flat / Apartment
+633,633,7950000,,SW7 1DX,3247,4,4,4,London,House
+634,634,390000,2  City North Place,N4 3FS,506,1,1,1,London,New development
+635,635,1650000,,SW6 7BN,1684,4,4,4,London,House
+636,636,2000000,Earl's Court,SW5 0ER,1997,4,4,4,London,Flat / Apartment
+637,637,1225000,Richmond,TW10 5DY,1633,4,4,4,Surrey,House
+638,638,1585000,,SW12 8LW,2055,4,4,4,London,House
+639,639,4250000,Wandsworth,SW18 3SN,4774,7,7,7,London,House
+640,640,3950000,,SW10 9UG,2815,4,4,4,London,House
+641,641,6500000,,SW13 0JF,5196,6,6,6,London,House
+642,642,985000,Putney,SW18 1FQ,1295,3,3,3,London,Flat / Apartment
+643,643,1500000,Pimlico,SW1V 2LX,1275,3,3,3,London,Flat / Apartment
+644,644,465000,,SW1E 6PA,543,1,1,1,London,Flat / Apartment
+645,645,950000,Wimbledon,SW19 8PR,1357,3,3,3,London,House
+646,646,699950, Wimbledon,SW19 4RD,786,2,2,2,London,Flat / Apartment
+647,647,725000,Wandsworth,SW18 2QE,1134,2,2,2,London,Flat / Apartment
+648,648,465000,Shannon Place,NW8 7DP,473,1,1,1,London,Flat / Apartment
+649,649,500000,Abbey Road,NW8 9AB,451,1,1,1,London,Flat / Apartment
+650,650,5750000,Knightsbridge,SW7 1PJ,2524,3,3,3,London,Flat / Apartment
+651,651,5450000,60 Brompton Road,SW3 1BW,1650,2,2,2,London,Flat / Apartment
+652,652,775000,,TW1 4ET,1169,3,3,3,Twickenham,House
+653,653,550000,Richmond,TW10 6LN,676,2,2,2,Surrey,Flat / Apartment
+654,654,1500000, Coulsdon,CR5 3QN,4023,7,7,7,Surrey,House
+655,655,775000,Putney,SW18 1GN,820,2,2,2,London,Flat / Apartment
+656,656,699950, Putney,SW15 6TR,907,2,2,2,London,Penthouse
+657,657,1550000,,SW11 5SW,2052,4,4,4,London,House
+658,658,1850000,,SW17 7HG,3247,7,7,7,London,House
+659,659,249999,Streatham Hill,SW2 4ST,458,1,1,1,London,Flat / Apartment
+660,660,3300000,Little Venice,W9 1SZ,3448,4,4,4,London,House
+661,661,1600000,Fitzrovia,W1T 3BJ,1402,2,2,2,London,Flat / Apartment
+662,662,1790000, Fitzrovia,W1W 6RP,890,2,2,2,London,Penthouse
+663,663,4950000, Marylebone,W1H 7HB,2817,6,6,6,London,Flat / Apartment
+664,664,2250000,,W1K 6RG,987,2,2,2,London,Flat / Apartment
+665,665,2650000,Mayfair,W1K 6RG,1027,2,2,2,London,Flat / Apartment
+666,666,1000000,Buckhurst Hill,IG9 5JG,2000,4,4,4,Essex,House
+667,667,1250000,Loughton,IG10 1SD,2244,4,4,4,Essex,House
+668,668,990000,82-88 Fulham High Street,SW6 3LF,820,2,2,2,London,New development
+669,669,1650000, Smithfield Market,EC1A 9DS,1259,3,3,3,London,New development
+670,670,765000,10 Gatliff Road,SW1W 8QL,618,1,1,1,London,New development
+671,671,1100000, Shoreditch,N1 5EA,1095,2,2,2,London,Flat / Apartment
+672,672,474950,Hackney,E8 4BS,540,1,1,1,London,Flat / Apartment
+673,673,2450000,Hampstead,NW3 2PS,1879,3,3,3,London,Penthouse
+674,674,650000, Hampstead,NW3 7AT,668,1,1,1,London,Flat / Apartment
+675,675,499950,,W5 2HT,603,1,1,1,London,Flat / Apartment
+676,676,449950,,W5 2HT,539,1,1,1,London,Flat / Apartment
+677,677,1349950,Esher,KT10 0QQ,2986,5,5,5,Surrey,House
+678,678,1350000,East Molesey,KT8 9JS,1890,4,4,4,Surrey,House
+679,679,375000, Barwell Lane,KT9 2LZ,961,2,2,2,Chessington,Flat / Apartment
+680,680,625000,Esher,KT10 9EA,968,3,3,3,Surrey,House
+681,681,2250000,East Molesey,KT8 0SX,4312,5,5,5,Surrey,House
+682,682,2350000,Esher,KT10 9TU,3861,5,5,5,Surrey,House
+683,683,900000,Esher,KT10 0AU,1437,3,3,3,Surrey,House
+684,684,395000,,SW7 4BE,734,2,2,2,London,Flat / Apartment
+685,685,1000000,4 Woodland Crescent,SE16 6YG,1539,2,2,2,London,Penthouse
+686,686,825000,,SW12 0HF,1517,3,3,3,London,Flat / Apartment
+687,687,1600000,,SW17 8ER,2340,5,5,5,London,House
+688,688,1250000, Clerkenwell,EC1N 8QX,1085,2,2,2,London,Flat / Apartment
+689,689,1100000,Chiswick,W4 2HQ,1112,3,3,3,London,House
+690,690,1200000,Chiswick,W4 1AL,1517,4,4,4,London,House
+691,691,4000000,Barnes,SW13 9EX,5108,5,5,5,London,House
+692,692,1250000, Barnes,SW13 0JE,1952,3,3,3,London,House
+693,693,430000,,W14 8SN,477,1,1,1,London,Flat / Apartment
+694,694,635000,,W6 7QB,556,2,2,2,London,Flat / Apartment
+695,695,1000000,,W12 7GS,960,2,2,2,London,New development
+696,696,420000,,W12 8EE,783,2,2,2,London,Flat / Apartment
+697,697,699950,Prince of Wales Drive,SW11 4BG,816,2,2,2,London,Flat / Apartment
+698,698,585000,Prince of Wales Drive,SW11 4EE,552,1,1,1,London,Flat / Apartment
+699,699,800000,Battersea,SW11 2JA,1148,3,3,3,London,House
+700,700,375000, Walton-on-Thames,KT12 4PW,880,3,3,3,Surrey,House
+701,701,1450000,Wandsworth,SW18 2QL,2131,4,4,4,London,House
+702,702,2000000,Wandsworth,SW18 2NX,2518,5,5,5,London,House
+703,703,995000,St John's Wood,NW8 0EN,814,2,2,2,London,Flat / Apartment
+704,704,3250000,Piccadilly,W1J 0AX,917,2,2,2,London,Flat / Apartment
+705,705,4495000,Richmond,TW9 1PX,4063,6,6,6,Surrey,House
+706,706,1350000,Northwood,HA6 3ER,2912,4,4,4,Middlesex,Bungalow
+707,707,875000,Marylebone,W1G 6PY,570,2,2,2,London,Flat / Apartment
+708,708,750000,Marylebone,W1U 5BS,633,2,2,2,London,Flat / Apartment
+709,709,7500000,South Kensington,SW7 2NQ,2693,4,4,4,London,House
+710,710,5950000,Stanford Road,W8 5QL,3002,4,4,4,London,Penthouse
+711,711,3750000,,SW7 5DT,1925,3,3,3,London,Flat / Apartment
+712,712,7600000, Kensington,W8 7AF,2238,3,3,3,London,New development
+713,713,565000,3 City North Place,N4 2DH,739,2,2,2,London,New development
+714,714,1435000,Islington,N1 0JA,1341,3,3,3,London,House
+715,715,1295000,,N1 8RA,1321,2,2,2,London,New development
+716,716,485000,De Beauvoir,N1 4SN,822,2,2,2,London,Flat / Apartment
+717,717,520000,East Molesey,KT8 9BH,944,2,2,2,Surrey,Flat / Apartment
+718,718,2350000,,SW14 8RU,2281,4,4,4,London,House
+719,719,1350000,,SW12 8LJ,1805,4,4,4,London,House
+720,720,545000, Battersea,SW11 2NU,691,1,1,1,London,New development
+721,721,640000, Battersea,SW11 2NU,691,2,2,2,London,New development
+722,722,545000, Battersea,SW11 2NU,577,1,1,1,London,New development
+723,723,1850000,Putney,SW15 2BS,2120,3,3,3,London,Penthouse
+724,724,1460000,Putney,SW15 2BS,1399,3,3,3,London,New development
+725,725,2200000,Barnes,SW13 0DU,2266,5,5,5,London,House
+726,726,1325000,,W6 8RB,1782,4,4,4,London,House
+727,727,3550000,Vauxhall,SW8 2BW,1862,3,3,3,London,Flat / Apartment
+728,728,1195000,Wimbledon,SW19 8SZ,1271,3,3,3,London,House
+729,729,1995000,Wimbledon,SW20 8NU,2620,5,5,5,London,House
+730,730,1585000,Wimbledon,SW19 4RP,1712,4,4,4,London,House
+731,731,2695000,Wimbledon,SW20 0EG,3924,6,6,6,London,House
+732,732,2990000,Wimbledon,SW19 4EW,3067,6,6,6,London,House
+733,733,1875000,Wandsworth,SW17 7DH,2422,5,5,5,London,House
+734,734,650000,Shannon Place,NW8 7DN,623,2,2,2,London,Flat / Apartment
+735,735,559000, Aldgate,E1 6LW,513,1,1,1,London,Flat / Apartment
+736,736,3450000,,SW1W 9DH,1441,2,2,2,London,Flat / Apartment
+737,737,2000000,Belgravia,SW1X 8DE,1520,2,2,2,London,Flat / Apartment
+738,738,1650000,Richmond,TW10 6TN,1750,4,4,4,Surrey,House
+739,739,425000, Putney,SW15 5HJ,592,1,1,1,London,Flat / Apartment
+740,740,700000,,SW18 2SL,1040,3,3,3,London,Flat / Apartment
+741,741,2200000,Marylebone,W1H 2DH,1163,3,3,3,London,Flat / Apartment
+742,742,1750000,Marylebone,W1H 4DR,1224,3,3,3,London,House
+743,743,1450000,,SW1X 8AL,765,2,2,2,London,Flat / Apartment
+744,744,3500000,Islington,N1 2HW,2216,4,4,4,London,House
+745,745,925000,,N1 0PY,1032,2,2,2,London,Flat / Apartment
+746,746,1850000,Islington,N1 2JU,1623,4,4,4,London,Flat / Apartment
+747,747,2295000,Hampstead,NW3 5JY,2039,3,3,3,London,Flat / Apartment
+748,748,925000,Hampstead,NW3 2PL,730,1,1,1,London,Flat / Apartment
+749,749,2000000,,W5 2JF,3060,5,5,5,London,House
+750,750,1350000,,SW14 7RW,1767,4,4,4,London,House
+751,751,1418000, Canary Wharf,E14 9YT,1335,3,3,3,London,New development
+752,752,1300000,Chiswick,W4 1BL,1685,4,4,4,London,House
+753,753,5350000,,SW3 5AP,2710,4,4,4,London,House
+754,754,2400000,Barnes,SW13 9RH,2425,5,5,5,London,House
+755,755,825000, Fulham,SW6 5BQ,853,3,3,3,London,Flat / Apartment
+756,756,635000,Hammersmith,W6 7PZ,634,2,2,2,London,Flat / Apartment
+757,757,935000,,W14 8HH,944,2,2,2,London,Flat / Apartment
+758,758,699950,Wimbledon,SW19 8RZ,883,2,2,2,London,House
+759,759,765000,New Malden,KT3 6LE,1500,4,4,4,Surrey,House
+760,760,1250000,Walton-on-Thames,KT12 1LL,2502,5,5,5,Surrey,House
+761,761,725000, Putney,SW15 1PP,784,2,2,2,London,New development
+762,762,1350000,Notting Hill,W11 2LB,628,1,1,1,London,Flat / Apartment
+763,763,1200000,,SW17 7PX,1746,5,5,5,London,House
+764,764,970000,,SW6 3LF,810,2,2,2,82-88 Fulham High Street,New development
+765,765,650000,82-88 Fulham High Street,SW6 3LF,560,1,1,1,London,New development
+766,766,750000,Chelsea,SW3 4TQ,599,1,1,1,London,Flat / Apartment
+767,767,500000,,N1 7FP,566,1,1,1,London,New development
+768,768,825000,158 Northchurch Road,N1 3FL,1226,2,2,2,London,Penthouse
+769,769,975000,,SW6 6RA,1386,3,3,3,London,Flat / Apartment
+770,770,350000,Ealing,W5 2QS,425,0,0,0,London,Studio
+771,771,925000,Esher,KT10 8ER,1270,4,4,4,Surrey,House
+772,772,1000000,,SW5 9EY,703,2,2,2,London,Flat / Apartment
+773,773,1495000,,SW5 0QF,1122,2,2,2,London,Flat / Apartment
+774,774,2350000,,SW14 7RP,2667,5,5,5,London,House
+775,775,675000,,SW17 8AY,924,2,2,2,London,Flat / Apartment
+776,776,765000,Marius Road,SW17 7QN,1025,4,4,4,London,Flat / Apartment
+777,777,799950,,SW12 9PY,1320,4,4,4,London,Flat / Apartment
+778,778,2950000,Limehouse,E14 8DQ,3451,5,5,5,London,Penthouse
+779,779,999950,Finsbury,EC1R 1YB,792,2,2,2,London,Flat / Apartment
+780,780,1200000, Chiswick,W4 3LP,1710,4,4,4,London,House
+781,781,1250000,Chiswick,W4 1BU,1395,4,4,4,London,House
+782,782,1495000,Chiswick,W4 2JY,1889,4,4,4,London,House
+783,783,1950000,Barnes,SW13 0DS,2150,4,4,4,London,House
+784,784,785000,101 Wood Lane,W12 7FT,590,1,1,1,London,New development
+785,785,2250000, Battersea,SW11 3YL,1641,3,3,3,London,Flat / Apartment
+786,786,6450000, Westminster,SW1P 1QN,3578,2,2,2,London,Flat / Apartment
+787,787,749950, Wimbledon,SW19 4QS,1059,2,2,2,London,Flat / Apartment
+788,788,1675000,,SW18 3DN,2565,4,4,4,London,House
+789,789,950000,,SW18 4NU,1360,4,4,4,London,House
+790,790,1975000,226 Arlington Road,NW1 7HY,2458,2,2,2,London,Penthouse
+791,791,3550000,Chelsea,SW3 4BP,1986,5,5,5,London,House
+792,792,350000,Balham High Road,SW17 7JA,539,1,1,1,London,Flat / Apartment
+793,793,2375000,,SW12 8UF,2540,5,5,5,Thurleigh Road,New development
+794,794,2325000,,SW12 8UF,2466,5,5,5,Thurleigh Road,New development
+795,795,4600000,Fitzrovia,W1T 3BF,1961,3,3,3,London,New development
+796,796,700000,Loughton,IG10 4RE,1174,4,4,4,Essex,House
+797,797,1350000, Epping,CM16 7JW,2312,4,4,4,Essex,House
+798,798,1325000,9 Gatliff Road,SW1W 8DP,824,2,2,2,London,New development
+799,799,1850000,,SW3 4DU,981,2,2,2,London,Flat / Apartment
+800,800,5250000,Belsize Park,NW3 2UP,3782,8,8,8,London,House
+801,801,1000000,Ealing,W5 5QB,1549,4,4,4,London,House
+802,802,1275000,Esher,KT10 8EE,2344,5,5,5,Surrey,House
+803,803,2000000,,SW10 9JY,1072,2,2,2,London,Flat / Apartment
+804,804,1200000,East Sheen,SW14 7NB,1760,4,4,4,London,House
+805,805,1175000,,SW12 9NL,1668,4,4,4,London,House
+806,806,1300000,,SW2 4HD,2177,4,4,4,London,House
+807,807,3500000,,SW16 1LF,4213,7,7,7,London,House
+808,808,800000,,SW12 8SN,1035,2,2,2,London,Flat / Apartment
+809,809,1200000,Chiswick,W4 1TA,1615,4,4,4,London,House
+810,810,3295000, Chiswick,W4 1JZ,3230,5,5,5,London,House
+811,811,425000,,W4 1TF,548,2,2,2,London,Flat / Apartment
+812,812,1215000, Putney,SW15 2BS,1091,3,3,3,London,New development
+813,813,1850000,,SW10 0JW,1341,3,3,3,London,House
+814,814,2275000,Barnes,SW13 0DB,2652,5,5,5,London,House
+815,815,400000, Barnes,SW13 0ES,601,2,2,2,London,Flat / Apartment
+816,816,800000, Battersea,SW11 3LX,1143,3,3,3,London,Flat / Apartment
+817,817,700000,Battersea,SW8 3QD,940,2,2,2,London,Flat / Apartment
+818,818,750000,,SW18 2BQ,1522,4,4,4,London,Duplex
+819,819,500000,Clerkenwell,EC1V 1AG,561,1,1,1,London,Flat / Apartment
+820,820,3975000,Knightsbridge,SW1X 9DP,1726,3,3,3,London,House
+821,821,1999995,,TW1 4RX,2537,5,5,5,Twickenham,House
+822,822,1099000, Putney,SW15 3TJ,1554,4,4,4,London,House
+823,823,539950,Weimar Street,SW15 1SY,627,2,2,2,London,Flat / Apartment
+824,824,1050000,Northwood,HA6 3NF,1677,4,4,4,Middlesex,House
+825,825,850000,,SW11 6JW,901,2,2,2,London,Flat / Apartment
+826,826,599950,,SW4 6HB,699,2,2,2,London,Flat / Apartment
+827,827,695000,,SW11 5PA,987,2,2,2,London,Flat / Apartment
+828,828,950000, Maida Vale,W9 1NS,922,3,3,3,London,Flat / Apartment
+829,829,1999995,,N7 8PR,2073,4,4,4,London,House
+830,830,365000,,N1 1BG,520,1,1,1,London,Flat / Apartment
+831,831,1200000,Hampstead,NW3 7SF,1218,3,3,3,London,Flat / Apartment
+832,832,2950000,East Molesey,KT8 9DW,4389,6,6,6,Surrey,House
+833,833,380000,42 White Horse Lane,E1 3FY,550,1,1,1,London,Flat / Apartment
+834,834,1875000,,SE21 8AA,3435,5,5,5,London,House
+835,835,5100000,,SW4 0NH,4459,7,7,7,London,House
+836,836,490000, Canary Wharf,E14 7DX,771,2,2,2,London,Flat / Apartment
+837,837,2750000,Barnes,SW13 9ED,2612,6,6,6,London,House
+838,838,450000, St John's Wood,NW8 7DP,460,1,1,1,London,Flat / Apartment
+839,839,825000,Putney,SW18 1FT,1224,3,3,3,London,House
+840,840,1695000,Putney,SW15 1QJ,2205,4,4,4,London,House
+841,841,425000,Putney,SW15 2BD,548,1,1,1,London,Flat / Apartment
+842,842,1250000,Primrose Hill,NW1 8JD,896,2,2,2,London,Flat / Apartment
+843,843,3750000,,W2 5BS,2239,4,4,4,London,House
+844,844,785000, Mill Hill,NW7 1NY,1263,2,2,2,London,New development
+845,845,675000,,EC1V 1LA,891,2,2,2,London,Flat / Apartment
+846,846,465000,Hackney,E8 3BL,518,1,1,1,London,Flat / Apartment
+847,847,1350000,Belsize Park,NW3 4LJ,1023,2,2,2,London,Flat / Apartment
+848,848,2500000,Fulham,SW6 3QJ,2458,5,5,5,London,House
+849,849,675000,Esher,KT10 8LP,915,2,2,2,Surrey,House
+850,850,945000,East Sheen,SW14 8JP,1112,3,3,3,London,House
+851,851,725000, Limehouse,E14 8AY,861,2,2,2,London,Flat / Apartment
+852,852,325000, Canary Wharf,E14 9EX,469,1,1,1,London,Flat / Apartment
+853,853,800000,Finsbury,EC1R 1YE,742,2,2,2,London,Flat / Apartment
+854,854,595000,Farringdon,EC1A 7LS,476,1,1,1,London,New development
+855,855,425000,Grove Park,W4 2QY,740,2,2,2,London,Flat / Apartment
+856,856,1250000,Barnes,SW13 9JF,1380,3,3,3,London,House
+857,857,2100000,Barnes,SW13 0DR,1959,5,5,5,London,House
+858,858,875000,Battersea,SW11 5BL,869,2,2,2,London,House
+859,859,1095000,Battersea,SW11 5BH,1238,3,3,3,London,House
+860,860,1495000,Battersea,SW11 3NA,1680,4,4,4,London,Penthouse
+861,861,895000, Wimbledon,SW19 4AG,1221,3,3,3,London,Flat / Apartment
+862,862,650000,,SW18 1AR,1087,3,3,3,London,Flat / Apartment
+863,863,3500000,Belgravia,SW1X 8AD,1548,3,3,3,London,Flat / Apartment
+864,864,4750000, Knightsbridge,SW3 1BW,1559,2,2,2,London,Flat / Apartment
+865,865,550000,Macaulay Road,SW4 0QU,690,2,2,2,London,Flat / Apartment
+866,866,525000, Buckhurst Hill,IG9 5NQ,1299,3,3,3,Essex,Flat / Apartment
+867,867,4035000, Chelsea,SW10 0QH,2174,4,4,4,London,New development
+868,868,1150000,50 Kensington Place,W8 7PW,933,2,2,2,London,Flat / Apartment
+869,869,2350000,,W8 7PA,1327,2,2,2,London,House
+870,870,2100000, Esher,KT10 9NP,2810,3,3,3,Surrey,Flat / Apartment
+871,871,1000000,Esher,KT10 0QD,2590,4,4,4,Surrey,House
+872,872,780000,,SE1 2AW,1010,2,2,2,London,Penthouse
+873,873,1595000,,SW16 1UQ,3260,6,6,6,London,House
+874,874,1000000,,SW17 7DN,2456,3,3,3,London,House
+875,875,850000,,SW12 8BQ,953,2,2,2,London,House
+876,876,625000,,SW11 4ET,967,1,1,1,London,Flat / Apartment
+877,877,1300000,Battersea,SW11 3DS,1457,4,4,4,London,House
+878,878,2950000,Westminster,SW1P 2QN,2349,5,5,5,London,House
+879,879,995000,Wimbledon,SW19 8SZ,1184,3,3,3,London,House
+880,880,1150000,,SW18 2LT,1705,3,3,3,London,House
+881,881,700000, Battersea,SW18 1TA,814,2,2,2,London,Flat / Apartment
+882,882,575000,,SW18 2NW,619,2,2,2,London,Flat / Apartment
+883,883,1675000,South Hackney,E9 7EE,1749,4,4,4,London,House
+884,884,4500000,,SW7 1EA,1607,2,2,2,London,Flat / Apartment
+885,885,820000,,SW1W 9BD,992,1,1,1,London,Flat / Apartment
+886,886,2950000,Richmond,TW10 6TS,2400,3,3,3,Surrey,House
+887,887,635000,Putney,SW15 1BB,774,2,2,2,London,Flat / Apartment
+888,888,1995000,Putney,SW15 5QT,3256,5,5,5,London,House
+889,889,1895000,Islington,N1 0RE,1868,3,3,3,London,House
+890,890,1495000,Surbiton,KT6 5DL,2566,5,5,5,Surrey,House
+891,891,2250000,East Molesey,KT8 9JJ,3364,5,5,5,Surrey,House
+892,892,1250000,Richmond,TW10 5DY,2032,6,6,6,Surrey,House
+893,893,825000, Canary Wharf,E14 9BL,1026,3,3,3,London,Flat / Apartment
+894,894,875000,Clerkenwell,EC1M 5PY,767,2,2,2,London,Flat / Apartment
+895,895,2175000,Barnes,SW13 0DS,2108,5,5,5,London,House
+896,896,2250000,Barnes,SW13 0DT,2332,5,5,5,London,House
+897,897,975000,Battersea,SW11 4DZ,1100,2,2,2,London,Flat / Apartment
+898,898,1735000,Battersea,SW11 3DP,2144,4,4,4,London,House
+899,899,1375000, Wimbledon,SW19 4RD,1335,3,3,3,London,House
+900,900,1295000,,SW18 1BG,1811,4,4,4,London,House
+901,901,875000,Grove End Road,NW8 9EL,693,2,2,2,London,Flat / Apartment
+902,902,1950000, South Hampstead,NW6 4EQ,1873,5,5,5,London,House
+903,903,995000, Twickenham,TW1 4RX,1243,2,2,2,Middlesex,Flat / Apartment
+904,904,3450000, Richmond,TW10 5HG,3825,5,5,5,Surrey,House
+905,905,1295000,,NW3 3DR,1366,2,2,2,London,Flat / Apartment
+906,906,2500000,Stanmore,HA7 3BY,4222,6,6,6,Middlesex,House
+907,907,2150000, Marylebone,W1U 6BT,1672,3,3,3,London,Flat / Apartment
+908,908,800000, Marylebone,W1W 5DZ,548,2,2,2,London,Flat / Apartment
+909,909,1750000, Fitzrovia,W1W 6RP,883,2,2,2,London,Flat / Apartment
+910,910,1250000,Woodford Green,IG8 0HB,1901,4,4,4,Essex,House
+911,911,1178000, Battersea,SW11 4FA,847,2,2,2,London,New development
+912,912,1285000,,EC2M 4JY,652,1,1,1,City Of London,New development
+913,913,7950000,,W8 7JJ,3443,5,5,5,London,House
+914,914,2150000,,W8 6UP,1806,4,4,4,London,Flat / Apartment
+915,915,1895000,Highbury,N5 1UZ,2132,5,5,5,London,House
+916,916,1200000,29 Laycock Street,N1 1UR,1355,2,2,2,London,Flat / Apartment
+917,917,725000,Hackney,E8 2HE,804,1,1,1,London,House
+918,918,1100000,Hampstead,NW3 7HU,1069,2,2,2,London,House
+919,919,1000000,,W7 3AS,2258,4,4,4,London,New development
+920,920,600000, Ealing,W5 3HJ,870,1,1,1,London,New development
+921,921,695000,,SW7 4AU,537,1,1,1,London,Flat / Apartment
+922,922,1450000,,SW12 8LF,1921,4,4,4,London,House
+923,923,699950,,SW17 8EN,902,2,2,2,London,Flat / Apartment
+924,924,1295000,Balham,SW12 8RT,1674,4,4,4,London,House
+925,925,2600000,,SW7 3DD,1500,3,3,3,London,Flat / Apartment
+926,926,600000,Wimbledon,SW19 4RQ,570,2,2,2,London,House
+927,927,895000,Wimbledon,SW19 8BD,900,3,3,3,London,House
+928,928,1160000,Wimbledon,SW19 7JQ,1112,2,2,2,London,Penthouse
+929,929,500000,,SW18 2JB,622,2,2,2,London,Flat / Apartment
+930,930,625000,,E9 6FJ,797,2,2,2,London,Flat / Apartment
+931,931,450000,Abbey Road,NW8 9AD,377,1,1,1,London,Flat / Apartment
+932,932,2750000,Twickenham,TW1 3DG,2999,7,7,7,Middlesex,House
+933,933,899950,,W10 6PB,1115,3,3,3,London,Flat / Apartment
+934,934,1250000,,W2 4EH,649,1,1,1,London,Flat / Apartment
+935,935,1650000,,W11 4UE,1055,2,2,2,London,Flat / Apartment
+936,936,3450000,Notting Hill,W11 2NA,1575,2,2,2,London,Penthouse
+937,937,2975000,,W11 2NA,1657,3,3,3,London,Flat / Apartment
+938,938,2500000,Marylebone,W1G 8PE,1266,3,3,3,London,House
+939,939,2150000,Sloane Square,SW3 2RE,1064,2,2,2,London,Flat / Apartment
+940,940,1995000,Knightsbridge,SW1X 7QS,1053,2,2,2,London,Flat / Apartment
+941,941,1700000,,SW1X 0AD,1045,2,2,2,London,Flat / Apartment
+942,942,2600000,Thurloe Place,SW7 2RU,1722,3,3,3,London,Flat / Apartment
+943,943,1675000,,SW3 2TH,905,2,2,2,London,Flat / Apartment
+944,944,1495000,,SW1X 7BB,776,1,1,1,London,Flat / Apartment
+945,945,2895000,,SW7 1PJ,1398,2,2,2,London,Flat / Apartment
+946,946,1450000,,SW7 1BB,675,1,1,1,London,Flat / Apartment
+947,947,795000,20 Gatliff Road,SW1W 8QD,691,1,1,1,London,Flat / Apartment
+948,948,1895000,,W11 3QU,1522,2,2,2,London,Flat / Apartment
+949,949,1850000,4-10 Lexham Gardens,W8 5JH,1480,3,3,3,London,Flat / Apartment
+950,950,3500000,Duchess Of Bedford's Walk,W8 7QJ,1804,4,4,4,London,Flat / Apartment
+951,951,450000,Vicarage Gate,W8 4HF,410,0,0,0,London,Studio
+952,952,2895000,33 Kensington Court,W8 5BG,1850,3,3,3,London,Flat / Apartment
+953,953,1250000,29 Sheffield Terrace,W8 7ND,1317,3,3,3,London,Flat / Apartment
+954,954,4250000,Kensington High Street,W8 6NH,2713,6,6,6,London,Flat / Apartment
+955,955,1300000,,W8 5JR,1162,2,2,2,London,Flat / Apartment
+956,956,1175000,Thackeray Street,W8 5HA,793,2,2,2,London,Flat / Apartment
+957,957,4450000,,W8 7LP,1894,3,3,3,London,Penthouse
+958,958,1550000,Vicarage Gate,W8 4AF,923,2,2,2,London,Flat / Apartment
+959,959,1300000,,W8 7NP,914,2,2,2,London,Flat / Apartment
+960,960,1550000,Esher,KT10 8AW,2602,4,4,4,Surrey,House
+961,961,1325000,Thames Ditton,KT7 0QP,2410,5,5,5,Surrey,House
+962,962,1450000,East Sheen,SW14 7PD,1899,4,4,4,London,House
+963,963,1175000,,SW12 9QQ,1503,4,4,4,London,House
+964,964,795000,,SW15 2BS,823,2,2,2,London,New development
+965,965,4750000,Chelsea,SW10 9RY,3104,6,6,6,London,House
+966,966,799950,721 Fulham Road,SW6 5PB,890,2,2,2,London,Flat / Apartment
+967,967,650000,,W6 9DJ,743,2,2,2,London,Flat / Apartment
+968,968,850000,Battersea,SW11 5GX,1167,3,3,3,London,House
+969,969,560000, Battersea,SW11 3RS,779,1,1,1,London,Flat / Apartment
+970,970,910000,Battersea,SW11 5XP,960,3,3,3,London,House
+971,971,399950, Wimbledon,SW19 7PQ,621,1,1,1,London,Flat / Apartment
+972,972,465000,Wimbledon,SW19 7QU,592,1,1,1,London,Flat / Apartment
+973,973,1535000,,SW18 2DY,2352,5,5,5,London,House
+974,974,725000,Richmond,TW10 7YD,1344,5,5,5,Surrey,House
+975,975,1295000, Putney,SW15 1HA,1702,4,4,4,London,Flat / Apartment
+976,976,825000,Putney,SW15 2FJ,947,2,2,2,London,Flat / Apartment
+977,977,1195000,Primrose Hill,NW1 8JA,879,2,2,2,London,Flat / Apartment
+978,978,1250000,Regent's Park,NW1 7SY,1061,2,2,2,London,Flat / Apartment
+979,979,1350000,,NW3 3BN,1225,2,2,2,London,Flat / Apartment
+980,980,1225000,Northwood,HA6 3AY,2289,5,5,5,Middlesex,House
+981,981,585000, Northwood,HA6 3FG,1032,2,2,2,Middlesex,Flat / Apartment
+982,982,550000,,SW4 0BG,542,1,1,1,London,New development
+983,983,985000, Bloomsbury,WC1E 6JP,677,2,2,2,London,Flat / Apartment
+984,984,530000,Highbury,N5 2NR,482,1,1,1,London,Flat / Apartment
+985,985,4200000,Islington,N1 2HN,2968,3,3,3,London,House
+986,986,1375000,Islington,N1 5BJ,1340,3,3,3,London,House
+987,987,575000,Hackney,E8 2AG,707,2,2,2,London,Flat / Apartment
+988,988,2950000,Highgate,N6 6HN,2740,4,4,4,London,House
+989,989,1950000, Parsons Green,SW6 4BL,1795,3,3,3,Fulham,House
+990,990,3250000,Fulham,SW6 3PT,3156,5,5,5,London,House
+991,991,1250000,Esher,KT10 8EQ,1980,4,4,4,Surrey,House
+992,992,975000, Esher,KT10 9SL,1634,3,3,3,Surrey,Penthouse
+993,993,1100000,Surbiton,KT5 8NJ,1716,4,4,4,Surrey,House
+994,994,900000,,SW16 2AQ,1989,3,3,3,London,House
+995,995,300000,Newham,E16 2ER,517,1,1,1,London,Flat / Apartment
+996,996,510000, Battersea,SW11 2NU,577,1,1,1,London,New development
+997,997,350000,Fulham,SW6 3LY,302,1,1,1,London,Flat / Apartment
+998,998,875000,Brook Green,W14 0AU,981,2,2,2,London,Flat / Apartment
+999,999,1095000,Kingston,SW15 3RN,2642,3,3,3,London,House
+1000,1000,3350000,Wimbledon,SW19 4UU,3256,5,5,5,London,House
+1001,1001,1350000,,SW18 2DA,1723,4,4,4,London,House
+1002,1002,950000,,NW1 7TL,817,2,2,2,London,Flat / Apartment
+1003,1003,1275000,Oxhey,WD19 4NJ,2711,5,5,5,Hertfordshire,House
+1004,1004,975000,,SW11 6AE,1013,2,2,2,London,Flat / Apartment
+1005,1005,3950000,Chelsea,SW3 4NW,2530,6,6,6,London,House
+1006,1006,475000,1 Tiltman Place,N7 7EE,650,2,2,2,London,Flat / Apartment
+1007,1007,575000, London,N7 6RG,840,2,2,2,N7 6QX,New development
+1008,1008,599950,Homerton,E9 6HP,930,3,3,3,London,New development
+1009,1009,585000,Hackney,E8 1LP,881,2,2,2,London,Flat / Apartment
+1010,1010,1750000,Childs Hill,NW2 2QA,2223,4,4,4,London,House
+1011,1011,2950000,Brentford,TW8 8BJ,4034,6,6,6,Middlesex,House
+1012,1012,950000,Acton,W3 6QH,1258,4,4,4,London,House
+1013,1013,910000, South Bank,SE1 9EY,683,1,1,1,London,Flat / Apartment
+1014,1014,1849950,Streatham,SW2 4AY,2372,5,5,5,London,House
+1015,1015,700000,New Kings Road,SW6 4RH,758,2,2,2,London,Flat / Apartment
+1016,1016,1275000,,W6 0DT,1419,3,3,3,London,House
+1017,1017,425000,Wimbledon,SW19 8TA,549,1,1,1,London,Flat / Apartment
+1018,1018,1395000,Walton-On-Thames,KT12 3AA,3178,4,4,4,Surrey,House
+1019,1019,3000000,St John's Wood,NW8 9LY,2432,4,4,4,London,House
+1020,1020,2975000,Richmond,TW10 6QX,3352,6,6,6,Surrey,House
+1021,1021,775000,Putney,SW15 2NJ,990,2,2,2,London,Flat / Apartment
+1022,1022,4950000,Clapham,SW4 0DZ,4482,7,7,7,London,House
+1023,1023,1850000,,SW11 6NT,2088,4,4,4,London,House
+1024,1024,649000,82-88 Fulham High Street,SW6 3LF,560,1,1,1,London,New development
+1025,1025,499950,Islington,N1 0HW,386,1,1,1,London,Flat / Apartment
+1026,1026,399950, Finsbury Park,N4 2NY,806,3,3,3,London,Flat / Apartment
+1027,1027,500000,,N1 7EA,527,1,1,1,London,Flat / Apartment
+1028,1028,1085000,Hackney,E8 1NG,1705,3,3,3,London,House
+1029,1029,1595000,Fulham,SW6 7AS,1679,4,4,4,London,House
+1030,1030,850000,Esher,KT10 8LP,1336,3,3,3,Surrey,House
+1031,1031,1500000,,SW12 8LE,2084,5,5,5,London,House
+1032,1032,2800000,,SW16 1AF,4050,6,6,6,London,House
+1033,1033,1799995,Water Lane,EC3R 6EA,1236,2,2,2,London,New development
+1034,1034,2700000,Stamford Brook,W12 9TD,2685,5,5,5,London,House
+1035,1035,1150000,Chiswick,W4 5JD,1301,4,4,4,London,House
+1036,1036,2475000,Barnes,SW13 9DA,2406,5,5,5,London,House
+1037,1037,799950,Battersea,SW11 5XR,766,2,2,2,London,House
+1038,1038,2950000,Belgravia,SW1W 9DF,1181,2,2,2,London,Flat / Apartment
+1039,1039,2500000,Richmond,TW10 7AP,4420,6,6,6,Surrey,House
+1040,1040,950000,Richmond,TW10 7HY,1397,3,3,3,Surrey,House
+1041,1041,595000,,SW11 5PE,683,1,1,1,London,Flat / Apartment
+1042,1042,1495000,,SW11 6SA,1892,5,5,5,London,House
+1043,1043,625000, Maida Vale,W9 2LF,693,2,2,2,London,Flat / Apartment
+1044,1044,935000,33 Maida Vale,W9 1AJ,829,2,2,2,Little Venice,Flat / Apartment
+1045,1045,599995,,N16 9PH,710,2,2,2,London,Flat / Apartment
+1046,1046,1650000,Hackney,E8 3BJ,2048,4,4,4,London,House
+1047,1047,525000,Ealing,W13 8LY,666,1,1,1,London,New development
+1048,1048,800000,,SW4 9DX,992,2,2,2,London,Flat / Apartment
+1049,1049,995000,,SW17 0EP,1716,5,5,5,London,House
+1050,1050,1750000,Ashtead,KT21 1EG,3184,4,4,4,Surrey,House
+1051,1051,775000,,W10 6QP,634,2,2,2,London,House
+1052,1052,1595000,,SW18 2DB,2287,5,5,5,London,House
+1053,1053,1500000, Juniper Drive,SW18 1JE,1438,3,3,3,London,Flat / Apartment
+1054,1054,3750000,Belgravia,SW1W 9BG,1550,2,2,2,London,Flat / Apartment
+1055,1055,3250000,Richmond,TW10 7AH,2989,4,4,4,Surrey,House
+1056,1056,895000, Putney,SW18 1FU,1039,2,2,2,London,Flat / Apartment
+1057,1057,799999,,SW4 7QH,1076,3,3,3,London,Flat / Apartment
+1058,1058,650000, Battersea,SW11 1QU,890,2,2,2,London,Duplex
+1059,1059,1395000,,SW4 0DN,1918,3,3,3,London,House
+1060,1060,550000, 35 Salusbury Road,NW6 6BF,547,1,1,1,London,New development
+1061,1061,500000, Woodford Green,IG8 0GD,1008,3,3,3,Essex,Flat / Apartment
+1062,1062,1550000,De Beauvoir,N1 4HY,1378,3,3,3,London,House
+1063,1063,4950000,55 Primrose Hill Road,NW3 3EA,3330,3,3,3,London,New development
+1064,1064,2850000,55 Primrose Hill Road,NW3 3EA,1752,2,2,2,London,Flat / Apartment
+1065,1065,2250000, Fulham,SW6 2TG,2557,3,3,3,London,Flat / Apartment
+1066,1066,595000,North Ealing,W5 3HJ,807,2,2,2,London,New development
+1067,1067,3300000,Esher,KT10 8QG,6309,5,5,5,Surrey,House
+1068,1068,1225000,,SW14 8NJ,1758,4,4,4,London,House
+1069,1069,1350000, Canary Wharf,E14 8BP,2264,2,2,2,London,Flat / Apartment
+1070,1070,545000,Bow,E3 3PJ,773,2,2,2,London,New development
+1071,1071,1195000,Acton,W3 8AW,1668,4,4,4,London,House
+1072,1072,822500, Putney,SW15 2BS,869,2,2,2,London,New development
+1073,1073,1345000,1 Albert Embankment,SE1 7XL,1030,3,3,3,London,Flat / Apartment
+1074,1074,1400000, Vauxhall,SW8 2BW,1145,2,2,2,London,Flat / Apartment
+1075,1075,1750000,93 Albert Embankment,SE1 7TY,1232,2,2,2,London,Flat / Apartment
+1076,1076,2895000,Kingston upon Thames,KT2 7SX,3660,6,6,6,Surrey,House
+1077,1077,2350000,Regent's Park,NW1 4JE,1844,4,4,4,London,House
+1078,1078,1075000,Elm Tree Road,NW8 9JT,1142,3,3,3,London,Flat / Apartment
+1079,1079,1350000,,SW11 6JW,1637,4,4,4,London,House
+1080,1080,2250000,Mayfair,W1K 6RG,1348,2,2,2,London,Flat / Apartment
+1081,1081,699950,Highbury Stadium Square,N5 1FN,787,2,2,2,London,Flat / Apartment
+1082,1082,1425000,Highbury,N5 1AU,1761,3,3,3,London,House
+1083,1083,435000,Islington,N1 5ET,527,1,1,1,London,Flat / Apartment
+1084,1084,2950000,,NW2 2HJ,3300,5,5,5,London,House
+1085,1085,645000, Ealing,W5 3HJ,904,2,2,2,London,New development
+1086,1086,995000, East Molesey,KT8 9DX,1681,3,3,3,Surrey,New development
+1087,1087,5500000,Richmond,TW10 5BN,5453,6,6,6,Surrey,House
+1088,1088,2500000,,SW12 8QJ,2413,5,5,5,London,House
+1089,1089,1200000,,SW12 9NN,1585,4,4,4,London,House
+1090,1090,1750000,Barnes,SW13 0PG,1891,5,5,5,London,House
+1091,1091,725000,Fulham,SW6 7EH,924,3,3,3,London,Flat / Apartment
+1092,1092,850000,Battersea,SW11 5XR,780,2,2,2,London,House
+1093,1093,2249000,Wimbledon,SW19 8RB,2600,5,5,5,London,House
+1094,1094,475000,,SW18 1TQ,598,1,1,1,London,Flat / Apartment
+1095,1095,525000,3 Ryeland Boulevard,SW18 1UF,558,1,1,1,London,New development
+1096,1096,370000,South Hackney,E9 7HW,400,1,1,1,London,Flat / Apartment
+1097,1097,2500000,Spitalfields,E1 6NW,2132,2,2,2,London,Flat / Apartment
+1098,1098,700000,Northwood,HA6 1RR,1301,3,3,3,Middlesex,Bungalow
+1099,1099,1595000,,SW11 6DR,2046,4,4,4,London,House
+1100,1100,715000, Maida Vale,W9 2LL,764,2,2,2,London,Flat / Apartment
+1101,1101,985000, Maida Vale,W9 1NR,978,2,2,2,London,Flat / Apartment
+1102,1102,4850000,Fitzrovia,W1W 7LS,1518,3,3,3,London,Penthouse
+1103,1103,1695000,Loughton,IG10 1NH,3683,5,5,5,Essex,House
+1104,1104,1095000,Loughton,IG10 4EL,1728,4,4,4,Essex,House
+1105,1105,1325000,Woodford Green,IG8 0ER,2659,5,5,5,Essex,House
+1106,1106,699950,Islington,N1 4JA,1255,1,1,1,London,House
+1107,1107,350000, Acton,W3 7FG,420,1,1,1,London,Flat / Apartment
+1108,1108,2000000,Esher,KT10 9LU,3556,6,6,6,Surrey,House
+1109,1109,1095000,Thames Ditton,KT7 0DN,2442,5,5,5,Surrey,House
+1110,1110,3250000,East Sheen,SW14 7LQ,3467,6,6,6,London,House
+1111,1111,899950,,SW12 8BN,939,2,2,2,London,Flat / Apartment
+1112,1112,2166000,Water Lane,EC3R 6EA,1236,2,2,2,London,New development
+1113,1113,480000, Battersea,SW11 2NU,577,1,1,1,London,New development
+1114,1114,825000,Brook Green,W14 8HB,869,2,2,2,London,Flat / Apartment
+1115,1115,2950000,Battersea,SW11 4XW,2768,4,4,4,London,New development
+1116,1116,585000,Wimbledon,SW19 5QF,784,2,2,2,London,Flat / Apartment
+1117,1117,2975000,Chelsea,SW3 4DL,2041,3,3,3,London,House
+1118,1118,680000,Richmond,TW9 4QW,1125,3,3,3,Surrey,House
+1119,1119,899000,Clapham Common North Side,SW4 0AB,982,2,2,2,London,New development
+1120,1120,675000,Loughton,IG10 1HN,1153,4,4,4,Essex,House
+1121,1121,475000,Waltham Abbey,EN9 3SU,890,2,2,2,Essex,House
+1122,1122,1265000, Epping,CM16 7DN,2568,5,5,5,Essex,House
+1123,1123,3500000,Oxshott,KT22 0PS,11077,6,6,6,Surrey,House
+1124,1124,3500000,,W8 4NA,2401,4,4,4,London,House
+1125,1125,599995,,N1 2LZ,528,1,1,1,London,Flat / Apartment
+1126,1126,550000,Hackney,E8 4EG,736,2,2,2,London,Flat / Apartment
+1127,1127,1325000,,SW12 8LW,1595,4,4,4,London,House
+1128,1128,2400000,,SW12 8DZ,2850,6,6,6,London,House
+1129,1129,2500000,,SW17 8QY,3525,6,6,6,London,House
+1130,1130,1150000, Limehouse,E14 8DQ,1302,2,2,2,London,Flat / Apartment
+1131,1131,550000,Royal Albert Wharf,E16 2QJ,1023,2,2,2,London,New development
+1132,1132,690000, Clerkenwell,EC1V 3RF,753,2,2,2,London,Flat / Apartment
+1133,1133,1175000,Clerkenwell,EC2A 2AH,949,2,2,2,London,Flat / Apartment
+1134,1134,2000000,Chiswick,W4 1QG,2222,5,5,5,London,House
+1135,1135,1045000, Fulham High Street,SW6 3LF,810,2,2,2,Fulham,New development
+1136,1136,699950, Battersea,SW11 4GA,848,2,2,2,London,Flat / Apartment
+1137,1137,900000,Battersea,SW11 5UP,1223,3,3,3,London,House
+1138,1138,875000,Battersea,SW11 5AB,1061,3,3,3,London,House
+1139,1139,1695000,South Hackney,E9 7SF,1938,4,4,4,London,House
+1140,1140,845000, St. John's Wood,NW8 7HL,960,2,2,2,London,Flat / Apartment
+1141,1141,850000, Hackney,E2 8ER,1213,4,4,4,London,House
+1142,1142,2000000,,E1 6QH,2401,3,3,3,Spitalfields,Flat / Apartment
+1143,1143,3250000,Belgravia,SW1W 9DF,1509,1,1,1,London,Flat / Apartment
+1144,1144,1750000,Primrose Hill,NW1 8LJ,1239,3,3,3,London,Flat / Apartment
+1145,1145,1250000,Moor Park,HA6 2EQ,1880,4,4,4,Middlesex,House
+1146,1146,550000, Queens Park,NW6 5FS,562,1,1,1,London,New development
+1147,1147,1050000,Marylebone,W1G 8PD,1309,3,3,3,London,Flat / Apartment
+1148,1148,1095000, Marylebone,W1U 6NT,945,1,1,1,London,Flat / Apartment
+1149,1149,1195000,Waltham Abbey,EN9 3ST,2737,4,4,4,Essex,House
+1150,1150,1100000,Hampstead,NW3 5PT,985,3,3,3,London,Flat / Apartment
+1151,1151,3000000,Hampstead,NW3 7DU,2427,4,4,4,London,Flat / Apartment
+1152,1152,2150000,Fulham,SW6 4QZ,2416,5,5,5,London,House
+1153,1153,1800000,East Sheen,SW14 7RS,2129,5,5,5,London,House
+1154,1154,1295000,,SW14 7AH,1248,3,3,3,London,House
+1155,1155,1125000,,SW17 0EG,2137,5,5,5,London,House
+1156,1156,1025000,,SW12 9PN,1556,4,4,4,London,House
+1157,1157,1675000,,SW17 8EW,2346,5,5,5,London,House
+1158,1158,2750000,Ravenscourt Park,W6 9LT,3251,7,7,7,London,House
+1159,1159,500000,,SW10 9DA,670,1,1,1,London,Flat / Apartment
+1160,1160,2520000,Brook Green,W14 0ES,2638,5,5,5,London,House
+1161,1161,865000,,W14 0NP,1023,2,2,2,London,Flat / Apartment
+1162,1162,700000,Battersea,SW11 4DB,875,2,2,2,London,Flat / Apartment
+1163,1163,1350000,Battersea,SW11 3NX,1295,3,3,3,London,House
+1164,1164,3450000, Westminster,SW1P 4FA,1215,2,2,2,London,Flat / Apartment
+1165,1165,775000,,SW18 1AR,1066,3,3,3,London,Flat / Apartment
+1166,1166,1195000,,SW18 3AY,1697,4,4,4,London,House
+1167,1167,725000,Hackney,E9 5BZ,1200,3,3,3,London,Penthouse
+1168,1168,700000,Clerkenwell,EC1V 0ED,606,2,2,2,London,Flat / Apartment
+1169,1169,695000,Clerkenwell,EC1V 3PA,796,2,2,2,London,Flat / Apartment
+1170,1170,1299000,City Of London,EC2Y 9BA,827,2,2,2,London,Flat / Apartment
+1171,1171,5950000,Knightsbridge,SW3 1RW,2817,3,3,3,London,Flat / Apartment
+1172,1172,595000,Richmond,TW10 6QX,786,2,2,2,Surrey,Flat / Apartment
+1173,1173,2100000,Richmond,TW10 6QB,2296,4,4,4,Surrey,House
+1174,1174,1475000,Putney,SW15 1LA,1894,4,4,4,London,House
+1175,1175,2950000,Putney,SW15 6UU,3336,7,7,7,London,House
+1176,1176,450000,,SW12 8UJ,570,2,2,2,London,Flat / Apartment
+1177,1177,550000,,SW11 6LR,672,2,2,2,London,Flat / Apartment
+1178,1178,2250000,St James's,SW1Y 5JH,1297,2,2,2,London,Flat / Apartment
+1179,1179,2750000,Loughton,IG10 4DS,4925,6,6,6,Essex,House
+1180,1180,599950, Islington,N1 0EY,734,1,1,1,London,Flat / Apartment
+1181,1181,650000,,N5 2XA,667,1,1,1,London,Flat / Apartment
+1182,1182,850000,Fulham,SW6 2BD,900,2,2,2,London,House
+1183,1183,825000,Fulham,SW6 2SF,1027,3,3,3,London,Flat / Apartment
+1184,1184,1850000,Fulham,SW6 3RB,1678,5,5,5,London,House
+1185,1185,1750000,11 Park Street,SW6 2FT,1390,3,3,3,London,Flat / Apartment
+1186,1186,3150000,Fulham,SW6 5DP,3100,5,5,5,London,House
+1187,1187,599950,Acton,W3 7RX,1128,3,3,3,London,Flat / Apartment
+1188,1188,1995000, Surbiton,KT6 5EU,3605,6,6,6,Surrey,House
+1189,1189,1595000,Esher,KT10 8DZ,3304,6,6,6,Surrey,House
+1190,1190,1195000,,SW7 4BA,752,2,2,2,London,Flat / Apartment
+1191,1191,2650000,Richmond,TW10 5BN,2229,4,4,4,Surrey,House
+1192,1192,950000,94 Wapping High Street,E1W 2ND,973,2,2,2,London,Flat / Apartment
+1193,1193,1050000,82-88 Fulham High Street,SW6 3LF,817,2,2,2,London,New development
+1194,1194,695000,82-88 Bishops Gate,SW6 3LF,678,2,2,2,Fulham High Street,New development
+1195,1195,3895000,35A Arterberry Road,SW20 8AG,4453,6,6,6,London,New development
+1196,1196,425000, St. John's Wood,NW8 8HZ,502,1,1,1,London,Flat / Apartment
+1197,1197,1300000,Richmond,TW10 7BU,2484,4,4,4,Surrey,House
+1198,1198,439000,Putney,SW15 2UF,670,2,2,2,London,Flat / Apartment
+1199,1199,4500000,Notting Hill,W2 5PH,2742,6,6,6,London,House
+1200,1200,599950,,SW4 9HD,689,1,1,1,London,Flat / Apartment
+1201,1201,1500000,Highbury,N5 1XB,1327,4,4,4,London,House
+1202,1202,625000,Islington,N1 0HX,513,1,1,1,London,Flat / Apartment
+1203,1203,499999,De Beauvoir,N1 4BD,700,1,1,1,London,Flat / Apartment
+1204,1204,435000,,N1 5SH,565,1,1,1,London,Flat / Apartment
+1205,1205,850000,,NW5 1SN,743,2,2,2,London,Flat / Apartment
+1206,1206,2695000,,SW4 0NH,3125,4,4,4,London,House
+1207,1207,2250000,Chiswick,W4 4NR,2389,5,5,5,London,House
+1208,1208,1700000,,W4 3HA,2033,5,5,5,London,House
+1209,1209,3450000,,SW7 3RA,2160,4,4,4,London,House
+1210,1210,3250000,Barnes,SW13 9ET,3098,5,5,5,London,House
+1211,1211,650000,,W6 0HJ,650,2,2,2,London,Flat / Apartment
+1212,1212,1395000,101 Wood Lane,W12 7FT,981,2,2,2,London,Flat / Apartment
+1213,1213,475000,Wandsworth Common West Side,SW18 2EJ,705,2,2,2,London,Flat / Apartment
+1214,1214,1250000,Putney,SW15 1QJ,1810,3,3,3,London,House
+1215,1215,1150000,Putney,SW15 1LT,1468,3,3,3,London,House
+1216,1216,625000, Watford,WD19 4NP,1213,4,4,4,Hertfordshire,House
+1217,1217,575000, Northwood,HA6 2YJ,1092,2,2,2,Middlesex,Flat / Apartment
+1218,1218,695000,,SW18 2SL,815,2,2,2,London,Flat / Apartment
+1219,1219,2100000,,SW11 6AE,2325,5,5,5,London,House
+1220,1220,750000,,SW4 9ED,838,2,2,2,London,Flat / Apartment
+1221,1221,1399000,Battersea,SW11 1BQ,1456,3,3,3,London,House
+1222,1222,4750000,Fitzrovia,W1T 3BJ,1774,3,3,3,London,Penthouse
+1223,1223,2275000,Islington,N1 2AP,1969,4,4,4,London,House
+1224,1224,599950,Islington,N1 1ET,657,2,2,2,London,Flat / Apartment
+1225,1225,1995000,East Sheen,SW14 8JH,2707,5,5,5,London,House
+1226,1226,899000,,SW14 8PF,1109,3,3,3,London,House
+1227,1227,1575000,,SW14 8JU,2050,5,5,5,London,House
+1228,1228,850000,Star Place,E1W 1AG,655,1,1,1,London,Flat / Apartment
+1229,1229,1250000,,SW12 8LN,1683,4,4,4,London,House
+1230,1230,3750000,Ravenscourt Park,W6 0UA,3391,5,5,5,London,House
+1231,1231,995000,Chiswick,W4 5LT,1423,5,5,5,London,House
+1232,1232,850000,Chiswick,W4 2HD,1163,3,3,3,London,House
+1233,1233,2400000,Drayton Gardens,SW10 9QY,1898,4,4,4,London,Flat / Apartment
+1234,1234,599950,Battersea,SW11 2JR,830,3,3,3,London,Flat / Apartment
+1235,1235,875000,,SW17 0AA,1334,5,5,5,London,House
+1236,1236,675000, St. Johns Wood,NW8 7DG,602,2,2,2,London,Flat / Apartment
+1237,1237,735000,Camden,NW1 9RE,953,2,2,2,London,Flat / Apartment
+1238,1238,925000,,SW4 9ED,1082,2,2,2,London,Flat / Apartment
+1239,1239,1300000,Brondesbury,NW2 4HJ,2547,5,5,5,London,House
+1240,1240,7500000,Oxshott,KT22 0NJ,12526,7,7,7,Surrey,House
+1241,1241,7450000,South Kensington,SW7 4TS,3997,6,6,6,London,House
+1242,1242,8250000,Belgravia,SW1X 8RL,3188,5,5,5,London,House
+1243,1243,2395000,Islington,N1 1PT,2212,4,4,4,London,House
+1244,1244,500000,Islington,N1 3FL,675,1,1,1,London,Flat / Apartment
+1245,1245,2550000,Canonbury,N1 2JG,2241,5,5,5,London,House
+1246,1246,600000, Clapton,E5 9BU,721,2,2,2,London,New development
+1247,1247,590000,Lee Street,E8 4FB,702,2,2,2,London,Flat / Apartment
+1248,1248,550000,Tottenham Road,N1 4ST,674,2,2,2,London,House
+1249,1249,1650000, Fulham,SW6 7BH,1716,5,5,5,London,House
+1250,1250,1250000,Ealing,W13 9NB,1700,4,4,4,London,House
+1251,1251,475000,Surbiton,KT6 4QG,645,2,2,2,Surrey,Flat / Apartment
+1252,1252,425000, East Molesey,KT8 9DX,603,1,1,1,Surrey,New development
+1253,1253,599000,Ensign Street,E1 8JA,830,2,2,2,London,Flat / Apartment
+1254,1254,1325000,,SW12 8JG,1800,4,4,4,London,House
+1255,1255,1350000,Wimbledon,SW20 0RZ,1862,3,3,3,London,Flat / Apartment
+1256,1256,1225000,Wimbledon,SW19 8LU,1681,4,4,4,London,House
+1257,1257,650000,Wimbledon,SW19 5QH,779,2,2,2,London,Flat / Apartment
+1258,1258,6950000,St. John's Wood,NW8 0QN,3911,6,6,6,London,House
+1259,1259,4495000,St. John's Wood,NW8 0LT,2607,4,4,4,London,House
+1260,1260,599950, Putney,SW18 1NU,969,3,3,3,London,Flat / Apartment
+1261,1261,465000, Putney,SW15 1PR,461,1,1,1,London,Flat / Apartment
+1262,1262,749950,,NW3 3BN,650,2,2,2,London,Flat / Apartment
+1263,1263,1050000,,SW11 1JL,1155,2,2,2,London,Flat / Apartment
+1264,1264,650000,,SW11 2RB,684,2,2,2,London,Flat / Apartment
+1265,1265,775000,,SW11 1DN,928,2,2,2,London,Flat / Apartment
+1266,1266,2100000,,SW12 8UF,2132,4,4,4,Thurleigh Road,New development
+1267,1267,1075000,Loughton,IG10 1HY,2096,4,4,4,Essex,House
+1268,1268,625000,,N1 3LL,676,1,1,1,London,Flat / Apartment
+1269,1269,1800000, Hampstead,NW3 1BS,1405,3,3,3,London,Flat / Apartment
+1270,1270,775000,,SW12 8LG,1368,3,3,3,London,Flat / Apartment
+1271,1271,2050000,Chiswick,W4 5RG,2875,4,4,4,London,New development
+1272,1272,775000,Barnes,SW13 9PY,936,2,2,2,London,Flat / Apartment
+1273,1273,885000,,SW17 7HH,1258,2,2,2,London,Flat / Apartment
+1274,1274,2400000,Battersea,SW11 4QX,2803,6,6,6,London,House
+1275,1275,825000,Wimbledon,SW19 3JU,1388,3,3,3,London,House
+1276,1276,2250000,Kingston upon Thames,KT2 7SN,2946,4,4,4,Surrey,House
+1277,1277,1125000,,SW18 3BG,1566,5,5,5,London,House
+1278,1278,1000000,Wandsworth,SW18 1AH,1306,4,4,4,London,House
+1279,1279,350000, Lisson Grove,NW8 8HB,670,2,2,2,London,Flat / Apartment
+1280,1280,600000,Northwood,HA6 1AR,1041,2,2,2,Middlesex,House
+1281,1281,3600000,Notting Hill,W11 2HW,1831,5,5,5,London,House
+1282,1282,2050000,,SW11 6AG,2202,3,3,3,London,House
+1283,1283,765000,St John's Hill,SW11 2AJ,992,2,2,2,London,Duplex
+1284,1284,1675000,Little Venice,W9 1DW,1101,2,2,2,London,Flat / Apartment
+1285,1285,1375000,Marylebone,W1H 2LW,1002,2,2,2,London,Flat / Apartment
+1286,1286,1350000,Marylebone,W1G 8QE,993,2,2,2,London,Mews
+1287,1287,8850000,,W8 5RF,3813,5,5,5,London,House
+1288,1288,3850000,,W8 6HE,2285,4,4,4,London,House
+1289,1289,2500000,Islington,N1 2AU,2537,6,6,6,London,House
+1290,1290,575000, London,N7 6RG,840,2,2,2,N7 6QX,New development
+1291,1291,4650000,Highgate,N6 4LH,4653,7,7,7,London,House
+1292,1292,4950000,Esher,KT10 9PG,7043,6,6,6,Surrey,House
+1293,1293,555000, East Molesey,KT8 9DX,753,2,2,2,Surrey,New development
+1294,1294,3750000,,SW5 0PH,1902,4,4,4,London,Flat / Apartment
+1295,1295,1050000,,SW14 8SY,1338,3,3,3,London,House
+1296,1296,1775000,,E1 2AA,2200,4,4,4,London,House
+1297,1297,550000,Bow,E3 3PJ,773,2,2,2,London,New development
+1298,1298,2700000,Chiswick,W4 4ET,2953,7,7,7,London,House
+1299,1299,399950,Gunnersbury,W4 3BY,580,2,2,2,London,Flat / Apartment
+1300,1300,595000,Carlton Drive,SW15 2BS,545,1,1,1,London,New development
+1301,1301,3200000,,SW10 9TU,2988,4,4,4,London,House
+1302,1302,675000, Elephant Park,SE17 1FQ,778,2,2,2,London,Flat / Apartment
+1303,1303,765000,Wimbledon,SW19 4LF,864,2,2,2,London,New development
+1304,1304,800000,,SW18 3QT,1428,4,4,4,London,Flat / Apartment
+1305,1305,835000,St. John's Wood,NW8 8RE,651,1,1,1,London,Flat / Apartment
+1306,1306,1200000,Richmond,TW9 1YJ,1662,4,4,4,Surrey,House
+1307,1307,2395000, Fitzrovia,W1W 6RP,1160,2,2,2,London,Flat / Apartment
+1308,1308,3250000,Marylebone,W1G 6DD,1738,3,3,3,London,House
+1309,1309,2990000, Chelsea,SW10 0QH,1451,3,3,3,London,New development
+1310,1310,499950,,N1 1BJ,388,1,1,1,London,Flat / Apartment
+1311,1311,1800000,Mortlake,SW14 8HE,4225,5,5,5,London,House
+1312,1312,2300000,East Sheen,SW14 8RU,2800,6,6,6,London,House
+1313,1313,573000,199 To 207 Marsh Wall,E14 9YT,429,0,0,0,London,New development
+1314,1314,835000,Clerkenwell,EC1N 8RU,704,2,2,2,London,Flat / Apartment
+1315,1315,2200000, Chiswick,W4 1ND,2354,5,5,5,London,House
+1316,1316,700000,,W14 0NR,680,1,1,1,London,Flat / Apartment
+1317,1317,2775000,St. James's,SW1H 9AA,1711,3,3,3,London,Flat / Apartment
+1318,1318,750000,Wimbledon,SW19 5QT,1076,3,3,3,London,Flat / Apartment
+1319,1319,1195000,,SW18 3JY,1538,3,3,3,London,House
+1320,1320,1425000,Wandsworth,SW18 2QG,2173,5,5,5,London,House
+1321,1321,380000,South Hackney,E9 7HQ,420,1,1,1,London,Flat / Apartment
+1322,1322,899950, Coulsdon,CR5 3NX,2915,5,5,5,Surrey,House
+1323,1323,2000000,Putney,SW15 6FF,2149,5,5,5,London,House
+1324,1324,2995000,Northwood,HA6 2TR,5517,7,7,7,Middlesex,House
+1325,1325,1490000,Bellevue Village,SW17 7ED,1875,5,5,5,London,House
+1326,1326,1750000,,SW11 6AX,2364,5,5,5,London,House
+1327,1327,2000000,,SW12 8UF,2347,4,4,4,Thurleigh Road,New development
+1328,1328,710000, Crouch End,N8 9BU,818,2,2,2,London,New development
+1329,1329,915000,82-88 Fulham High Street,SW6 3LF,810,2,2,2,London,New development
+1330,1330,2000000,Barnsbury,N1 0QY,2078,4,4,4,London,House
+1331,1331,425000,Canonbury,N1 2EN,495,1,1,1,London,Flat / Apartment
+1332,1332,499950,Lower Holloway,N7 8HE,656,2,2,2,London,Flat / Apartment
+1333,1333,1050000,Keats Grove,NW3 2RL,1186,3,3,3,London,Flat / Apartment
+1334,1334,1150000, Fulham,SW6 3DZ,1906,5,5,5,London,House
+1335,1335,1825000,,SW14 7AB,2100,4,4,4,London,House
+1336,1336,1325000,,SW12 8DQ,1795,4,4,4,London,House
+1337,1337,1450000,,SW12 8SF,1950,4,4,4,London,House
+1338,1338,895000,,SW12 8EE,1112,3,3,3,London,House
+1339,1339,1499995,Water Lane,EC3R 6EA,1142,2,2,2,London,New development
+1340,1340,550000,Chiswick,W4 1JG,853,2,2,2,London,Flat / Apartment
+1341,1341,550000,Park Walk,SW10 0AN,500,1,1,1,London,Flat / Apartment
+1342,1342,1050000,Barnes,SW13 0AR,1261,3,3,3,London,House
+1343,1343,2750000,Barnes,SW13 9RG,2637,4,4,4,London,House
+1344,1344,1785000,Battersea,SW11 4DU,2061,5,5,5,London,House
+1345,1345,450000, Westminster,SW1H 9HE,332,0,0,0,London,Studio
+1346,1346,375000,Wimbledon,SW19 6AY,515,1,1,1,London,Flat / Apartment
+1347,1347,5500000,Belgravia,SW1X 9JX,1973,3,3,3,London,Flat / Apartment
+1348,1348,2850000,Richmond,TW10 6PQ,3008,5,5,5,Surrey,House
+1349,1349,2450000,Richmond,TW10 6PH,2300,5,5,5,Surrey,House
+1350,1350,1600000,Northwood,HA6 2TZ,2071,4,4,4,Middlesex,House
+1351,1351,450000,Woodford Green,IG8 9LL,790,2,2,2,Essex,Flat / Apartment
+1352,1352,2000000,82-88 Fulham High Street,SW6 3LF,1688,4,4,4,London,New development
+1353,1353,1595000,Barnsbury,N1 1PF,1828,3,3,3,London,House
+1354,1354,600000,27-33 Fairfax Road,NW6 4ES,780,2,2,2,London,Flat / Apartment
+1355,1355,545000, East Molesey,KT8 9DX,767,2,2,2,Surrey,New development
+1356,1356,995000,,SW12 9QG,1310,4,4,4,London,House
+1357,1357,1050000,Wendell Park,W3 7TQ,1355,4,4,4,London,House
+1358,1358,1385000,Hortensia Road,SW10 0QR,990,3,3,3,London,Flat / Apartment
+1359,1359,650000, Wimbledon,SW20 8UA,1106,2,2,2,London,Flat / Apartment
+1360,1360,10950000,Prince Consort Road,SW7 2BH,3111,3,3,3,London,Flat / Apartment
+1361,1361,375000,Putney,SW18 5SJ,525,1,1,1,London,Flat / Apartment
+1362,1362,899000,Putney,SW15 2RL,1168,3,3,3,London,House
+1363,1363,995000,Putney,SW15 1NA,1055,3,3,3,London,House
+1364,1364,1695000,Putney,SW15 2LJ,2368,5,5,5,London,House
+1365,1365,495000, Putney,SW15 1EE,815,2,2,2,London,Flat / Apartment
+1366,1366,775000,Primrose Hill,NW3 3AR,665,2,2,2,London,Flat / Apartment
+1367,1367,950000,Northwood,HA6 1HW,2348,4,4,4,Middlesex,House
+1368,1368,1750000,Northwood,HA6 2BY,4387,4,4,4,Middlesex,House
+1369,1369,1150000,Clapham Common North Side,SW4 0AB,1582,3,3,3,London,Flat / Apartment
+1370,1370,4400000,Highgate,N6 4JS,4102,5,5,5,London,House
+1371,1371,2300000,Kentish Town,NW5 2AJ,2362,5,5,5,London,House
+1372,1372,775000,,W5 2HE,983,3,3,3,London,New development
+1373,1373,625000,42 Warwick Road,SW5 9TJ,676,1,1,1,London,Flat / Apartment
+1374,1374,1300000,,SW14 7BJ,1496,4,4,4,London,House
+1375,1375,525000,,SE15 4RE,540,1,1,1,London,House
+1376,1376,849999,,EC1Y 0TY,802,2,2,2,London,Flat / Apartment
+1377,1377,525000,Chiswick,W4 5RG,581,1,1,1,London,New development
+1378,1378,1650000,,SW6 7BL,1648,4,4,4,London,House
+1379,1379,635000, Wimbledon,SW20 8HJ,936,2,2,2,London,Flat / Apartment
+1380,1380,1550000,Wimbledon,SW19 8SZ,1884,4,4,4,London,House
+1381,1381,1000000, Wandsworth,SW18 4GN,1190,3,3,3,London,Penthouse
+1382,1382,5500000,Basil Street,SW3 1AP,2497,3,3,3,London,Flat / Apartment
+1383,1383,450000,137 London Road,TW1 1EG,646,1,1,1,Twickenham,Flat / Apartment
+1384,1384,600000,Bushey,WD23 3EW,1202,4,4,4,Hertfordshire,House
+1385,1385,1325000, Marylebone,W1U 7NX,779,2,2,2,London,Flat / Apartment
+1386,1386,6950000,Oxshott,KT22 0UR,11177,6,6,6,Surrey,New development
+1387,1387,950000,Canonbury,N1 3EJ,1023,2,2,2,London,Flat / Apartment
+1388,1388,430000, London,N7 6RG,538,1,1,1,N7 6QX,New development
+1389,1389,700000, Brentford,TW8 0FR,1121,2,2,2,Middlesex,Flat / Apartment
+1390,1390,1150000,Ealing,W5 5HX,1580,4,4,4,London,House
+1391,1391,795000,,W5 2HE,989,3,3,3,London,New development
+1392,1392,1150000,,SW10 9JJ,911,2,2,2,London,Flat / Apartment
+1393,1393,1450000,,SW12 8LG,2000,5,5,5,London,House
+1394,1394,1550000,,SW2 4HF,2328,5,5,5,London,House
+1395,1395,730000,Royal Albert Wharf,E16 2QJ,1127,3,3,3,London,Penthouse
+1396,1396,860000,Battersea,SW11 5BL,1010,2,2,2,London,House
+1397,1397,1250000, Westminster,SW1E 5BA,960,2,2,2,London,Flat / Apartment
+1398,1398,1295000,Putney,SW15 1QD,1940,5,5,5,London,House
+1399,1399,595000, Putney,SW15 3NY,1452,3,3,3,London,Flat / Apartment
+1400,1400,1600000,,SW11 6BG,1875,4,4,4,London,House
+1401,1401,3995000, Fitzrovia,W1W 6RP,2694,3,3,3,London,New development
+1402,1402,3000000,Belsize Park,NW3 5DB,2011,4,4,4,London,House
+1403,1403,2500000,Fulham,SW6 5LW,2907,5,5,5,London,House
+1404,1404,6350000, Fulham,SW6 2FQ,4689,4,4,4,London,Penthouse
+1405,1405,1350000,Esher,KT10 0PY,2545,4,4,4,Surrey,House
+1406,1406,1175000,East Sheen,SW14 7DF,1263,3,3,3,London,House
+1407,1407,2100000,Battersea,SW11 4JW,2360,4,4,4,London,House
+1408,1408,745000,162 Gideon Road,SW11 5ET,1181,3,3,3,London,Flat / Apartment
+1409,1409,560000,Pimlico,SW1V 2NS,468,1,1,1,London,Flat / Apartment
+1410,1410,2450000,Wimbledon,SW19 4NY,3831,5,5,5,London,House
+1411,1411,2295000,Wimbledon,SW20 8NP,4569,5,5,5,London,House
+1412,1412,2395000,Wimbledon,SW19 8PN,2443,5,5,5,London,House
+1413,1413,1250000, Spitalfields,E1 5AG,1600,2,2,2,London,Penthouse
+1414,1414,850000, Dalston,E8 3BQ,1254,3,3,3,London,Flat / Apartment
+1415,1415,2975000,,SW3 2LQ,1522,3,3,3,London,House
+1416,1416,7500000,Richmond,TW10 7AG,6863,5,5,5,Surrey,House
+1417,1417,1285000,Richmond,TW9 1XJ,1011,3,3,3,Surrey,House
+1418,1418,795000,Putney,SW15 3PG,2472,5,5,5,London,House
+1419,1419,835000,Putney,SW18 1FT,1297,3,3,3,London,House
+1420,1420,925000,Northwood,HA6 3DD,1270,2,2,2,Middlesex,Bungalow
+1421,1421,1595000,Northwood,HA6 3JD,3578,5,5,5,Middlesex,House
+1422,1422,5500000,,W2 4LA,4227,9,9,9,London,House
+1423,1423,3500000,Wandsworth,SW18 3RT,3709,7,7,7,London,House
+1424,1424,3500000,,SW18 3RR,4095,5,5,5,London,House
+1425,1425,730000,,SW11 5QE,833,2,2,2,London,Flat / Apartment
+1426,1426,995000,Woodford Green,IG8 0RQ,1889,4,4,4,Essex,House
+1427,1427,1195000,Woodford Green,IG8 0HA,1720,4,4,4,Essex,House
+1428,1428,1395000,Loughton,IG10 4DW,2427,5,5,5,Essex,House
+1429,1429,3850000,,SW3 2JA,1643,3,3,3,London,House
+1430,1430,1200000,Barnsbury,N1 0JA,1298,4,4,4,London,House
+1431,1431,1050000,Islington,N1 8DH,1206,2,2,2,London,House
+1432,1432,500000, Holloway,N7 8GP,794,2,2,2,London,Flat / Apartment
+1433,1433,575000,De Beauvoir,N1 4BW,1034,2,2,2,London,Flat / Apartment
+1434,1434,575000,Holloway,N7 6PE,741,2,2,2,London,Flat / Apartment
+1435,1435,449950,Southgate Road,N1 3JR,759,3,3,3,London,Flat / Apartment
+1436,1436,2650000,Islington,N1 8HA,2311,2,2,2,London,House
+1437,1437,500000,52 Holloway Road,N7 8BU,492,1,1,1,London,Flat / Apartment
+1438,1438,1050000,Aberdeen Park,N5 2BD,1248,4,4,4,London,House
+1439,1439,629000,Islington,N1 7SL,640,2,2,2,London,Flat / Apartment
+1440,1440,499950, Golders Green,NW11 7SB,690,2,2,2,London,Flat / Apartment
+1441,1441,1690000,Fulham,SW6 1JA,2099,4,4,4,London,House
+1442,1442,1650000,Esher,KT10 8LQ,2644,4,4,4,Surrey,House
+1443,1443,1995000,Esher,KT10 8LQ,5982,5,5,5,Surrey,House
+1444,1444,385000,,SW5 9JT,297,0,0,0,London,Studio
+1445,1445,1450000,South Kensington,SW7 4AX,963,2,2,2,London,Flat / Apartment
+1446,1446,1750000,50 Shad Thames,SE1 2LY,1189,2,2,2,London,Flat / Apartment
+1447,1447,450000,,E1W 2RX,680,0,0,0,London,Studio
+1448,1448,575000,Royal Albert Wharf,E16 2QJ,1023,2,2,2,London,New development
+1449,1449,730000,London,SW15 2BS,665,2,2,2,27 Carlton Drive,New development
+1450,1450,575000,Chiswick,W4 5RG,558,1,1,1,London,New development
+1451,1451,4950000,,SW3 6AE,2079,5,5,5,London,House
+1452,1452,485000, Barnes,SW13 0PJ,786,3,3,3,London,Flat / Apartment
+1453,1453,350000,,E4 6JH,678,1,1,1,London,New development
+1454,1454,500000, West Kensington,W14 8XW,564,2,2,2,London,Flat / Apartment
+1455,1455,1450000,,SW17 7DL,1981,3,3,3,London,House
+1456,1456,1995000,Westminster,SW1P 2EE,2188,4,4,4,London,House
+1457,1457,1250000,Wandsworth,SW18 2DP,1962,5,5,5,London,House
+1458,1458,1750000,Wandsworth,SW18 2QF,2266,5,5,5,London,House
+1459,1459,1675000,Wandsworth,SW18 2QN,2485,6,6,6,London,House
+1460,1460,1700000,South Hackney,E9 7EF,1958,4,4,4,London,House
+1461,1461,799950,Shoreditch,E1 6SY,842,2,2,2,London,Penthouse
+1462,1462,7450000,,SW3 6JZ,3285,5,5,5,London,House
+1463,1463,900000,Richmond,TW9 3BD,836,2,2,2,Surrey,House
+1464,1464,2100000,Putney,SW15 5JS,2565,5,5,5,London,House
+1465,1465,995000,,W1H 1RP,836,2,2,2,London,Flat / Apartment
+1466,1466,599995,Lower Holloway,N7 8EF,926,2,2,2,London,Flat / Apartment
+1467,1467,435000,Barnsbury,N1 1LR,439,1,1,1,London,Flat / Apartment
+1468,1468,565000,,N1 2TZ,793,2,2,2,London,Flat / Apartment
+1469,1469,1450000, Belsize Park,NW3 4PH,1568,4,4,4,London,Mews
+1470,1470,3495000,Esher,KT10 9JP,7886,6,6,6,Surrey,House
+1471,1471,2995000,Water Lane,EC3R 6EA,1446,2,2,2,London,New development
+1472,1472,2495000,Water Lane,EC3R 6EA,1163,2,2,2,London,New development
+1473,1473,3050000,Battersea,SW11 4NX,2599,5,5,5,London,House
+1474,1474,1450000,Wandsworth,SW18 2QW,1669,4,4,4,London,House
+1475,1475,1450000,,SW18 2EQ,2136,5,5,5,London,House
+1476,1476,1650000,Putney,SW15 2QS,2270,4,4,4,London,House
+1477,1477,500000, Northwood,HA6 1AW,808,2,2,2,Middlesex,New development
+1478,1478,2100000,,SW12 8UF,2132,4,4,4,Thurleigh Road,New development
+1479,1479,2000000,82-88 Fulham High Street,SW6 3LF,1693,4,4,4,London,New development
+1480,1480,899000,Islington,N1 2PG,1003,2,2,2,London,Flat / Apartment
+1481,1481,995000, Clapton,E5 8DS,1561,3,3,3,E5 8DE,New development
+1482,1482,1399000, Fulham,SW6 2RQ,1351,2,2,2,London,Flat / Apartment
+1483,1483,1250000, Fulham,SW6 2PT,1253,3,3,3,London,Flat / Apartment
+1484,1484,800000,Mortlake,SW14 8HE,1018,2,2,2,London,House
+1485,1485,2750000,,SW17 8QZ,4056,6,6,6,London,House
+1486,1486,650000,,SW16 1QW,877,2,2,2,London,Flat / Apartment
+1487,1487,490000,Bow,E3 3QH,695,2,2,2,London,New development
+1488,1488,765000,Brentford,TW8 0RF,858,2,2,2,Middlesex,New development
+1489,1489,699950,Barnes,SW13 0NZ,756,2,2,2,London,New development
+1490,1490,2650000,,W12 8JA,2607,5,5,5,London,House
+1491,1491,899950,Battersea,SW11 5LH,922,3,3,3,London,House
+1492,1492,2695000,Wimbledon,SW19 7LW,3797,6,6,6,London,House
+1493,1493,1895000,Wandsworth,SW18 2NS,2503,5,5,5,London,House
+1494,1494,1100000, Juniper Drive,SW18 1TZ,1236,2,2,2,London,Flat / Apartment
+1495,1495,6250000,19 Basil Street,SW3 1BA,1736,3,3,3,London,Flat / Apartment
+1496,1496,535000,Putney,SW18 5SJ,729,2,2,2,London,Flat / Apartment
+1497,1497,550000,Putney,SW18 5SJ,849,2,2,2,London,Flat / Apartment
+1498,1498,835000,2-8 Eton Avenue,NW3 3EJ,875,2,2,2,London,Flat / Apartment
+1499,1499,2485000,,SW12 8UF,2603,5,5,5,Thurleigh Road,New development
+1500,1500,1895000,Fitzrovia,W1T 1HF,1438,2,2,2,London,Flat / Apartment
+1501,1501,3300000,Kensington,W8 6PQ,1889,4,4,4,London,House
+1502,1502,572900, London,N7 6RG,721,2,2,2,N7 6QX,New development
+1503,1503,432500, London,N7 6RG,538,1,1,1,N7 6QX,New development
+1504,1504,620000,Homerton,E9 6HP,930,2,2,2,London,New development
+1505,1505,580000,Homerton,E9 6HP,832,2,2,2,London,New development
+1506,1506,590000,Homerton,E9 6HP,840,2,2,2,London,New development
+1507,1507,599950, Hackney Wick,E9 5EN,724,2,2,2,London,New development
+1508,1508,1225000, Fulham,SW6 7BB,1163,3,3,3,London,House
+1509,1509,850000,Acton,W3 9AP,1389,3,3,3,London,House
+1510,1510,1375000,Ealing Common,W3 9SF,2441,5,5,5,London,House
+1511,1511,1850000,West Acton,W3 9PT,2766,6,6,6,London,House
+1512,1512,630000, Ealing,W5 3HJ,904,2,2,2,London,New development
+1513,1513,650000,Ealing,W5 2HE,776,2,2,2,London,New development
+1514,1514,512500,Royal Albert Wharf,E16 2QJ,858,2,2,2,London,New development
+1515,1515,599950,Clerkenwell,EC1V 2PY,506,1,1,1,London,Flat / Apartment
+1516,1516,650000,,EC1M 5PY,531,1,1,1,London,Flat / Apartment
+1517,1517,950000,Clerkenwell,EC1V 4JY,939,1,1,1,London,Flat / Apartment
+1518,1518,1695000,,W12 9RJ,1705,4,4,4,London,House
+1519,1519,785000,,W12 0PH,1098,3,3,3,London,House
+1520,1520,1450000, Wimbledon,SW19 5HU,2028,5,5,5,London,House
+1521,1521,1795000,Wimbledon,SW19 8LX,2336,5,5,5,London,House
+1522,1522,2900000, St. John's Wood,NW8 7LX,1677,4,4,4,London,Flat / Apartment
+1523,1523,2000000,Richmond,TW10 6JH,1719,4,4,4,Surrey,House
+1524,1524,1695000,Putney,SW15 2LJ,3235,6,6,6,London,House
+1525,1525,575000,Putney,SW18 5SJ,983,2,2,2,London,Flat / Apartment
+1526,1526,4950000,,W2 5JT,2861,5,5,5,London,House
+1527,1527,635000,,SW11 2RB,942,2,2,2,London,Flat / Apartment
+1528,1528,2100000,82-88 Fulham High Street,SW6 3LF,1688,4,4,4,London,New development
+1529,1529,6000000, Leatherhead,KT22 0NJ,12546,7,7,7,Surrey,House
+1530,1530,1195000,Ealing Common,W5 3LR,2150,5,5,5,London,House
+1531,1531,1750000,,SW10 9BJ,1134,2,2,2,London,Flat / Apartment
+1532,1532,475000,Clapham,SW9 9PQ,637,2,2,2,London,Flat / Apartment
+1533,1533,1195000,,SW17 7PL,1823,5,5,5,London,House
+1534,1534,1100000,,SW12 9QQ,1449,5,5,5,London,House
+1535,1535,2050000,,SW12 8JJ,2563,5,5,5,London,House
+1536,1536,1225000,,SW16 2JU,2337,5,5,5,London,House
+1537,1537,425000,,SW17 7RG,620,1,1,1,London,Flat / Apartment
+1538,1538,385000,,SW16 5HR,800,2,2,2,London,House
+1539,1539,395000,,SW16 1QW,771,1,1,1,London,Flat / Apartment
+1540,1540,525000, Wandsworth,SW11 3YW,771,2,2,2,London,Flat / Apartment
+1541,1541,2750000, Westminster,SW1P 1PD,2339,5,5,5,London,Flat / Apartment
+1542,1542,1395000,Putney,SW15 2LL,2358,6,6,6,London,House
+1543,1543,1995000,Marylebone,W1H 2DX,1156,3,3,3,London,Flat / Apartment
+1544,1544,3950000,Great Portland Street,W1W 7NT,2227,4,4,4,Fitzrovia,Penthouse
+1545,1545,1850000,82-88 Fulham High Street,SW6 3LF,1462,3,3,3,London,New development
+1546,1546,1600000,,SW12 8AB,2561,5,5,5,London,House
+1547,1547,2524000,Water Lane,EC3R 6EA,1008,2,2,2,London,New development
+1548,1548,780000,27 Carlton Drive,SW15 2BS,798,2,2,2,London,New development
+1549,1549,2225000,Chiswick,W4 5RG,2899,4,4,4,London,New development
+1550,1550,550000,Chiswick,W4 5RG,581,1,1,1,London,New development
+1551,1551,4650000,,SW10 9RX,2245,3,3,3,London,Flat / Apartment
+1552,1552,3150000,Barnes,SW13 9RJ,2894,5,5,5,London,House
+1553,1553,935000,,SW11 5UP,1179,3,3,3,London,House
+1554,1554,625000,Prince of Wales Drive,SW11 4HW,613,2,2,2,London,Flat / Apartment
+1555,1555,699950, Wimbledon,SW20 8HJ,1334,2,2,2,London,Flat / Apartment
+1556,1556,9950000,Belgravia,SW1W 9AP,2832,3,3,3,London,Flat / Apartment
+1557,1557,2750000,Richmond,TW10 6ET,2213,5,5,5,Surrey,House
+1558,1558,1995000,,W1W 8SN,1077,3,3,3,London,Flat / Apartment
+1559,1559,2500000, Loughton,IG10 4RL,4012,5,5,5,Essex,House
+1560,1560,999950,Highbury,N5 1HH,840,2,2,2,London,Flat / Apartment
+1561,1561,550000,Islington,N1 1EW,399,1,1,1,London,Flat / Apartment
+1562,1562,2600000,East Finchley,N2 0HX,3318,5,5,5,London,House
+1563,1563,2150000,Fulham,SW6 4AQ,2087,5,5,5,London,House
+1564,1564,1800000,East Sheen,SW14 8AU,2001,5,5,5,London,House
+1565,1565,1395000,Wandsworth,SW17 7AP,2390,5,5,5,London,House
+1566,1566,1100000, Fulham,SW6 5EF,1370,3,3,3,London,House
+1567,1567,700000,,W14 0AU,693,2,2,2,London,Flat / Apartment
+1568,1568,1200000,Wandsworth,SW18 3AX,1743,4,4,4,London,House
+1569,1569,2125000,Wandsworth,SW18 2RH,2591,5,5,5,London,House
+1570,1570,2850000,Richmond,TW9 1LW,2934,5,5,5,Surrey,House
+1571,1571,750000,Northwood,HA6 1EL,1309,3,3,3,Middlesex,House
+1572,1572,8950000,,W11 4NJ,3711,4,4,4,London,New development
+1573,1573,535000, Epping,CM16 7JS,900,3,3,3,Essex,House
+1574,1574,575000, Waltham Abbey,EN9 3SX,1013,3,3,3,Essex,Bungalow
+1575,1575,1425000,82-88 Fulham High Street,SW6 3LF,1063,2,2,2,London,New development
+1576,1576,2650000, Belsize Park,NW3 3EA,1727,2,2,2,London,New development
+1577,1577,775000,65 Maygrove Road,NW6 2DA,870,2,2,2,London,New development
+1578,1578,1425000,,SW12 8DH,1980,5,5,5,London,House
+1579,1579,1125000,,SW17 7QW,1727,4,4,4,London,House
+1580,1580,895000,,SW17 8UB,1407,4,4,4,London,House
+1581,1581,650000,,SW16 1QW,884,2,2,2,London,Flat / Apartment
+1582,1582,1295000,,SW12 8BW,1873,4,4,4,London,House
+1583,1583,2100000,Coleridge Gardens,SW10 0RG,1527,3,3,3,London,Flat / Apartment
+1584,1584,1750000,Battersea,SW11 4RY,2006,5,5,5,London,House
+1585,1585,700000,Battersea,SW11 5RZ,807,2,2,2,London,Flat / Apartment
+1586,1586,2250000, Westminster,SW1H 0HY,1669,3,3,3,London,Flat / Apartment
+1587,1587,750000, Wimbledon,SW19 4AQ,1171,3,3,3,London,Flat / Apartment
+1588,1588,599950,Colliers Wood,SW19 2BY,883,2,2,2,London,New development
+1589,1589,650000,Wimbledon,SW19 5QN,976,2,2,2,London,Flat / Apartment
+1590,1590,1285000,Wandsworth,SW18 2QP,1968,5,5,5,London,House
+1591,1591,600000,,SW18 2ND,692,2,2,2,London,Flat / Apartment
+1592,1592,995000, St. John's Wood,NW8 9NS,812,2,2,2,London,Flat / Apartment
+1593,1593,450000,Wandsworth,SW18 3RG,533,1,1,1,London,Flat / Apartment
+1594,1594,3950000,66 Chiltern Street,W1U 6NJ,1150,2,2,2,London,New development
+1595,1595,575000,,N5 1DH,784,2,2,2,London,New development
+1596,1596,1400000,Fulham,SW6 7BN,1406,4,4,4,London,House
+1597,1597,399950,Oxford Road,W5 3SX,398,1,1,1,London,Flat / Apartment
+1598,1598,675000,,E1W 2BA,970,2,2,2,London,Flat / Apartment
+1599,1599,900000,Wandsworth,SW18 1PP,901,2,2,2,London,New development
+1600,1600,699950,Chelsea Harbour,SW10 0UY,645,1,1,1,Chelsea,Flat / Apartment
+1601,1601,835000,Clifton Road,SW19 4QY,1155,3,3,3,London,Flat / Apartment
+1602,1602,750000,Wimbledon,SW19 4RU,815,2,2,2,London,Flat / Apartment
+1603,1603,939999, Wandsworth,SW18 1AL,1171,3,3,3,London,House
+1604,1604,655000,Riverside Quarter,SW18 1FQ,761,2,2,2,London,Flat / Apartment
+1605,1605,995000,St. John's Wood,NW8 9UJ,1041,2,2,2,London,Flat / Apartment
+1606,1606,675000, Haggerston,N1 5QJ,757,2,2,2,London,Flat / Apartment
+1607,1607,1300000,,TW1 2HE,1626,4,4,4,Twickenham,House
+1608,1608,1095000,Egerton Drive,TW7 7FE,1322,3,3,3,Middlesex,House
+1609,1609,1050000, Watford,WD19 4JN,2562,4,4,4,Hertfordshire,House
+1610,1610,625000,Battersea,SW11 1HD,946,2,2,2,London,Flat / Apartment
+1611,1611,795000,Maida Vale,W9 1ET,666,2,2,2,London,Flat / Apartment
+1612,1612,1445000,Woodford Green,IG8 0JE,2468,6,6,6,Essex,House
+1613,1613,5950000,66 Chiltern Street,W1U 6NJ,1916,2,2,2,London,New development
+1614,1614,830000,,N1 2NX,813,2,2,2,London,Flat / Apartment
+1615,1615,495000,Lofting Road,N1 1JD,758,3,3,3,London,Flat / Apartment
+1616,1616,699950,Fulham Road,SW6 5JB,935,3,3,3,London,Flat / Apartment
+1617,1617,1350000,,SW6 2RB,1636,4,4,4,London,House
+1618,1618,400000,Hanger Lane,W5 1EP,764,2,2,2,London,Flat / Apartment
+1619,1619,865000,,SW10 9BS,559,2,2,2,London,Flat / Apartment
+1620,1620,1100000,East Sheen,SW14 8RF,1345,4,4,4,London,House
+1621,1621,1250000,,SW12 0BH,2176,4,4,4,London,House
+1622,1622,4416000,Water Lane,EC3R 6EA,1847,3,3,3,London,New development
+1623,1623,699950,Battersea,SW11 4DB,831,2,2,2,London,Flat / Apartment
+1624,1624,1995000,Belgravia,SW1W 9DH,1575,3,3,3,London,Flat / Apartment
+1625,1625,625000,,SW11 6DF,694,2,2,2,London,Flat / Apartment
+1626,1626,2395000,Loughton,IG10 4DP,5300,7,7,7,Essex,House
+1627,1627,570000,Islington,N1 1ET,642,2,2,2,London,Flat / Apartment
+1628,1628,450000,Green Lanes,N16 9BT,595,2,2,2,London,Flat / Apartment
+1629,1629,695000, Hampstead,NW3 7TW,1042,3,3,3,London,Flat / Apartment
+1630,1630,1375000,East Sheen,SW14 7PZ,1791,4,4,4,London,House
+1631,1631,1550000,,SW17 8EP,2302,4,4,4,London,House
+1632,1632,2150000,Chiswick,W4 1UB,1929,5,5,5,London,House
+1633,1633,1750000,Prince of Wales Drive,SW11 4BW,1660,3,3,3,London,Flat / Apartment
+1634,1634,4950000,Primrose Hill,NW1 7SU,2610,5,5,5,London,Flat / Apartment
+1635,1635,1100000,Wandsworth,SW18 2DA,1685,5,5,5,London,House
+1636,1636,995000,Kentish Town,NW5 2AR,1172,3,3,3,London,Flat / Apartment
+1637,1637,475000,,SW18 2EL,650,2,2,2,London,Flat / Apartment
+1638,1638,495000,1 Brightlingsea Place,E14 8DB,696,1,1,1,London,Flat / Apartment
+1639,1639,1795000,Wimbledon,SW19 5QR,2605,4,4,4,London,House
+1640,1640,1795000,Wimbledon,SW20 8PD,2001,5,5,5,London,House
+1641,1641,1350000,Wandsworth,SW18 1AD,1519,3,3,3,London,House
+1642,1642,475000,,E9 5NW,584,1,1,1,London,Flat / Apartment
+1643,1643,2850000,Richmond,TW10 6TH,2338,4,4,4,Surrey,House
+1644,1644,700000,Putney,SW18 1QG,947,2,2,2,London,House
+1645,1645,930000,Pinner,HA5 1TL,1834,5,5,5,Middlesex,House
+1646,1646,1575000,,SW11 6AB,1986,5,5,5,London,House
+1647,1647,900000,34-37 Beaumont Street,W1G 6DH,650,2,2,2,Marylebone,Flat / Apartment
+1648,1648,750000,,W1U 8AG,421,1,1,1,London,Flat / Apartment
+1649,1649,2600000,,W1T 3BH,1281,2,2,2,London,New development
+1650,1650,1950000,Marylebone,W1U 2LR,1765,2,2,2,London,Flat / Apartment
+1651,1651,1200000,Fitzrovia,W1T 6DS,852,2,2,2,London,Flat / Apartment
+1652,1652,840000, Marylebone,W1G 6DH,625,2,2,2,London,Flat / Apartment
+1653,1653,1050000,Marylebone,W1U 6AW,848,3,3,3,London,Flat / Apartment
+1654,1654,1065000,Loughton,IG10 4AL,2625,5,5,5,Essex,House
+1655,1655,1000000,Kensington High Street,W8 7RD,862,2,2,2,London,Flat / Apartment
+1656,1656,1100000,,W8 6LP,706,2,2,2,London,Flat / Apartment
+1657,1657,800000,,N1 2LZ,794,2,2,2,London,Flat / Apartment
+1658,1658,875000,,E2 8QF,972,2,2,2,London,Penthouse
+1659,1659,900000,,E8 3QW,1055,2,2,2,London,Flat / Apartment
+1660,1660,875000,Hampstead,NW3 1BN,1210,2,2,2,London,Flat / Apartment
+1661,1661,1795000, Esher,KT10 0HD,3796,6,6,6,Surrey,House
+1662,1662,935000,Esher,KT10 8NX,1583,3,3,3,Surrey,House
+1663,1663,2695000,Esher,KT10 9NU,5164,5,5,5,Surrey,House
+1664,1664,2250000, Chiswick,W4 3HP,2654,5,5,5,London,House
+1665,1665,1950000,,W14 0AJ,2063,5,5,5,London,House
+1666,1666,475000,1 Woodger Road,W12 8NW,474,1,1,1,London,New development
+1667,1667,2500000,,SW11 4EN,2235,5,5,5,London,House
+1668,1668,1695000,,SW11 4RF,2014,5,5,5,London,House
+1669,1669,550000,28 Quebec Way,SE16 7FS,540,1,1,1,London,New development
+1670,1670,2550000,,W8 7PD,1451,3,3,3,London,House
+1671,1671,695000,,SW18 3SX,983,1,1,1,London,Flat / Apartment
+1672,1672,725000,,N4 2LE,1323,3,3,3,London,Flat / Apartment
+1673,1673,1600000,Thames Ditton,KT7 0LB,2609,5,5,5,Surrey,House
+1674,1674,675000,Putney,SW15 6LD,986,3,3,3,London,Flat / Apartment
+1675,1675,1100000,17 Western Gateway,E16 1AQ,1809,2,2,2,London,Penthouse
+1676,1676,450000,Greenwich,SE10 0NQ,566,1,1,1,London,Flat / Apartment
+1677,1677,635000,,E8 2AA,840,2,2,2,London,Flat / Apartment
+1678,1678,1500000,Barnes,SW13 8DY,2035,5,5,5,London,House
+1679,1679,4650000,,W6 7BL,3244,6,6,6,London,House
+1680,1680,695000, Putney,SW15 1PP,734,2,2,2,London,New development
+1681,1681,865000,,E1W 2BQ,1115,2,2,2,London,Flat / Apartment
+1682,1682,1195000,Old Brompton Road,SW5 9HN,1300,3,3,3,London,Flat / Apartment
+1683,1683,450000,8 Jude Street,E16 1FG,731,2,2,2,London,Flat / Apartment
+1684,1684,475000, West Ealing,W13 8RA,639,1,1,1,London,New development
+1685,1685,700000,,SW11 3NZ,1021,2,2,2,London,Flat / Apartment
+1686,1686,1850000,,W1H 4QF,1454,2,2,2,London,Flat / Apartment
+1687,1687,699950,Wimbledon,SW19 8PA,918,3,3,3,London,House
+1688,1688,700000, Chigwell,IG7 5AL,942,3,3,3,Essex,House
+1689,1689,699950,Islington,N1 5EN,942,2,2,2,London,New development
+1690,1690,750000,Wandsworth,SW11 2UE,914,3,3,3,London,House
+1691,1691,675000,Wimbledon,SW19 4ND,586,2,2,2,London,House
+1692,1692,765000,Tollgate Gardens,NW6 5FU,818,2,2,2,London,Flat / Apartment
+1693,1693,625000,,SW18 2HG,789,2,2,2,London,Flat / Apartment
+1694,1694,595000, Northwood,HA6 3NG,1197,2,2,2,Middlesex,Flat / Apartment
+1695,1695,675000,,N1 2FT,803,3,3,3,London,Flat / Apartment
+1696,1696,1095000,,SW17 8DN,1466,4,4,4,London,House
+1697,1697,1150000,,SW11 4RT,1012,3,3,3,London,Flat / Apartment
+1698,1698,860000,,N1 0NG,1018,2,2,2,London,Flat / Apartment
+1699,1699,2500000, Hampstead,NW3 5JY,1615,3,3,3,London,New development
+1700,1700,3395000,Putney,SW15 5BU,3583,6,6,6,London,House
+1701,1701,899950,,E3 5AL,1615,3,3,3,London,House
+1702,1702,1200000, Victoria,SW1P 1HL,1077,2,2,2,London,Flat / Apartment
+1703,1703,595000,Southfields,SW18 5NN,947,3,3,3,London,Flat / Apartment
+1704,1704,375000,Sunnyside,SW19 4SG,402,1,1,1,London,Flat / Apartment
+1705,1705,1180000, Kingston upon Thames,KT2 7LF,1732,3,3,3,Surrey,Flat / Apartment
+1706,1706,1800000,Southfields,SW18 5JF,2626,5,5,5,London,House
+1707,1707,2750000,Wimbledon,SW20 0ET,4180,5,5,5,London,House
+1708,1708,575000,Wandsworth,SW18 2NX,680,2,2,2,London,Flat / Apartment
+1709,1709,1550000,,SW18 2QL,2265,5,5,5,London,House
+1710,1710,1695000,Marylebone,NW1 6LW,1636,4,4,4,London,Flat / Apartment
+1711,1711,600000,Elm Tree Road,NW8 9JT,514,1,1,1,London,Flat / Apartment
+1712,1712,2700000,Kingston upon Thames,KT2 5SW,3705,6,6,6,Surrey,House
+1713,1713,699950,Putney,SW15 2DU,816,2,2,2,London,Flat / Apartment
+1714,1714,1225000,Putney,SW15 1NA,1450,3,3,3,London,House
+1715,1715,950000,King's Cross,NW1 9DJ,849,3,3,3,London,New development
+1716,1716,799999,Primrose Hill,NW1 8HX,483,1,1,1,London,Flat / Apartment
+1717,1717,1725000,Ruislip,HA4 7AQ,2512,5,5,5,Middlesex,House
+1718,1718,550000, Northwood,HA6 2BD,1899,2,2,2,Middlesex,Flat / Apartment
+1719,1719,925000,,W11 2HE,635,1,1,1,London,Flat / Apartment
+1720,1720,1625000,,SW11 6AE,2056,4,4,4,London,House
+1721,1721,825000,,SW17 7EB,840,2,2,2,London,Flat / Apartment
+1722,1722,900000,,SW17 7RT,1170,3,3,3,London,Flat / Apartment
+1723,1723,550000,,SW4 7TP,790,2,2,2,London,Flat / Apartment
+1724,1724,1500000, Marylebone,W1H 5ZA,1186,3,3,3,London,Flat / Apartment
+1725,1725,750000,30 Gatliff Road,SW1W 8QN,627,1,1,1,London,Flat / Apartment
+1726,1726,1695000,,SW3 2RB,1187,2,2,2,London,Flat / Apartment
+1727,1727,599950,Islington,N1 0EN,432,1,1,1,London,Flat / Apartment
+1728,1728,2399500,,N1 1BZ,2222,4,4,4,London,House
+1729,1729,950000,,N1 2EA,929,3,3,3,London,Flat / Apartment
+1730,1730,875000,,N1 3HX,918,2,2,2,London,Flat / Apartment
+1731,1731,2250000,Barnsbury,N1 1JL,1642,4,4,4,London,House
+1732,1732,4395000,Hampstead,NW3 2TD,3292,5,5,5,London,House
+1733,1733,439950,Makepeace Avenue,N6 6ES,466,1,1,1,London,Flat / Apartment
+1734,1734,1795000,Hornsey Lane,N6 5LJ,1669,4,4,4,London,House
+1735,1735,699950,,SW6 1JP,734,2,2,2,London,Flat / Apartment
+1736,1736,815000,Fulham,SW6 7AD,969,3,3,3,London,Flat / Apartment
+1737,1737,1375000,,SW6 7BA,1427,4,4,4,London,House
+1738,1738,1630000,Esher,KT10 8HQ,3457,6,6,6,Surrey,House
+1739,1739,1195000,Thames Ditton,KT7 0UH,1953,5,5,5,Surrey,House
+1740,1740,1595000,Thames Ditton,KT7 0RN,3110,4,4,4,Surrey,House
+1741,1741,1850000,Esher,KT10 9NU,2739,5,5,5,Surrey,House
+1742,1742,725000, Esher,KT10 9SF,1328,3,3,3,Surrey,Flat / Apartment
+1743,1743,895000, Esher,KT10 9SL,1255,2,2,2,Surrey,Flat / Apartment
+1744,1744,775000,Esher,KT10 8NT,1160,3,3,3,Surrey,House
+1745,1745,2250000,,SW5 0PD,1700,3,3,3,London,Flat / Apartment
+1746,1746,2650000,,SW5 0ND,1393,2,2,2,London,Flat / Apartment
+1747,1747,480000,32 Duckett Street,E1 4FX,732,2,2,2,London,Flat / Apartment
+1748,1748,1975000,,SW17 8QZ,2827,6,6,6,London,House
+1749,1749,625000,,SW12 8JE,638,2,2,2,London,House
+1750,1750,1850000,,SW12 8TY,2286,4,4,4,London,House
+1751,1751,1600000,,SW12 8DF,2201,5,5,5,London,House
+1752,1752,399995,Greenwich,SE10 0NN,553,1,1,1,London,Flat / Apartment
+1753,1753,1350000,Chiswick,W4 2LJ,1628,4,4,4,London,House
+1754,1754,760000,Chiswick,W4 5NN,919,2,2,2,London,House
+1755,1755,1600000, Chiswick,W4 3EB,1983,4,4,4,London,House
+1756,1756,500000,Chelsea,SW3 5BZ,373,1,1,1,London,Flat / Apartment
+1757,1757,2350000,Barnes,SW13 0DY,2200,5,5,5,London,House
+1758,1758,1325000,Barnes,SW13 8DS,1476,3,3,3,London,House
+1759,1759,1350000,,SW6 7EJ,1707,4,4,4,London,House
+1760,1760,850000,49 Atalanta Street,SW6 6TU,906,2,2,2,London,Flat / Apartment
+1761,1761,1500000,Brackenbury Village,W6 0BE,2024,4,4,4,London,Duplex
+1762,1762,1090000,101 Wood Lane,W12 7FS,923,2,2,2,London,New development
+1763,1763,1425000,6 Wood Crescent,W12 7GS,1067,2,2,2,London,Flat / Apartment
+1764,1764,925000,,SW8 3TJ,1518,4,4,4,London,House
+1765,1765,1080000,,SW11 3HN,1435,3,3,3,London,House
+1766,1766,1100000,Albert Bridge Road,SW11 4PQ,942,2,2,2,London,Flat / Apartment
+1767,1767,1000000,Battersea,SW11 2DS,1523,4,4,4,London,House
+1768,1768,2500000, Battersea,SW11 4PD,1717,2,2,2,London,Flat / Apartment
+1769,1769,650000,,SW1V 4LA,509,1,1,1,London,Flat / Apartment
+1770,1770,500000,,E2 7PQ,815,3,3,3,London,Flat / Apartment
+1771,1771,499999,Little Venice,W2 6NQ,360,1,1,1,London,Flat / Apartment
+1772,1772,800000,Fitzrovia,WC1E 7AX,558,2,2,2,London,Flat / Apartment
+1773,1773,1140000, Fitzrovia,W1T 1JN,580,1,1,1,London,New development
+1774,1774,2150000, Marylebone,W1H 7HE,1969,3,3,3,London,Flat / Apartment
+1775,1775,2000000,,WC2N 5NS,1415,2,2,2,London,Flat / Apartment
+1776,1776,1475000,,SW12 8HF,2366,4,4,4,London,House
+1777,1777,695000,,W1U 8AG,429,1,1,1,London,Flat / Apartment
+1778,1778,1895000,35 Pembroke Road,W8 6LZ,1447,3,3,3,London,Penthouse
+1779,1779,500000,,N7 8BW,563,1,1,1,52 Holloway Road,Flat / Apartment
+1780,1780,585000,,N1 5EN,750,2,2,2,London,Flat / Apartment
+1781,1781,1525000,Hackney,E8 3AQ,1750,4,4,4,London,House
+1782,1782,1500000, Longfield Avenue,W5 2JU,1311,3,3,3,London,Flat / Apartment
+1783,1783,2950000,Ealing,W5 2QB,4125,6,6,6,London,House
+1784,1784,2950000,Ealing,W13 8AP,3165,5,5,5,London,House
+1785,1785,765000,Surbiton,KT5 8BH,1143,3,3,3,Surrey,House
+1786,1786,1050000,Surbiton,KT5 8PD,1949,4,4,4,Surrey,House
+1787,1787,850000,East Sheen,SW14 8LH,1326,3,3,3,London,House
+1788,1788,999500,22 Wapping High Street,E1W 1NJ,796,2,2,2,London,Flat / Apartment
+1789,1789,525000,,SW17 9NE,714,2,2,2,London,Flat / Apartment
+1790,1790,550000,Balham,SW12 0PQ,701,2,2,2,London,Flat / Apartment
+1791,1791,1350000,,SW12 8LR,1605,4,4,4,London,House
+1792,1792,825000,,W14 0DP,753,2,2,2,London,Flat / Apartment
+1793,1793,699995, Canary Wharf,E14 6NJ,791,2,2,2,London,Flat / Apartment
+1794,1794,590000,,E8 1NA,1271,4,4,4,London,House
+1795,1795,1650000, Fulham,SW6 5EA,2042,5,5,5,London,House
+1796,1796,625000,3 Forfar Road,SW11 4FR,776,1,1,1,London,Flat / Apartment
+1797,1797,750000,Islington,EC1V 7AH,789,2,2,2,London,Flat / Apartment
+1798,1798,539000,Whiston Road,E2 8FS,610,2,2,2,London,Flat / Apartment
+1799,1799,699950,North Kensington,W10 6EN,602,2,2,2,London,Flat / Apartment
+1800,1800,1500000,,SW14 8RF,1580,4,4,4,London,House
+1801,1801,2500000,,SW14 8AU,3058,6,6,6,London,House
+1802,1802,1495000,,SW1X 9JU,886,2,2,2,London,Flat / Apartment
+1803,1803,1100000,Lafone Street,SE1 2LZ,1058,2,2,2,London,Flat / Apartment
+1804,1804,3000000,,W5 2HT,6049,5,5,5,London,Flat / Apartment
+1805,1805,2695000,,SW14 7AT,2938,6,6,6,London,House
+1806,1806,725000,59 Lurline Gardens,SW11 4DF,800,2,2,2,London,Flat / Apartment
+1807,1807,1700000,Belgrave Gardens,NW8 0RA,1303,3,3,3,London,Flat / Apartment
+1808,1808,3350000,Islington,N1 0ET,3564,4,4,4,London,House
+1809,1809,999995,,E16 2PL,1855,3,3,3,London,House
+1810,1810,3650000,Belsize Park,NW3 5BH,3070,5,5,5,London,House
+1811,1811,1295000,,SW11 3RA,1471,2,2,2,London,Flat / Apartment
+1812,1812,1395000,,WC1H 9SH,847,2,2,2,London,Flat / Apartment
+1813,1813,2850000,Mayfair,W1J 7FZ,1091,2,2,2,London,Flat / Apartment
+1814,1814,470000,,SW18 2PW,531,1,1,1,London,Flat / Apartment
+1815,1815,830000,70 Buckingham Gate,SW1E 6AL,551,1,1,1,London,Flat / Apartment
+1816,1816,1250000,,W3 0AY,1872,4,4,4,London,House
+1817,1817,895000,Pimlico,SW1V 2HX,836,2,2,2,London,Flat / Apartment
+1818,1818,8000000,Wimbledon,SW19 5ES,6713,8,8,8,London,House
+1819,1819,825000,Whitehead Close,SW18 3EP,1443,3,3,3,London,House
+1820,1820,625000,Banbury Road,E9 7EB,925,3,3,3,London,Flat / Apartment
+1821,1821,2500000,,SW1X 0JW,1033,3,3,3,London,Flat / Apartment
+1822,1822,4000000,,SW1X 0HY,1948,3,3,3,London,Flat / Apartment
+1823,1823,3950000,34 De Vere Gardens,W8 5AQ,2573,3,3,3,London,Flat / Apartment
+1824,1824,675000,Canonbury,N1 3EU,722,2,2,2,London,Flat / Apartment
+1825,1825,925000,Star Place,E1W 1AJ,969,2,2,2,London,Flat / Apartment
+1826,1826,1550000,,SW12 8LW,1963,4,4,4,London,House
+1827,1827,999950,Albert Bridge Road,SW11 4PQ,927,2,2,2,London,Flat / Apartment
+1828,1828,715000, Canary Wharf,E14 9DF,969,2,2,2,London,Flat / Apartment
+1829,1829,1650000,Barnes,SW13 0PU,1869,4,4,4,London,House
+1830,1830,2650000,Islington,N1 2JX,2314,5,5,5,London,House
+1831,1831,850000, Shoreditch,E2 8HH,1249,3,3,3,London,Penthouse
+1832,1832,475000,Hoxton,N1 6JB,477,1,1,1,London,Flat / Apartment
+1833,1833,950000,,EC2A 3HH,1190,2,2,2,London,Flat / Apartment
+1834,1834,1250000,Wandsworth,SW18 2NN,1658,4,4,4,London,House
+1835,1835,2500000,Chiswick,W4 1SF,2960,5,5,5,London,House
+1836,1836,1950000,Esher,KT10 9EG,2817,6,6,6,Surrey,House
+1837,1837,2950000,20 Nine Elms Lane,SW8 5BZ,2128,3,3,3,London,Penthouse
+1838,1838,1395000,,EC1V 0DP,1150,2,2,2,London,Flat / Apartment
+1839,1839,1300000,Downs Road,E5 8DE,1476,3,3,3,London,Penthouse
+1840,1840,1025000,Albert Bridge Road,SW11 4PQ,947,3,3,3,London,Flat / Apartment
+1841,1841,650000,,E1 4LR,997,2,2,2,London,House
+1842,1842,2000000,Harrow On The Hill,HA1 3LD,2593,4,4,4,Middlesex,House
+1843,1843,950000,,E9 5SX,1298,4,4,4,London,House
+1844,1844,500000, Highbury,N5 1RX,572,1,1,1,London,Flat / Apartment
+1845,1845,1200000,,E1W 3QS,1125,3,3,3,London,House
+1846,1846,625000,Shoreditch,E2 6EA,842,1,1,1,London,Flat / Apartment
+1847,1847,1350000,Wandsworth,SW18 2NR,1873,5,5,5,London,House
+1848,1848,1899950,,N7 8LS,1250,3,3,3,London,House
+1849,1849,2100000,Morpeth Terrace,SW1P 1ET,1556,4,4,4,London,Flat / Apartment
+1850,1850,3900000,,SW1P 3LD,2139,3,3,3,London,House
+1851,1851,39750000,Mayfair,W1K 4AB,5623,5,5,5,London,New development
+1852,1852,14250000,Mayfair,W1K 4AB,2415,3,3,3,London,New development
+1853,1853,1300000,,W5 2QS,1986,3,3,3,London,Flat / Apartment
+1854,1854,730000,Westminster,SW1P 1AB,693,2,2,2,London,Flat / Apartment
+1855,1855,409950,,W14 0SR,463,1,1,1,London,Flat / Apartment
+1856,1856,735000,Wandsworth,SW18 2PG,983,3,3,3,London,Flat / Apartment
+1857,1857,495000,Old Street,N1 7NB,499,1,1,1,London,Flat / Apartment
+1858,1858,875000, Shoreditch,EC2A 4LE,898,1,1,1,London,Flat / Apartment
+1859,1859,1250000,,W9 1DJ,913,2,2,2,London,Flat / Apartment
+1860,1860,700000,Maida Vale,W9 1RW,870,2,2,2,London,Flat / Apartment
+1861,1861,8250000,Mayfair,W1K 4AB,1455,2,2,2,London,New development
+1862,1862,835000,,N1 3JZ,878,2,2,2,London,Flat / Apartment
+1863,1863,800000,Hackney,N1 5QJ,920,3,3,3,London,New development
+1864,1864,1950000,,SW14 7LG,2006,5,5,5,London,House
+1865,1865,725000,,E1 4DY,904,3,3,3,London,House
+1866,1866,900000, Clerkenwell,EC1V 3AP,802,2,2,2,London,Flat / Apartment
+1867,1867,800000,Mayfair,W1K 7AF,532,1,1,1,London,Flat / Apartment
+1868,1868,2550000,Chiswick,W4 1BW,2679,5,5,5,London,House
+1869,1869,1400000, Uxbridge,UB10 8AF,2921,4,4,4,Middlesex,Bungalow
+1870,1870,675000,Maida Vale,W9 2BT,676,1,1,1,London,Flat / Apartment
+1871,1871,725000,,SW18 2DQ,875,2,2,2,London,Flat / Apartment
+1872,1872,3950000,8 High Timber Street,EC4V 3PA,2780,3,3,3,London,Flat / Apartment
+1873,1873,4750000,Oxshott,KT22 0UU,8590,7,7,7,Surrey,House
+1874,1874,2250000,Chiswick,W4 4EH,2736,5,5,5,London,House
+1875,1875,4300000,Oxshott,KT22 0QE,9623,7,7,7,Surrey,House
+1876,1876,2550000,,SW17 8RD,3753,7,7,7,London,House
+1877,1877,5500000,Wandsworth,SW18 3JN,4292,6,6,6,London,House
+1878,1878,435000,,SW4 0PF,465,1,1,1,London,Flat / Apartment
+1879,1879,499950,,N4 4QA,666,1,1,1,London,Flat / Apartment
+1880,1880,1800000,,TW1 2TN,2098,4,4,4,Twickenham,House
+1881,1881,435000,,E3 5GG,506,1,1,1,London,Flat / Apartment
+1882,1882,995000,Westminster,SW1P 1LQ,747,2,2,2,London,Flat / Apartment
+1883,1883,1550000,21 Highbury Crescent,N5 1RX,1315,3,3,3,London,Flat / Apartment
+1884,1884,3600000,,SW1P 2NP,2600,4,4,4,London,House
+1885,1885,750000,,W14 8HB,709,2,2,2,London,Flat / Apartment
+1886,1886,680000,Pimlico,SW1V 4QE,581,2,2,2,London,Flat / Apartment
+1887,1887,1395000,Holloway,N7 6QJ,1428,5,5,5,London,House
+1888,1888,575000,Enid Street,SE16 3EX,745,2,2,2,London,Flat / Apartment
+1889,1889,2675000,Wimbledon,SW20 0ET,3595,5,5,5,London,House
+1890,1890,2200000,Old Street,N1 7LB,2288,3,3,3,London,Flat / Apartment
+1891,1891,2300000,,W11 2AN,1447,2,2,2,London,House
+1892,1892,520000,,SE18 3JB,1162,4,4,4,London,House
+1893,1893,875000,,SW17 8SF,1140,4,4,4,London,House
+1894,1894,740000,101 Wood Lane,W12 7FS,579,1,1,1,London,Penthouse
+1895,1895,525000,,SW18 2PW,699,2,2,2,London,Flat / Apartment
+1896,1896,9500000,,W8 4AJ,4454,5,5,5,London,House
+1897,1897,1250000,,W12 7GP,897,2,2,2,London,Flat / Apartment
+1898,1898,795000,,SW17 0EQ,1236,3,3,3,London,House
+1899,1899,935000,,SW5 9DY,683,2,2,2,London,Flat / Apartment
+1900,1900,535000,,W4 3DF,678,2,2,2,London,Flat / Apartment
+1901,1901,1995000,,W6 7QH,2055,4,4,4,London,House
+1902,1902,1800000,Blackheath,SE3 7PQ,2996,5,5,5,London,House
+1903,1903,750000,,SW16 2BY,1030,3,3,3,London,House
+1904,1904,1430000, Earls Court,SW6 1UE,905,2,2,2,London,New development
+1905,1905,1500000,,N1 9LS,1197,2,2,2,London,Flat / Apartment
+1906,1906,1890000,,SW4 9LT,2408,5,5,5,London,House
+1907,1907,1990000,St. Johns Wood Park,NW8 6RG,1364,3,3,3,London,Flat / Apartment
+1908,1908,825000,,SW11 4ND,1109,2,2,2,London,Flat / Apartment
+1909,1909,525000,Charlotte Terrace,N1 0JF,779,4,4,4,London,Flat / Apartment
+1910,1910,1900000, Orpington,BR6 7FF,4558,5,5,5,Kent,House
+1911,1911,725000,,SW11 1XQ,635,2,2,2,London,Flat / Apartment
+1912,1912,900000,,E1W 2BS,1436,2,2,2,London,Flat / Apartment
+1913,1913,3995000,Pimlico,SW1V 2BQ,4642,6,6,6,London,House
+1914,1914,1100000, Wandsworth,SW18 1AW,1420,3,3,3,London1500,House
+1915,1915,975000,Pinner,HA5 2NZ,1448,4,4,4,Middlesex,House
+1916,1916,1225000,Southfields,SW18 5AG,1495,4,4,4,London,House
+1917,1917,325000,Shepperton,TW17 8SH,601,2,2,2,Middlesex,Flat / Apartment
+1918,1918,1175000,Wandsworth,SW18 3DY,2259,5,5,5,London,House
+1919,1919,500000,Shoreditch,EC1V 1AG,551,1,1,1,London,Flat / Apartment
+1920,1920,6600000,,SW1X 8RH,3388,5,5,5,London,House
+1921,1921,850000, Richmond,TW10 6BH,1239,3,3,3,Surrey,Flat / Apartment
+1922,1922,3950000, Richmond,TW10 5HG,4629,6,6,6,Surrey,House
+1923,1923,1750000,Primrose Hill,NW1 7SX,1677,2,2,2,London,Flat / Apartment
+1924,1924,1950000,East Molesey,KT8 0SP,2797,6,6,6,Surrey,House
+1925,1925,2100000,Prince of Wales Drive,SW11 4BN,1550,3,3,3,London,Flat / Apartment
+1926,1926,1685000,Prince of Wales Drive,SW11 4EU,1318,2,2,2,London,Flat / Apartment
+1927,1927,550000, Battersea,SW11 3RS,759,1,1,1,London,Flat / Apartment
+1928,1928,690000,,W10 5RZ,633,1,1,1,Wornington Road,New development
+1929,1929,685000,,W10 5RZ,594,1,1,1,Wornington Road,New development
+1930,1930,765000,,W10 5RZ,733,2,2,2,Wornington Road,New development
+1931,1931,435000,,SW12 0BH,412,1,1,1,London,Flat / Apartment
+1932,1932,435000,,SW12 0BH,420,1,1,1,London,Flat / Apartment
+1933,1933,825000,,W10 5RZ,775,2,2,2,Wornington Road,New development
+1934,1934,1150000, Wandsworth,SW18 1SZ,1206,3,3,3,London,New development
+1935,1935,710000,,W10 5RZ,830,1,1,1,Wornington Road,New development
+1936,1936,1695000,Avenue Road,NW8 6DA,1168,2,2,2,London,Flat / Apartment
+1937,1937,500000,Shoreditch,N1 7NB,508,1,1,1,London,Flat / Apartment
+1938,1938,850000,,SW12 0BH,907,3,3,3,London,Flat / Apartment
+1939,1939,970000,350 The Highway,E1W 3HU,1350,2,2,2,London,Flat / Apartment
+1940,1940,1650000,,N5 1AU,1642,4,4,4,London,House
+1941,1941,475000,Approach Road,E2 9JR,663,2,2,2,London,Flat / Apartment
+1942,1942,1050000,,SW4 8QL,1050,2,2,2,London,Flat / Apartment
+1943,1943,1750000,,SW6 3AH,1770,4,4,4,London,House
+1944,1944,750000,,W11 3HN,477,1,1,1,London,Flat / Apartment
+1945,1945,650000, Woodford Green,IG8 8RJ,1162,2,2,2,Essex,Flat / Apartment
+1946,1946,580000,,NW3 4BL,607,1,1,1,London,Flat / Apartment
+1947,1947,1680000, Earls Court,SW6 1UE,1100,2,2,2,London,New development
+1948,1948,1250000, Covent Garden,WC2R 0PP,802,1,1,1,London,Flat / Apartment
+1949,1949,700000, Canary Wharf,E14 3FD,1387,4,4,4,London,Flat / Apartment
+1950,1950,799999,Wandsworth,SW18 2DN,1283,2,2,2,London,Flat / Apartment
+1951,1951,825000,Singapore Road,W13 0FD,1175,3,3,3,London,Flat / Apartment
+1952,1952,1050000,101 Wood Lane,W12 7FT,953,2,2,2,London,Flat / Apartment
+1953,1953,575000,,SW18 2LR,720,2,2,2,London,Flat / Apartment
+1954,1954,725000, St Johns Wood,NW8 7DW,617,2,2,2,London,Flat / Apartment
+1955,1955,1000000,,KT7 0LT,1827,4,4,4,Thames Ditton,House
+1956,1956,525000,348 Queenstown Road,SW11 8QN,472,1,1,1,London,Flat / Apartment
+1957,1957,1600000,30 Gatliff Road,SW1W 8QP,1019,3,3,3,London,Flat / Apartment
+1958,1958,1550000,Wandsworth,SW18 2QH,2326,5,5,5,London,House
+1959,1959,750000,Wandsworth,SW18 2DT,1176,3,3,3,London,Flat / Apartment
+1960,1960,950000,Shoreditch,E2 7BY,987,2,2,2,London,House
+1961,1961,4250000,,SW3 4BL,2223,4,4,4,London,House
+1962,1962,710000,Putney,SW15 2LF,730,2,2,2,London,Flat / Apartment
+1963,1963,1100000,Northwood,HA6 3PR,2007,4,4,4,Middlesex,House
+1964,1964,1600000,Northwood,HA6 3HW,2914,4,4,4,Middlesex,House
+1965,1965,12950000, Marylebone,W1U 4EJ,2840,2,2,2,London,New development
+1966,1966,749950,Highbury,N5 2NP,1053,3,3,3,London,Flat / Apartment
+1967,1967,899950,,W5 4TR,1344,5,5,5,London,House
+1968,1968,699950, Chessington,KT9 2LZ,1410,3,3,3,Surrey,House
+1969,1969,399995, Greenwich,SE10 0GS,569,1,1,1,London,Flat / Apartment
+1970,1970,525000,45 Narrow Street,E14 8DW,814,1,1,1,London,Flat / Apartment
+1971,1971,2500000,Chiswick,W4 2ER,2967,5,5,5,London,New development
+1972,1972,950000,Curlew Street,SE1 2NP,698,2,2,2,London,Flat / Apartment
+1973,1973,1750000,Kingston Upon Thames,KT2 7NR,2553,5,5,5,Surrey,New development
+1974,1974,1225000,Fulham,SW6 6NE,1510,4,4,4,London,House
+1975,1975,700000,,SW11 5EJ,678,2,2,2,London,Flat / Apartment
+1976,1976,2170000, Earls Court,SW6 1UE,1081,3,3,3,London,New development
+1977,1977,3250000,Richmond,TW9 1NS,3410,3,3,3,Surrey,House
+1978,1978,630000, Canary Wharf,E14 9BU,709,2,2,2,London,Flat / Apartment
+1979,1979,1600000,Islington,N1 7AH,1565,3,3,3,London,House
+1980,1980,475000,South Hackney,E9 7AU,626,2,2,2,London,Flat / Apartment
+1981,1981,1025000,Richmond,TW10 6TH,992,3,3,3,Surrey,Flat / Apartment
+1982,1982,500000,,SW6 5SA,481,1,1,1,London,Flat / Apartment
+1983,1983,550000,Fitzrovia,W1T 6NU,358,1,1,1,London,Flat / Apartment
+1984,1984,4350000,Barnes,SW13 9PR,4862,6,6,6,London,House
+1985,1985,575000, Northwood,HA6 2BD,997,2,2,2,Middlesex,Flat / Apartment
+1986,1986,2650000,Richmond,TW10 5BX,3009,5,5,5,Surrey,House
+1987,1987,775000,,W14 0DS,1173,1,1,1,London,Flat / Apartment
+1988,1988,1345000,Putney,SW15 2LS,1909,4,4,4,London,House
+1989,1989,2250000,Putney,SW15 6NE,2978,5,5,5,London,House
+1990,1990,500000, Battersea,SW11 3RY,752,1,1,1,London,Flat / Apartment
+1991,1991,1600000,Lambeth,SE1 7XQ,1192,2,2,2,London,Flat / Apartment
+1992,1992,515000,Wandsworth,SW18 1SF,578,1,1,1,London,Flat / Apartment
+1993,1993,495000,,SW18 2HQ,693,1,1,1,London,Flat / Apartment
+1994,1994,1485000,Bow,E3 2DA,1541,4,4,4,London,House
+1995,1995,3650000,Regent's Park,NW1 7PZ,2034,4,4,4,London,House
+1996,1996,825000,,N1 6EJ,896,3,3,3,London,Penthouse
+1997,1997,630000,Coulsdon,CR5 3JH,1596,4,4,4,Surrey,House
+1998,1998,675000,,SW11 1DS,1021,3,3,3,London,Flat / Apartment
+1999,1999,17950000,,SW3 2AH,5880,5,5,5,London,New development
+2000,2000,699950,Canonbury,N1 2FT,976,3,3,3,London,Flat / Apartment
+2001,2001,600000,Eaton Rise,W5 2HB,854,3,3,3,London,Flat / Apartment
+2002,2002,900000,Thames Ditton,KT7 0PY,1363,4,4,4,Surrey,House
+2003,2003,1195000, Esher,KT10 0DR,2149,4,4,4,Surrey,House
+2004,2004,395000, Greenwich,SE10 0GY,594,1,1,1,London,Penthouse
+2005,2005,795000,24 Marsh Wall,E14 9DB,862,2,2,2,London,Flat / Apartment
+2006,2006,1350000,Bishops King Road,W14 8QQ,1768,3,3,3,London,Flat / Apartment
+2007,2007,3600000,24 New Globe Walk,SE1 9DS,2147,3,3,3,London,Flat / Apartment
+2008,2008,1599950,Fernshaw Road,SW10 0TD,1111,3,3,3,London,Flat / Apartment
+2009,2009,1850000,1 St. George Wharf,SW8 2DU,1176,2,2,2,London,Flat / Apartment
+2010,2010,875000,Putney,SW18 1FT,1211,3,3,3,London,House
+2011,2011,1350000,,SW14 8NX,1830,5,5,5,London,House
+2012,2012,625000,,SW11 6HB,760,2,2,2,London,Flat / Apartment
+2013,2013,5500000,,SW18 2SU,4273,6,6,6,London,House
+2014,2014,1595000,Chiswick,W4 2SR,1643,5,5,5,London,House
+2015,2015,4750000,,W11 3EN,2979,4,4,4,London,House
+2016,2016,675000,Fulham,SW6 4EA,638,1,1,1,London,Flat / Apartment
+2017,2017,900000,Islington,N1 8HD,822,2,2,2,London,Flat / Apartment
+2018,2018,6450000,Belsize Park,NW3 5DX,5288,6,6,6,London,House
+2019,2019,1600000,Islington,N1 8NL,1195,2,2,2,London,House
+2020,2020,3750000,Mayfair,W1J 5HG,1358,2,2,2,London,Flat / Apartment
+2021,2021,465000,Homerton High Street,E9 6BH,730,2,2,2,London,Flat / Apartment
+2022,2022,850000,,SW4 0HQ,842,2,2,2,London,Flat / Apartment
+2023,2023,3250000,Barnes,SW13 9RR,3179,6,6,6,London,House
+2024,2024,1500000,84 St. Katharines Way,E1W 1BE,1200,2,2,2,London,Flat / Apartment
+2025,2025,450000,Canary Wharf,E14 7DJ,717,2,2,2,London,Flat / Apartment
+2026,2026,2375000,Emery Hill Street,SW1P 1PD,2123,3,3,3,London,Flat / Apartment
+2027,2027,1550000,Esher,KT10 9ET,3065,4,4,4,Surrey,House
+2028,2028,1780000,Ealing,W13 9QB,2264,5,5,5,London,House
+2029,2029,775000,De Beauvoir,N1 4LA,729,2,2,2,London,Flat / Apartment
+2030,2030,1450000,Earsby Street,W14 8QW,1700,4,4,4,London,Flat / Apartment
+2031,2031,425000,Bow,E3 2JR,563,1,1,1,London,Flat / Apartment
+2032,2032,2250000,,SW3 5LX,1171,2,2,2,London,Flat / Apartment
+2033,2033,4250000,,W2 2LU,1946,4,4,4,London,Penthouse
+2034,2034,2000000,Barnes,SW13 9HP,2009,4,4,4,London,House
+2035,2035,800000,Canary Wharf,E14 9WE,1260,4,4,4,London,House
+2036,2036,900000,Homerton,E9 5EB,1275,3,3,3,London,House
+2037,2037,6950000,,SW3 5JB,3774,5,5,5,London,House
+2038,2038,779000,Putney,SW15 1QQ,832,2,2,2,London,Flat / Apartment
+2039,2039,945000,Putney,SW15 6JR,1146,2,2,2,London,House
+2040,2040,1295000,Northwood,HA6 2TA,2055,4,4,4,Middlesex,House
+2041,2041,599999,,SW4 7UZ,821,2,2,2,London,Flat / Apartment
+2042,2042,550000,,SW11 6QB,630,2,2,2,London,Flat / Apartment
+2043,2043,700000,,SW11 1RQ,680,2,2,2,London,Flat / Apartment
+2044,2044,1850000,Islington,N1 1TQ,1512,3,3,3,London,House
+2045,2045,1299995,Esher,KT10 8EF,2394,5,5,5,Surrey,House
+2046,2046,2850000,East Molesey,KT8 9DW,5116,6,6,6,Surrey,House
+2047,2047,2650000,Richmond,TW10 5BW,2942,6,6,6,Surrey,House
+2048,2048,795000,24 Bartholomew Close,EC1A 7BB,541,1,1,1,London,New development
+2049,2049,995000,Greenwich,SE10 0NW,1485,3,3,3,London,Penthouse
+2050,2050,2850000, Tadworth,KT20 6HZ,5380,6,6,6,Surrey,House
+2051,2051,750000,,W9 3JS,1043,3,3,3,London,Flat / Apartment
+2052,2052,900000,,SW17 7PL,1207,3,3,3,London,House
+2053,2053,875000,John Islip Street,SW1P 4EA,922,3,3,3,London,Flat / Apartment
+2054,2054,775000,,SW19 8SH,1201,3,3,3,London,House
+2055,2055,565000, Canary Wharf,E14 4AX,653,1,1,1,London,Flat / Apartment
+2056,2056,2000000,Shoreditch,EC1V 1AZ,1342,3,3,3,London,New development
+2057,2057,1000000,Shoreditch,EC1V 1AZ,772,2,2,2,London,New development
+2058,2058,3075000,,W8 7ST,1477,3,3,3,London,House
+2059,2059,1250000,Canary Wharf,E14 8EH,1877,4,4,4,London,House
+2060,2060,895000,Fitzrovia,W1T 1PN,601,1,1,1,London,Flat / Apartment
+2061,2061,900000,Shoreditch,EC1V 2NR,1273,2,2,2,London,Flat / Apartment
+2062,2062,699950,West Molesey,KT8 2PS,1226,3,3,3,Surrey,House
+2063,2063,850000,Dartmouth Park,NW5 1SX,1382,3,3,3,London,Flat / Apartment
+2064,2064,725000,Battersea,SW11 3LY,872,2,2,2,London,Flat / Apartment
+2065,2065,345000,Wandsworth,SW18 4GY,433,1,1,1,London,Flat / Apartment
+2066,2066,950000,Oxhey,WD19 4QQ,1896,4,4,4,Watford,House
+2067,2067,1700000,Maida Vale,W9 1SD,1378,3,3,3,London,Penthouse
+2068,2068,1550000,,W8 6QA,958,3,3,3,London,Flat / Apartment
+2069,2069,1350000,4-10 Lexham Gardens,W8 5JH,1428,3,3,3,London,Flat / Apartment
+2070,2070,999950,Highbury,N5 1QZ,726,2,2,2,London,Flat / Apartment
+2071,2071,3300000,Islington,N1 2BH,2640,5,5,5,London,House
+2072,2072,1200000,Surbiton,KT5 8NQ,2491,3,3,3,Surrey,House
+2073,2073,899950,Esher,KT10 8LJ,1504,3,3,3,Surrey,House
+2074,2074,485000,,SE16 7UD,545,1,1,1,Surrey Quays,New development
+2075,2075,630000,72 Lindfield Street,E14 6GT,1043,2,2,2,London,Penthouse
+2076,2076,720000,Greenwich,SE10 0NW,987,2,2,2,London,Flat / Apartment
+2077,2077,2350000,Grove Park,W4 3HP,2666,4,4,4,London,House
+2078,2078,800000,,SW6 6QE,703,2,2,2,London,Flat / Apartment
+2079,2079,1800000,Battersea,SW11 3DN,1909,4,4,4,London,House
+2080,2080,1650000,,SW16 5PE,2942,5,5,5,London,House
+2081,2081,367500, Bow,E3 3QE,472,1,1,1,London,Flat / Apartment
+2082,2082,945000,,SW4 9HP,1081,2,2,2,London,Flat / Apartment
+2083,2083,2500000, Leatherhead,KT22 0UL,5101,6,6,6,Surrey,House
+2084,2084,995000,Oxhey Village,WD19 4EU,1845,4,4,4,Watford,House
+2085,2085,685000,4 Canter Way,E1 8QE,560,1,1,1,London,Flat / Apartment
+2086,2086,1100000,Hampstead,NW3 6NE,1582,4,4,4,London,House
+2087,2087,865000, Earls Court,SW6 1UE,606,1,1,1,London,New development
+2088,2088,725000,Haverstock Street,N1 8BX,696,2,2,2,London,Flat / Apartment
+2089,2089,1200000,Chiswick,W4 5HG,1310,4,4,4,London,House
+2090,2090,1700000,Barnes,SW13 9ER,2126,4,4,4,London,House
+2091,2091,425000,,SW18 2HG,574,1,1,1,London,Flat / Apartment
+2092,2092,995000,Surbiton,KT6 5BX,1839,5,5,5,Surrey,House
+2093,2093,525000,375 Earlsfield Road,SW18 3DG,596,2,2,2,London,Flat / Apartment
+2094,2094,6350000,,SW3 5AP,2948,4,4,4,London,House
+2095,2095,2275000,Teddington,TW11 9PG,2803,5,5,5,Middlesex,House
+2096,2096,825000, 352 Queenstown Road,SW11 8NG,722,2,2,2,London,Flat / Apartment
+2097,2097,1750000,93 Albert Embankment,SE1 7TY,1481,2,2,2,London,Flat / Apartment
+2098,2098,1100000, Wandsworth,SW18 3BN,1632,3,3,3,London,House
+2099,2099,530000,,E3 5NQ,626,2,2,2,London,Flat / Apartment
+2100,2100,1795000,St. John's Wood,NW8 6PH,1149,2,2,2,London,Flat / Apartment
+2101,2101,725000,,SW11 1BL,805,2,2,2,London,Flat / Apartment
+2102,2102,775000,Hackney,E8 3QW,996,2,2,2,London,Flat / Apartment
+2103,2103,850000,,W13 0JA,1242,3,3,3,London,House
+2104,2104,825000,Esher,KT10 8BN,1272,3,3,3,Surrey,House
+2105,2105,845000,,SW16 3HA,1510,4,4,4,London,House
+2106,2106,850000,Clerkenwell,EC1V 7PA,826,2,2,2,London,Flat / Apartment
+2107,2107,875000,Chiswick,W4 1SE,977,2,2,2,London,Flat / Apartment
+2108,2108,1000000,Barnes,SW13 0AQ,1354,3,3,3,London,House
+2109,2109,1050000,78 Buckingham Gate,SW1E 6PE,751,2,2,2,London,Flat / Apartment
+2110,2110,575000,,SW11 5RW,765,2,2,2,London,Flat / Apartment
+2111,2111,995000,,W6 0AU,1013,2,2,2,London,Flat / Apartment
+2112,2112,1650000,Esher,KT10 9EH,3285,4,4,4,Surrey,House
+2113,2113,1545000,,W12 7GJ,1440,2,2,2,London,New development
+2114,2114,869995,,E1W 3HU,1333,2,2,2,London,Flat / Apartment
+2115,2115,1295000,Putney,SW15 5QU,1647,4,4,4,London,House
+2116,2116,4250000,25 Ham Common,TW10 7JB,3893,5,5,5,Surrey,House
+2117,2117,1800000,,SW1V 3SE,1467,3,3,3,London,House
+2118,2118,799950,,SW11 2PN,1194,3,3,3,London,Flat / Apartment
+2119,2119,1999500,Esher,KT10 9JW,3769,5,5,5,Surrey,House
+2120,2120,775000,Putney,SW15 1QQ,863,2,2,2,London,Flat / Apartment
+2121,2121,885000,,N16 8EP,1084,3,3,3,London,Penthouse
+2122,2122,495000, Greenwich,SE10 0RU,821,2,2,2,London,Flat / Apartment
+2123,2123,1550000,East Molesey,KT8 0PF,2690,5,5,5,Surrey,New development
+2124,2124,600000,95 Elm Park Gardens,SW10 9QW,455,1,1,1,London,Flat / Apartment
+2125,2125,1925000,Banstead,SM7 3EF,4124,6,6,6,Surrey,House
+2126,2126,3425000,,SW4 9SB,3622,6,6,6,London,House
+2127,2127,1500000,Barnes,SW13 9AF,2278,5,5,5,London,House
+2128,2128,800000, 372 Queenstown Road,SW11 8NT,708,2,2,2,London,Flat / Apartment
+2129,2129,1050000,,N5 1QP,1020,2,2,2,London,Flat / Apartment
+2130,2130,675000,Islington,N1 2XA,628,2,2,2,London,Flat / Apartment
+2131,2131,875000,Highgate,N6 5JG,1077,2,2,2,London,Flat / Apartment
+2132,2132,1900000,,TW1 2LY,2061,5,5,5,Twickenham,House
+2133,2133,450000,Northwood,HA6 3LX,708,2,2,2,Middlesex,Flat / Apartment
+2134,2134,750000,,W14 8HB,778,2,2,2,London,Flat / Apartment
+2135,2135,685000,Dalston Lane,E8 1FA,1000,3,3,3,London,New development
+2136,2136,4000000,Marylebone,W1U 3ET,2435,3,3,3,London,House
+2137,2137,1335000,Putney,SW15 4HW,1771,3,3,3,London,House
+2138,2138,2250000,150 Vaughan Way,E1W 2AH,1265,3,3,3,London,New development
+2139,2139,1625000, Hampstead,NW3 7SG,1612,3,3,3,London,Flat / Apartment
+2140,2140,850000,,N7 8LE,723,2,2,2,London,Flat / Apartment
+2141,2141,550000,,N7 8LE,536,1,1,1,London,Flat / Apartment
+2142,2142,1400000,,N7 8LE,1259,3,3,3,London,House
+2143,2143,1200000,Nightingale Triangle,SW12 8AZ,1335,4,4,4,London,House
+2144,2144,5995000,Wimbledon,SW19 7DW,6313,6,6,6,London,New development
+2145,2145,495000,Copperwood Place,SE10 8GD,767,2,2,2,London,Flat / Apartment
+2146,2146,2750000, Islington,N1 1JT,2479,4,4,4,London,House
+2147,2147,1675000,Hackney,E8 1HE,2110,4,4,4,London,House
+2148,2148,1595000, Westminster,SW1P 2AR,1316,3,3,3,London,Flat / Apartment
+2149,2149,1395000,St. Johns Wood Park,NW8 6NJ,1171,3,3,3,London,Flat / Apartment
+2150,2150,3295000,9 Abbey Road,NW8 9AQ,2435,4,4,4,London,Flat / Apartment
+2151,2151,800000,Spitalfields,E1 6BP,857,1,1,1,London,Flat / Apartment
+2152,2152,3300000,Belgravia,SW1W 8JP,1669,3,3,3,London,House
+2153,2153,625000,Richmond,TW10 6JW,729,2,2,2,Surrey,Flat / Apartment
+2154,2154,1000000,Chigwell,IG7 5JA,2232,5,5,5,Essex,House
+2155,2155,2250000,,W8 6UW,1735,3,3,3,London,House
+2156,2156,550000,Highbury,N5 1LN,585,1,1,1,London,Flat / Apartment
+2157,2157,3250000,Highgate,N6 5UB,2813,5,5,5,London,House
+2158,2158,2990000, Fulham,SW6 3SN,3175,6,6,6,London,House
+2159,2159,475000,Asher Way,E1W 2JD,566,1,1,1,London,Flat / Apartment
+2160,2160,750000, Limehouse,E14 8DD,885,2,2,2,London,Flat / Apartment
+2161,2161,675000,,W12 9DA,858,3,3,3,London,Flat / Apartment
+2162,2162,950000,Barnes,SW13 8DU,1016,2,2,2,London,Flat / Apartment
+2163,2163,450000,Wandsworth,SW18 4SW,495,1,1,1,London,Flat / Apartment
+2164,2164,1500000, Coulsdon,CR5 3NS,5587,7,7,7,Surrey,House
+2165,2165,2250000,Primrose Hill,NW3 3RP,1547,3,3,3,London,Flat / Apartment
+2166,2166,2295000,,TW1 1HT,3823,6,6,6,Twickenham,House
+2167,2167,2675000,,SW7 1HB,1087,3,3,3,London,House
+2168,2168,3650000,Richmond,TW10 5BN,4135,5,5,5,Surrey,House
+2169,2169,1250000,2-4 Primrose Hill Road,NW3 3AX,943,2,2,2,London,Flat / Apartment
+2170,2170,650000, Esher,KT10 9SL,1031,2,2,2,Surrey,Flat / Apartment
+2171,2171,850000, Vauxhall,SW8 2LR,861,2,2,2,London,Flat / Apartment
+2172,2172,1000000, Canary Wharf,E14 4EF,1514,2,2,2,London,Flat / Apartment
+2173,2173,825000,Kentish Town,NW5 2LL,687,2,2,2,London,Flat / Apartment
+2174,2174,1050000, Regatta Lane,W6 9BF,1091,2,2,2,London,Flat / Apartment
+2175,2175,2375000,Highgate,N6 4LU,3116,6,6,6,London,House
+2176,2176,2950000,Putney,SW15 6NH,3235,6,6,6,London,House
+2177,2177,1595000, Battersea,SW11 3YL,1219,2,2,2,London,Flat / Apartment
+2178,2178,3750000,St John's Wood,NW8 6JL,2243,5,5,5,London,House
+2179,2179,550000, Queens Park,NW6 5FS,599,1,1,1,London,Flat / Apartment
+2180,2180,590000, Royal Docks,E16 1BW,1048,2,2,2,London,Flat / Apartment
+2181,2181,1298000,Covent Garden,WC2B 5EL,591,1,1,1,London,New development
+2182,2182,7100000,Belgravia,SW1W 8TW,2908,5,5,5,London,House
+2183,2183,450000,Wandsworth,SW18 4AG,572,1,1,1,London,Flat / Apartment
+2184,2184,1795000, Islington,N1 7BL,1842,3,3,3,London,House
+2185,2185,375000,,E2 8AS,450,1,1,1,London,Flat / Apartment
+2186,2186,660000, Canary Wharf,E14 0LU,929,2,2,2,London,Flat / Apartment
+2187,2187,7950000,Primrose Hill,NW3 3DN,4168,4,4,4,London,Flat / Apartment
+2188,2188,775000,,W12 7QY,858,2,2,2,London,Flat / Apartment
+2189,2189,995000, Shoreditch,EC1V 1AL,875,2,2,2,London,Flat / Apartment
+2190,2190,1350000,Barnes,SW13 9JF,1520,3,3,3,London,House
+2191,2191,535000,,SW16 2EU,887,3,3,3,London,Flat / Apartment
+2192,2192,385000,,W9 2DU,344,1,1,1,London,Flat / Apartment
+2193,2193,1195000,,SW5 9DQ,723,2,2,2,London,Flat / Apartment
+2194,2194,1195000, Putney,SW15 2JJ,1260,3,3,3,London,Penthouse
+2195,2195,1575000,Marylebone,W1G 7EG,979,2,2,2,London,Flat / Apartment
+2196,2196,3700000,,SW7 1HB,2381,4,4,4,London,House
+2197,2197,550000,Kentish Town,NW5 2AS,474,1,1,1,London,Flat / Apartment
+2198,2198,4250000,Hampstead,NW3 1NT,2402,3,3,3,London,House
+2199,2199,1300000,,W5 1LT,1668,4,4,4,London,House
+2200,2200,625000,,SW5 9DN,491,1,1,1,London,Flat / Apartment
+2201,2201,445000,Devonport Street,E1 0EG,667,2,2,2,London,Flat / Apartment
+2202,2202,670000,,SW12 9EA,743,2,2,2,London,Flat / Apartment
+2203,2203,1385000,,SW12 8LL,1837,4,4,4,London,House
+2204,2204,1650000,,SW12 9PA,2305,5,5,5,London,House
+2205,2205,625000,Nightingale Lane,SW12 8AH,768,2,2,2,London,Flat / Apartment
+2206,2206,995000,Clerkenwell,EC1M 4DT,800,2,2,2,London,Flat / Apartment
+2207,2207,465000,Chiswick,W4 2BZ,594,1,1,1,London,Flat / Apartment
+2208,2208,1300000, Barnes,SW13 8AH,1299,2,2,2,London,Flat / Apartment
+2209,2209,2000000,,W12 0JR,3165,5,5,5,London,House
+2210,2210,1075000, Hampstead,NW3 6XS,1138,2,2,2,London,Flat / Apartment
+2211,2211,5000000,,SW18 3RR,4980,6,6,6,London,House
+2212,2212,1750000,Hilgrove Road,NW6 4TH,2431,4,4,4,London,New development
+2213,2213,1850000,,SW11 3AD,1679,3,3,3,London,House
+2214,2214,900000, Limehouse,E14 8BB,1054,2,2,2,London,Flat / Apartment
+2215,2215,4795000, Vauxhall,SE1 7TY,3943,5,5,5,London,Flat / Apartment
+2216,2216,600000,Augustas Lane,N1 1QT,568,1,1,1,London,Flat / Apartment
+2217,2217,665000,,SW18 1SS,956,2,2,2,London,Flat / Apartment
+2218,2218,1650000,Wandsworth,SW17 7DX,2335,3,3,3,London,House
+2219,2219,999950,Esher,KT10 9BG,2249,5,5,5,Surrey,House
+2220,2220,2250000,,NW6 6TD,2030,6,6,6,London,House
+2221,2221,1245000,,SW14 8BX,1773,4,4,4,London,House
+2222,2222,435000,Hackney,E9 5EL,510,1,1,1,London,Flat / Apartment
+2223,2223,2000000,,W6 0XX,2315,5,5,5,London,House
+2224,2224,700000,176 Gray's Inn Road,WC1X 8ER,623,2,2,2,London,Penthouse
+2225,2225,730000,30-34 Woodfield Place,W9 2BJ,801,2,2,2,London,New development
+2226,2226,525000, Northwood,HA6 2SG,1239,2,2,2,Middlesex,Flat / Apartment
+2227,2227,7250000,Marylebone,W1U 4PY,1991,3,3,3,London,New development
+2228,2228,2895000,,SW17 8JL,4503,7,7,7,London,House
+2229,2229,2850000, Mayfair,W1J 5JX,1275,3,3,3,London,Flat / Apartment
+2230,2230,599950,,SW11 4RR,710,2,2,2,London,Flat / Apartment
+2231,2231,5250000,Marylebone,W1G 8PT,3092,5,5,5,London,House
+2232,2232,600000, Greenwich,SE10 0GS,869,2,2,2,London,Flat / Apartment
+2233,2233,2350000,,SW4 9JL,3071,5,5,5,London,House
+2234,2234,899950,Putney,SW18 1PA,1195,2,2,2,London,Flat / Apartment
+2235,2235,670000,,N1 2XA,662,1,1,1,London,Flat / Apartment
+2236,2236,1175000, Notting Hill,W11 3BP,776,2,2,2,London,Flat / Apartment
+2237,2237,1550000,,SW11 6PZ,1953,4,4,4,London,House
+2238,2238,1995000,,SW11 6EQ,2116,5,5,5,London,House
+2239,2239,1950000,,SW1X 9RU,809,2,2,2,London,Flat / Apartment
+2240,2240,725000,Hertford Road,N1 4SD,940,3,3,3,London,Duplex
+2241,2241,2250000,South Hampstead,NW6 4NN,2293,4,4,4,London,House
+2242,2242,400000,Chiswick,W4 4QF,708,2,2,2,London,Flat / Apartment
+2243,2243,875000,,SW11 4LZ,1141,2,2,2,110 Battersea Park Road,Flat / Apartment
+2244,2244,1500000,,SW11 4PY,1186,3,3,3,London,Flat / Apartment
+2245,2245,2150000, Wandsworth,SW17 7DX,2598,5,5,5,London,House
+2246,2246,895000,Barnes,SW13 9AG,1133,3,3,3,London,House
+2247,2247,2175000,,W6 7DS,2243,4,4,4,London,House
+2248,2248,1750000,,SW11 6AF,2012,5,5,5,London,House
+2249,2249,8500000,,W11 3DS,3493,4,4,4,London,Flat / Apartment
+2250,2250,2500000,Marylebone,W1H 5JH,1888,3,3,3,London,House
+2251,2251,925000,,SW4 7BW,760,2,2,2,London,House
+2252,2252,550000,99 Leman Street,E1 8GH,481,1,1,1,London,Flat / Apartment
+2253,2253,879950, Putney,SW15 1PP,1048,2,2,2,London,New development
+2254,2254,2300000,Chiswick,W4 2NN,2526,5,5,5,London,House
+2255,2255,650000, Putney,SW15 2DN,664,2,2,2,London,Flat / Apartment
+2256,2256,600000,Palmerston Road,W3 8GJ,813,2,2,2,London,New development
+2257,2257,775000,315 Kingsland Road,E8 4DJ,941,1,1,1,London,Flat / Apartment
+2258,2258,7250000,Regent's Park,NW1 4HP,2248,4,4,4,London,Flat / Apartment
+2259,2259,950000,,SW11 6NE,1160,3,3,3,London,Flat / Apartment
+2260,2260,1650000,,SW12 8AF,2434,5,5,5,London,House
+2261,2261,1000000,,N7 8PL,909,2,2,2,London,Flat / Apartment
+2262,2262,975000,,SW12 8RZ,1281,2,2,2,London,Flat / Apartment
+2263,2263,675000,Smugglers Way,SW18 1DB,1097,2,2,2,London,Flat / Apartment
+2264,2264,3495000,,SW1E 5BJ,2176,3,3,3,London,Flat / Apartment
+2265,2265,350000,70 Parkside,SW19 5NL,507,1,1,1,London,Flat / Apartment
+2266,2266,880000,Northwood,HA6 2QL,1573,3,3,3,Middlesex,House
+2267,2267,1250000,Bayswater,W2 4NQ,763,1,1,1,London,Flat / Apartment
+2268,2268,800000,Canonbury,N1 2PQ,1022,2,2,2,London,Flat / Apartment
+2269,2269,735000,Hackney,E8 3LJ,747,2,2,2,London,Flat / Apartment
+2270,2270,1995000,,SW5 0RQ,1495,4,4,4,London,New development
+2271,2271,1350000,,SW12 0HR,2355,5,5,5,London,House
+2272,2272,995000,,SW12 9RY,1255,4,4,4,London,House
+2273,2273,2000000,,SW17 8RA,2680,6,6,6,London,House
+2274,2274,750000,,SW16 1QF,1019,2,2,2,London,Flat / Apartment
+2275,2275,1450000,4 Fairmont Avenue,E14 9JD,1849,2,2,2,London,Flat / Apartment
+2276,2276,1300000,Canary Wharf,E14 9SH,1203,3,3,3,London,New development
+2277,2277,800000,,W6 0NJ,833,2,2,2,London,Flat / Apartment
+2278,2278,1100000,East Molesey,KT8 9AZ,1822,4,4,4,Surrey,House
+2279,2279,2795000,Walton-on-Thames,KT12 1ET,4704,4,4,4,Surrey,House
+2280,2280,2000000,,SW4 0DB,2226,4,4,4,London,House
+2281,2281,360000,Bethnal Green,E2 9RA,411,1,1,1,London,Flat / Apartment
+2282,2282,950000, Fulham,SW6 2FJ,970,2,2,2,London,Flat / Apartment
+2283,2283,825000,King Edward Place,WD23 2RG,1819,3,3,3,Bushey,Flat / Apartment
+2284,2284,2950000,Mayfair,W1K 6LD,840,2,2,2,London,Flat / Apartment
+2285,2285,1200000,,SW17 7QP,1572,3,3,3,London,House
+2286,2286,15000000,,SW10 9UZ,6333,4,4,4,London,New development
+2287,2287,950000,,SW19 4BJ,1255,2,2,2,London,Penthouse
+2288,2288,1495000,,W2 4TQ,939,2,2,2,London,Flat / Apartment
+2289,2289,2750000,,SW1V 4LZ,2738,5,5,5,London,House
+2290,2290,615000,Manfred Road,SW15 2RT,694,2,2,2,London,Flat / Apartment
+2291,2291,580000,Wandsworth,SW18 2LR,817,2,2,2,London,Flat / Apartment
+2292,2292,475000,,SW19 6AZ,695,2,2,2,London,Flat / Apartment
+2293,2293,525000,,SW16 1RB,1152,3,3,3,London,Flat / Apartment
+2294,2294,325000,210 Poplar High Street,E14 0BB,500,1,1,1,London,Flat / Apartment
+2295,2295,995000,College Crescent,NW3 5DP,1039,2,2,2,London,Flat / Apartment
+2296,2296,995000,Battersea,SW11 2BQ,1275,2,2,2,London,House
+2297,2297,1295000,,SW19 1NP,1775,3,3,3,London,House
+2298,2298,1150000,Wandsworth,SW18 2DT,1758,4,4,4,London,House
+2299,2299,1100000,Wandsworth,SW18 3AT,1432,4,4,4,London,House
+2300,2300,560000,,SW18 2DU,661,2,2,2,London,Flat / Apartment
+2301,2301,475000,Shannon Place,NW8 7DP,471,1,1,1,London,Flat / Apartment
+2302,2302,1100000, Shoreditch,E1 6NQ,1052,2,2,2,London,Penthouse
+2303,2303,7250000,,SW1X 0HU,2258,3,3,3,London,Flat / Apartment
+2304,2304,1695000,Richmond,TW9 3AL,1842,4,4,4,Surrey,House
+2305,2305,499999,Chalk Farm,NW1 8AY,464,1,1,1,London,Flat / Apartment
+2306,2306,398000,Primrose Hill,NW3 3AJ,292,1,1,1,London,Flat / Apartment
+2307,2307,845000,,SW11 1EB,776,2,2,2,London,House
+2308,2308,2100000,Islington,N1 1JG,1677,3,3,3,London,House
+2309,2309,1395000,,N1 3NW,1359,3,3,3,London,Flat / Apartment
+2310,2310,900000,10 Llanvanor Road,NW2 2AP,1013,2,2,2,London,Flat / Apartment
+2311,2311,1850000,,NW5 1SU,1623,3,3,3,London,House
+2312,2312,4500000,Belsize Park,NW3 4LD,2774,4,4,4,London,Flat / Apartment
+2313,2313,1650000,East Molesey,KT8 9JF,2698,5,5,5,Surrey,House
+2314,2314,925000,Esher,KT10 0AU,1483,4,4,4,Surrey,House
+2315,2315,1495000,,SW7 4NN,868,2,2,2,London,Flat / Apartment
+2316,2316,1245000,,SW14 7RJ,1489,4,4,4,London,House
+2317,2317,950000,,E1W 2PB,1087,3,3,3,London,Flat / Apartment
+2318,2318,3300000,,SW12 8NH,4415,6,6,6,London,House
+2319,2319,800000,Clerkenwell,EC1V 3AL,814,2,2,2,London,Flat / Apartment
+2320,2320,725000,,W6 0SZ,1023,2,2,2,311 Goldhawk Road,Flat / Apartment
+2321,2321,3000000,,W14 0DA,2853,5,5,5,London,House
+2322,2322,2350000,Battersea,SW11 4EN,2299,5,5,5,London,House
+2323,2323,1860000,Victoria,SW1E 6AN,1174,2,2,2,London,Flat / Apartment
+2324,2324,850000, Westminster,SW1V 1NS,601,2,2,2,London,Flat / Apartment
+2325,2325,650000, Canary Wharf,E14 4AW,929,2,2,2,London,Flat / Apartment
+2326,2326,775000,,SW6 4JZ,780,3,3,3,London,Flat / Apartment
+2327,2327,2575000,East Molesey,KT8 9JJ,3785,5,5,5,Surrey,House
+2328,2328,625000,Fulham,SW6 5SP,693,2,2,2,London,Flat / Apartment
+2329,2329,885000,Kenninghall Road,E5 8DF,1175,3,3,3,London,New development
+2330,2330,595000,Putney,SW15 1NA,647,2,2,2,London,New development
+2331,2331,595000,Putney,SW15 1NA,657,2,2,2,London,New development
+2332,2332,539950,Putney,SW15 1NA,592,2,2,2,London,New development
+2333,2333,750000,Clapham Common North Side,SW4 0AB,1420,2,2,2,London,Flat / Apartment
+2334,2334,1750000, Islington,N1 2LA,1203,3,3,3,London,Flat / Apartment
+2335,2335,575000,5 Hutchings Street,E14 8JX,701,2,2,2,London,Flat / Apartment
+2336,2336,1300000,,SW12 8BG,1272,4,4,4,London,House
+2337,2337,650000,Eastway,E9 5HE,864,3,3,3,London,Flat / Apartment
+2338,2338,2750000,Primrose Hill,NW1 8XH,1471,3,3,3,London,Flat / Apartment
+2339,2339,2275000,Primrose Hill,NW1 8JD,1540,3,3,3,London,Flat / Apartment
+2340,2340,1295000,9 Gatliff Road,SW1W 8DQ,887,2,2,2,London,Flat / Apartment
+2341,2341,675000,Richmond,TW10 6LW,863,2,2,2,Surrey,Flat / Apartment
+2342,2342,1695000,,WD19 4TS,5242,8,8,8,Watford,House
+2343,2343,760000,,SW11 1PG,764,2,2,2,London,Flat / Apartment
+2344,2344,850000,,SW4 0LF,820,2,2,2,London,Flat / Apartment
+2345,2345,850000,London,SW18 3BF,1356,3,3,3,Wandsworth,House
+2346,2346,3750000,Chigwell,IG7 6BY,5272,5,5,5,Essex,House
+2347,2347,285000,Buckhurst Hill,IG9 6LN,693,2,2,2,Essex,Flat / Apartment
+2348,2348,470000, Loughton,IG10 4JH,885,2,2,2,Essex,Flat / Apartment
+2349,2349,1575000,Hackney,E8 1BZ,1799,4,4,4,London,House
+2350,2350,625000,,SW2 4GD,667,2,2,2,London,New development
+2351,2351,1900000,Chiswick,W4 1BS,2199,4,4,4,London,House
+2352,2352,2895000,Barnes,SW13 0AA,3334,6,6,6,London,House
+2353,2353,725000,,W14 0NJ,748,2,2,2,London,Flat / Apartment
+2354,2354,750000,101 Wood Lane,W12 7FT,580,1,1,1,London,Flat / Apartment
+2355,2355,1100000,,SW11 2JB,1324,3,3,3,London,House
+2356,2356,2350000, Battersea,SW11 4NP,2168,3,3,3,London,Flat / Apartment
+2357,2357,2150000,47 Marsham Street,SW1P 3DR,1959,3,3,3,London,Flat / Apartment
+2358,2358,1300000,Wimbledon,SW20 8RQ,2346,5,5,5,London,House
+2359,2359,795000, Wimbledon,SW19 7BP,1082,2,2,2,London,Flat / Apartment
+2360,2360,1350000,Wimbledon,SW20 0RZ,1888,3,3,3,London,Flat / Apartment
+2361,2361,510000,,E9 7DT,721,2,2,2,London,Flat / Apartment
+2362,2362,550000, Marylebone,NW1 6SL,469,2,2,2,London,Flat / Apartment
+2363,2363,635000,Eamont Street,NW8 7DG,619,2,2,2,London,Flat / Apartment
+2364,2364,670000,Winchester Road,NW3 3NE,669,1,1,1,London,Flat / Apartment
+2365,2365,675000,,E1 5AG,774,1,1,1,6 Deal Street,Flat / Apartment
+2366,2366,1000000,Shoreditch,EC1V 2NR,1173,2,2,2,London,Flat / Apartment
+2367,2367,3650000,,SW3 2LD,1616,2,2,2,London,House
+2368,2368,2000000,Richmond,TW10 6PE,1884,5,5,5,Surrey,House
+2369,2369,1075000,Putney,SW18 1PZ,1255,3,3,3,London,House
+2370,2370,799950,Putney,SW15 1RN,905,2,2,2,London,Flat / Apartment
+2371,2371,3695000,Putney,SW15 2DH,4661,6,6,6,London,House
+2372,2372,1750000,Northwood,HA6 2UB,3026,5,5,5,Middlesex,House
+2373,2373,500000,,SW11 5SQ,524,2,2,2,London,Flat / Apartment
+2374,2374,855000,,SW11 6RY,926,2,2,2,London,Flat / Apartment
+2375,2375,675000,,SW4 6HE,693,2,2,2,London,Flat / Apartment
+2376,2376,1295000,,SW11 1EB,1324,4,4,4,London,House
+2377,2377,1450000,,SW11 6AB,1920,5,5,5,London,House
+2378,2378,1675000,,SW4 0LP,1558,3,3,3,London,House
+2379,2379,450000,,SW18 1SS,458,1,1,1,London,Flat / Apartment
+2380,2380,600000,,SW18 1SS,818,2,2,2,London,Flat / Apartment
+2381,2381,525000,,SW18 1SS,565,1,1,1,London,Flat / Apartment
+2382,2382,850000,Elgin Avenue,W9 2NP,791,2,2,2,London,Flat / Apartment
+2383,2383,1095000,Marylebone,W1W 6JN,663,2,2,2,London,Flat / Apartment
+2384,2384,2575000,Marylebone,W1G 8AE,1374,3,3,3,London,Flat / Apartment
+2385,2385,1750000,Mayfair,W1K 2RP,1089,2,2,2,London,Flat / Apartment
+2386,2386,5950000,Oxshott,KT22 0UL,11610,6,6,6,Surrey,New development
+2387,2387,1950000,,SW1X 7BA,1010,2,2,2,London,House
+2388,2388,1395000,,SW3 4DY,757,1,1,1,London,Flat / Apartment
+2389,2389,3200000,,W8 7JJ,2282,3,3,3,London,House
+2390,2390,775000,,W8 7AX,476,1,1,1,London,Flat / Apartment
+2391,2391,2300000,,W8 7SU,1433,3,3,3,London,House
+2392,2392,300000,Livermere Road,E8 4LG,483,1,1,1,London,Flat / Apartment
+2393,2393,1795000,Kentish Town,NW5 4ER,1787,4,4,4,London,House
+2394,2394,1550000,,N2 9BJ,1888,4,4,4,London,House
+2395,2395,875000,,NW3 2NL,985,2,2,2,London,Flat / Apartment
+2396,2396,2350000, Fulham,SW6 6NX,2858,5,5,5,London,House
+2397,2397,1950000,Ranelagh Gardens,SW6 3RT,1730,3,3,3,London,Flat / Apartment
+2398,2398,1400000, Fulham,SW6 4QX,1102,3,3,3,London,House
+2399,2399,2750000,,W5 2JB,3558,7,7,7,London,House
+2400,2400,500000,Ealing,W5 3NJ,770,2,2,2,London,Flat / Apartment
+2401,2401,1150000, Esher,KT10 9AQ,2382,5,5,5,Surrey,House
+2402,2402,900000,Esher,KT10 8JB,1606,4,4,4,Surrey,House
+2403,2403,500000,Surbiton,KT6 7TA,669,2,2,2,Surrey,House
+2404,2404,1150000,Surbiton,KT5 8PP,1961,4,4,4,Surrey,House
+2405,2405,870000,1-3 Coleherne Road,SW10 9BS,635,1,1,1,London,Flat / Apartment
+2406,2406,1160000,,SW5 0AQ,689,2,2,2,London,Flat / Apartment
+2407,2407,1350000,,SW6 1FU,1023,3,3,3,London,New development
+2408,2408,1075000,,E1W 2RR,1575,2,2,2,London,Flat / Apartment
+2409,2409,695000,,SW4 9DX,848,2,2,2,London,Flat / Apartment
+2410,2410,1225000,,SW12 8RJ,1350,3,3,3,London,House
+2411,2411,2300000,,SW12 8HL,2668,5,5,5,London,House
+2412,2412,550000,10 Gatton Road,SW17 0EE,848,2,2,2,London,Flat / Apartment
+2413,2413,450000, Canary Wharf,E14 9LU,640,2,2,2,London,Flat / Apartment
+2414,2414,399995,2 Rennie Street,SE10 0GS,569,1,1,1,London,Flat / Apartment
+2415,2415,650000, Canary Wharf;,E14 9JW,1399,2,2,2,London,Flat / Apartment
+2416,2416,950000,Clerkenwell,EC1R 1YA,963,2,2,2,London,Flat / Apartment
+2417,2417,885000,Clerkenwell,EC1N 8QS,747,2,2,2,London,Flat / Apartment
+2418,2418,1595000,Chiswick,W4 5JR,1688,5,5,5,London,House
+2419,2419,675000,20-24 Beaumont Road,W4 5AP,705,2,2,2,London,House
+2420,2420,11200000,,SW3 6DU,4576,5,5,5,London,House
+2421,2421,2500000,Barnes,SW13 0AT,3491,6,6,6,London,House
+2422,2422,775000,101 Wood Lane,W12 7FS,672,1,1,1,London,New development
+2423,2423,995000,22 Bute Gardens,W6 7DR,1081,3,3,3,London,Flat / Apartment
+2424,2424,570000,59 Lurline Gardens,SW11 4DF,640,1,1,1,London,Flat / Apartment
+2425,2425,950000, Battersea,SW11 4PG,935,2,2,2,London,Flat / Apartment
+2426,2426,550000, Shoreditch,E1 5LW,569,2,2,2,London,Flat / Apartment
+2427,2427,1200000, Fulham,W6 9HS,1101,2,2,2,London,Flat / Apartment
+2428,2428,1900000, Wimbledon,SW19 7PD,1961,3,3,3,London,Flat / Apartment
+2429,2429,600000,Wandsworth,SW18 3SN,721,2,2,2,London,Flat / Apartment
+2430,2430,5750000,St John's Wood,NW8 0JT,3753,6,6,6,London,House
+2431,2431,450000,1A Belsham Street,E9 6FA,549,1,1,1,London,Flat / Apartment
+2432,2432,2950000,,NW1 6HE,2142,4,4,4,London,House
+2433,2433,1795000,1A Frognal,NW3 6AL,2064,4,4,4,London,House
+2434,2434,2750000,East Molesey,KT8 9BW,5810,5,5,5,Surrey,House
+2435,2435,875000,Chipstead,CR5 3NB,1756,4,4,4,Surrey,House
+2436,2436,850000,,SW18 2HR,1030,3,3,3,London,Flat / Apartment
+2437,2437,850000,,SW17 7RR,930,2,2,2,London,Flat / Apartment
+2438,2438,2195000,,WC1E 7AR,1384,4,4,4,London,Flat / Apartment
+2439,2439,899995,20 Western Gateway,E16 1BU,1310,2,2,2,London,Penthouse
+2440,2440,700000,,SW10 9EW,560,2,2,2,London,Flat / Apartment
+2441,2441,2125000,Barnes,SW13 9HP,2128,4,4,4,London,House
+2442,2442,975000,,SW11 6JT,1033,3,3,3,London,Flat / Apartment
+2443,2443,2000000,Bloomsbury,WC1N 1DF,1467,3,3,3,London,Flat / Apartment
+2444,2444,450000,3 Western Gateway,E16 1BD,677,1,1,1,London,Flat / Apartment
+2445,2445,375000,Felstead Street,E9 5DT,502,1,1,1,London,Flat / Apartment
+2446,2446,650000,3 Myddelton Passage,EC1R 1XW,562,1,1,1,London,Flat / Apartment
+2447,2447,2200000,,W4 2QH,2177,4,4,4,London,House
+2448,2448,1200000,Northwood,HA6 2BQ,2194,6,6,6,Middlesex,House
+2449,2449,1395000,Putney,SW18 1RS,1835,4,4,4,London,House
+2450,2450,375000, Newham,E16 1AS,590,1,1,1,London,Flat / Apartment
+2451,2451,1200000,,W9 1ES,956,1,1,1,London,Flat / Apartment
+2452,2452,2495000,,W6 7RN,2580,5,5,5,London,House
+2453,2453,950000,,WD19 4TR,2194,4,4,4,Watford,House
+2454,2454,650000,Augustas Lane,N1 1QT,662,1,1,1,London,Flat / Apartment
+2455,2455,1250000,Chelsea Harbour,SW10 0UQ,1159,2,2,2,London,Flat / Apartment
+2456,2456,775000,South Hackney,E9 7SN,847,2,2,2,London,Flat / Apartment
+2457,2457,695000,,SW18 1TF,774,3,3,3,London,Flat / Apartment
+2458,2458,375000,,SW18 4SW,526,1,1,1,London,Flat / Apartment
+2459,2459,830000,,W14 0NP,930,2,2,2,London,Flat / Apartment
+2460,2460,2350000,Esher,KT10 8QD,4777,5,5,5,Surrey,New development
+2461,2461,1000000,Northwood,HA6 1EH,2544,4,4,4,Middlesex,House
+2462,2462,635000, St. James's Park,SW1H 0AA,526,1,1,1,London,Flat / Apartment
+2463,2463,1575000,Esher,KT10 9NU,2369,4,4,4,Surrey,House
+2464,2464,1275000,,W9 1BG,976,3,3,3,London,Flat / Apartment
+2465,2465,699995, Canary Wharf,E14 9RU,919,2,2,2,London,Flat / Apartment
+2466,2466,1100000,Hampstead,NW3 1QH,1313,4,4,4,London,Flat / Apartment
+2467,2467,4500000,91 City Road,EC1Y 1AH,2922,3,3,3,London,Penthouse
+2468,2468,2750000,Connaught Village,W2 2JY,1295,3,3,3,London,Flat / Apartment
+2469,2469,950000,,SW11 4JA,947,3,3,3,London,Flat / Apartment
+2470,2470,715000,Queen's Park,NW6 5LD,789,2,2,2,London,Flat / Apartment
+2471,2471,3100000,,W2 3AN,2047,3,3,3,London,Flat / Apartment
+2472,2472,5450000,,SW1W 8NP,2842,3,3,3,London,House
+2473,2473,1977000,Shoreditch,EC1V 1AA,1075,2,2,2,London,New development
+2474,2474,2379000,Shoreditch,EC1V 1AA,1372,3,3,3,London,New development
+2475,2475,2899000,Shoreditch,EC1V 1AA,1594,3,3,3,London,New development
+2476,2476,4750000,Belsize Park,NW3 4DJ,3546,5,5,5,London,House
+2477,2477,450000,Solebay Street,E1 4PP,800,3,3,3,London,Flat / Apartment
+2478,2478,1245000,Putney,SW15 2QA,1450,4,4,4,London,House
+2479,2479,1195000,Wandsworth,SW18 1BG,1262,3,3,3,London,House
+2480,2480,1325000,,NW8 6EZ,946,2,2,2,London,House
+2481,2481,775000,1 Poole Street,N1 5EB,853,2,2,2,London,Flat / Apartment
+2482,2482,465000,Putney,SW18 1RB,667,1,1,1,London,Flat / Apartment
+2483,2483,1495000,,SW17 8ER,2535,5,5,5,London,House
+2484,2484,650000,,EC1V 3AN,495,1,1,1,London,Flat / Apartment
+2485,2485,775000,,SW14 8DS,926,3,3,3,London,House
+2486,2486,2400000,Fitzrovia,W1T 3BH,1053,2,2,2,London,Flat / Apartment
+2487,2487,1695000,Putney,SW15 1JR,1903,4,4,4,London,House
+2488,2488,1275000,,SW17 8DJ,1980,4,4,4,London,House
+2489,2489,2500000,Highgate,N6 4SH,2475,4,4,4,London,House
+2490,2490,675000,Chigwell,IG7 6ND,1533,3,3,3,Essex,Flat / Apartment
+2491,2491,2500000, Marloes Road,W8 5UJ,1184,3,3,3,Kensington,Flat / Apartment
+2492,2492,850000,Nine Elms,SW8 5BE,819,2,2,2,London,New development
+2493,2493,1795000,,W12 9PY,2101,4,4,4,London,House
+2494,2494,599999, Wandsworth,SW18 1UA,735,1,1,1,London,New development
+2495,2495,575000,Wandsworth,SW18 1UE,613,1,1,1,London,Flat / Apartment
+2496,2496,2999000,,W3 7LR,3900,6,6,6,London,House
+2497,2497,865000,Primrose Hill,NW3 3AR,781,2,2,2,London,Flat / Apartment
+2498,2498,2950000,Northwood,HA6 2NU,4904,5,5,5,Middx,House
+2499,2499,1500000,6 Shad Thames,SE1 2YS,1364,3,3,3,London,Flat / Apartment
+2500,2500,850000,,W5 5NN,972,2,2,2,London,House
+2501,2501,420000,86 Wapping High Street,E1W 2RX,554,1,1,1,London,Flat / Apartment
+2502,2502,825000,Hampstead,NW3 1HE,573,1,1,1,London,Flat / Apartment
+2503,2503,1599999,,TW1 4SU,1704,4,4,4,Twickenham,House
+2504,2504,2150000,Mayfair,W1K 1PU,802,2,2,2,London,Flat / Apartment
+2505,2505,999995,Primrose Hill,NW1 8YA,763,2,2,2,London,Flat / Apartment
+2506,2506,1200000,,SW7 5QX,773,2,2,2,London,Flat / Apartment
+2507,2507,525000, Esher,KT10 8BP,844,2,2,2,Surrey,Flat / Apartment
+2508,2508,695000,Homer Street,W1H 4NF,463,1,1,1,London,Flat / Apartment
+2509,2509,750000,,N1 3GG,785,2,2,2,London,Flat / Apartment
+2510,2510,550000,Northwood,HA6 2XQ,1103,2,2,2,Middlesex,Flat / Apartment
+2511,2511,1500000,,W2 4TE,1133,3,3,3,London,Flat / Apartment
+2512,2512,850000,205 Randolph Avenue,W9 1NR,822,2,2,2,London,Flat / Apartment
+2513,2513,1250000, Shoreditch,E1 6NQ,1407,2,2,2,London,Flat / Apartment
+2514,2514,1375000,St. James's,SW1A 1PH,641,1,1,1,London,Flat / Apartment
+2515,2515,845000,,SW3 5HA,517,1,1,1,London,Flat / Apartment
+2516,2516,560000, Canary Wharf,E14 9EG,541,1,1,1,London,Flat / Apartment
+2517,2517,410000,31 Eltringham Street,SW18 1GR,549,1,1,1,London,Flat / Apartment
+2518,2518,495000,,E9 5SZ,562,1,1,1,London,Flat / Apartment
+2519,2519,795000,,SW12 9NZ,882,2,2,2,London,Flat / Apartment
+2520,2520,3700000,Twickenham,TW1 4TJ,4438,6,6,6,Middlesex,House
+2521,2521,699999,Camden,NW1 7ET,759,1,1,1,London,Flat / Apartment
+2522,2522,1400000,Richmond,TW10 6JW,1388,3,3,3,Surrey,Flat / Apartment
+2523,2523,2000000,,SW2 4HD,2736,5,5,5,London,House
+2524,2524,1750000,,RM4 1NB,3162,5,5,5,Lambourne End,House
+2525,2525,4900000,Marylebone,W1B 1PW,2122,2,2,2,London,Penthouse
+2526,2526,950000,261B City Road,EC1V 1AJ,898,2,2,2,London,New development
+2527,2527,2250000,Esher,KT10 8AD,3874,5,5,5,Surrey,House
+2528,2528,1350000,,EC1V 0AA,1234,2,2,2,London,Flat / Apartment
+2529,2529,900000,Kentish Town,NW5 3AN,962,2,2,2,London,Flat / Apartment
+2530,2530,2850000,East Molesey,KT8 0SP,4094,5,5,5,Surrey,House
+2531,2531,499999,,NW1 7RE,477,1,1,1,London,Flat / Apartment
+2532,2532,2500000,East Molesey,KT8 9EW,3740,6,6,6,Surrey,House
+2533,2533,1500000,,W14 0RR,1539,4,4,4,London,Flat / Apartment
+2534,2534,1050000,63 Mortlake High Street,SW14 8AJ,1184,2,2,2,London,New development
+2535,2535,1450000,Loughton,IG10 4DW,2322,5,5,5,Essex,House
+2536,2536,490000,Hackney,E8 4DS,594,1,1,1,London,Flat / Apartment
+2537,2537,1095000,Covent Garden,WC2R 0NP,741,1,1,1,London,Flat / Apartment
+2538,2538,625000,Barnes,SW13 9RF,648,2,2,2,London,Flat / Apartment
+2539,2539,2600000,,W4 2RU,3252,6,6,6,London,House
+2540,2540,3350000,35 Kensington Court,W8 5BD,2024,4,4,4,London,Flat / Apartment
+2541,2541,3995000,,SW4 9ER,4767,7,7,7,London,House
+2542,2542,2500000,,SW4 6HR,2082,3,3,3,London,House
+2543,2543,720000,3 City North Place,N4 3FQ,883,2,2,2,London,New development
+2544,2544,715000,3 City North Place,N4 3FQ,883,2,2,2,London,New development
+2545,2545,710000,3 City North Place,N4 3FQ,883,2,2,2,London,New development
+2546,2546,450000,Wandsworth,SW18 2DD,678,2,2,2,London,Flat / Apartment
+2547,2547,2350000,Willoughby Road,TW1 2QG,2115,4,4,4,Twickenham,House
+2548,2548,2195000,Teddington,TW11 0DR,3337,5,5,5,Middlesex,House
+2549,2549,915000,Northwood,HA6 1RQ,1771,5,5,5,Middlesex,Bungalow
+2550,2550,950000,142 Offord Road,N1 1NS,955,2,2,2,London,Flat / Apartment
+2551,2551,1200000,52 Prince of Wales Road,NW5 3LN,1152,3,3,3,London,Penthouse
+2552,2552,1895000,Esher,KT10 8QD,3225,5,5,5,Surrey,House
+2553,2553,1295000,Esher,KT10 9JD,2331,4,4,4,Surrey,House
+2554,2554,4950000,Bloomsbury,WC1N 3HB,3908,4,4,4,London,House
+2555,2555,2100000,Chiswick,W4 1TN,2290,5,5,5,London,House
+2556,2556,1275000,,SW4 6DR,1384,3,3,3,London,House
+2557,2557,5250000,Richmond,TW10 6EN,4386,5,5,5,Surrey,House
+2558,2558,1250000,Islington,N1 0EU,1013,3,3,3,London,House
+2559,2559,925000,Hackney,E8 4DQ,913,2,2,2,London,Penthouse
+2560,2560,3100000,Belgravia,SW1W 9DA,1682,2,2,2,London,Flat / Apartment
+2561,2561,3950000, Tadworth,KT20 6JS,10807,7,7,7,Surrey,House
+2562,2562,1775000,Chiswick,W4 3EQ,3143,6,6,6,London,House
+2563,2563,1750000,Wandsworth,SW18 2QW,2230,5,5,5,London,House
+2564,2564,4500000,Oxshott,KT22 0PN,7935,6,6,6,Surrey,House
+2565,2565,1295000,,SW9 9LT,1654,4,4,4,London,House
+2566,2566,1775000,,SW4 9HJ,2446,4,4,4,London,House
+2567,2567,5700000,Duchess of Bedfords Walk,W8 7QQ,2482,3,3,3,London,New development
+2568,2568,2950000,Chelsea,SW3 3NP,1415,3,3,3,London,House
+2569,2569,925000,Esher,KT10 9FN,1642,3,3,3,Surrey,House
+2570,2570,650000,27 Lindsay Square,SW1V 2HS,570,1,1,1,London,Flat / Apartment
+2571,2571,1250000,,SW18 5HA,1674,4,4,4,London,House
+2572,2572,1300000,,SW18 3AG,1805,4,4,4,London,House
+2573,2573,299950,Hackney Wick,E9 5HP,274,1,1,1,London,Flat / Apartment
+2574,2574,6500000,Regent's Park,NW1 4ND,4185,6,6,6,London,House
+2575,2575,365000,,E2 6GE,424,1,1,1,London,Flat / Apartment
+2576,2576,475000,Bethnal Green,E2 0EL,720,2,2,2,London,Flat / Apartment
+2577,2577,1999950,,W2 4NP,1151,3,3,3,London,Flat / Apartment
+2578,2578,750000,Maida Vale,W9 3JH,738,2,2,2,London,Flat / Apartment
+2579,2579,2595000,Maida Vale,W9 1NH,2006,3,3,3,London,Flat / Apartment
+2580,2580,3750000,Temple,WC2R 1AB,1545,3,3,3,London,New development
+2581,2581,530000, Loughton,IG10 3ED,848,2,2,2,Essex,New development
+2582,2582,1350000,,N1 2LZ,954,3,3,3,London,House
+2583,2583,575000,Haggerston,E8 4FB,688,2,2,2,London,Flat / Apartment
+2584,2584,900000, Longfield Avenue,W5 2BT,986,2,2,2,London,New development
+2585,2585,1495000,,SW7 5QG,829,2,2,2,London,Flat / Apartment
+2586,2586,495000,73 Wapping High Street,E1W 2YG,626,1,1,1,London,Flat / Apartment
+2587,2587,300000, Lewisham,SE13 7RW,446,1,1,1,London,Flat / Apartment
+2588,2588,795000, Chiswick,W4 5BP,1019,3,3,3,London,House
+2589,2589,1250000,Barnes,SW13 9EY,1606,3,3,3,London,House
+2590,2590,1875000,Prince of Wales Drive,SW11 4DN,1383,3,3,3,London,Flat / Apartment
+2591,2591,700000,Wandsworth,SW18 1HB,898,2,2,2,London,Flat / Apartment
+2592,2592,4600000,,W2 4LY,2650,5,5,5,London,House
+2593,2593,1630000,,EC1V 2QQ,1049,2,2,2,London,New development
+2594,2594,925000,Wandsworth,SW18 3BA,1357,3,3,3,London,House
+2595,2595,1150000,Carlisle Place,SW1P 1NH,1816,2,2,2,London,Flat / Apartment
+2596,2596,3995000,Wimbledon,SW19 5HL,5509,5,5,5,London,House
+2597,2597,1300000, Esher,KT10 9BW,1946,3,3,3,Surrey,Flat / Apartment
+2598,2598,1425000,,SW17 7AP,2342,5,5,5,London,House
+2599,2599,3300000, Chiswick,W4 1HE,2885,6,6,6,London,House
+2600,2600,890000,,SW1E 6PB,848,2,2,2,London,Flat / Apartment
+2601,2601,425000, Putney,SW15 2RN,523,1,1,1,London,Flat / Apartment
+2602,2602,350000,Prusom Street,E1W 3NN,512,1,1,1,London,Flat / Apartment
+2603,2603,5500000, Kensington,W8 5AE,1866,2,2,2,London,New development
+2604,2604,399000,Malvern Road,NW6 5AT,469,1,1,1,London,Flat / Apartment
+2605,2605,1345000,,SW10 0HU,1001,2,2,2,London,Flat / Apartment
+2606,2606,1200000,154 Lever Street,EC1V 8BG,1154,2,2,2,London,Penthouse
+2607,2607,1595000,Woodford Green,IG8 0EX,2363,5,5,5,Essex,House
+2608,2608,1000000,Thames Ditton,KT7 0UG,1714,5,5,5,Surrey,House
+2609,2609,2850000,Barnes,SW13 0LT,2767,3,3,3,London,New development
+2610,2610,825000,Wandsworth,SW18 2BS,1055,3,3,3,London,Flat / Apartment
+2611,2611,1600000,Northwood,HA6 2YP,2825,5,5,5,Middlesex,House
+2612,2612,715000,,W9 1DL,600,2,2,2,London,Flat / Apartment
+2613,2613,850000,,SW3 5NT,565,2,2,2,London,Flat / Apartment
+2614,2614,625000,,W4 5RR,902,2,2,2,London,Penthouse
+2615,2615,1895000,,W1G 8AE,1079,3,3,3,Marylebone,Flat / Apartment
+2616,2616,8950000, 50 Shad Thames,SE1 2LY,3701,3,3,3,London,Flat / Apartment
+2617,2617,4750000,Canonbury,N1 2HN,4002,5,5,5,London,House
+2618,2618,2195000,,SW11 6AG,2492,4,4,4,London,House
+2619,2619,16999999,Highgate,N6 4LR,11733,9,9,9,London,House
+2620,2620,1150000,,W1H 7EX,1056,2,2,2,London,Flat / Apartment
+2621,2621,1250000,Hampstead,NW3 6PX,1332,3,3,3,London,Flat / Apartment
+2622,2622,1050000,Marylebone,W1B 1NX,631,2,2,2,London,Flat / Apartment
+2623,2623,1650000,,W14 0RP,1641,3,3,3,London,Flat / Apartment
+2624,2624,1600000,,SW12 0HR,1962,4,4,4,London,House
+2625,2625,5000000,Stanmore,HA7 3JF,5156,6,6,6,Middlesex,House
+2626,2626,899950, Esher,KT10 9RL,1743,3,3,3,Surrey,House
+2627,2627,2650000,Esher,KT10 9LZ,4141,5,5,5,Surrey,House
+2628,2628,850000,Pimlico,SW1V 2BH,1100,2,2,2,London,Flat / Apartment
+2629,2629,1350000,Wandsworth,SW18 2RL,1867,4,4,4,London,House
+2630,2630,1825000, Wandsworth,SW18 1AB,2140,4,4,4,London,House
+2631,2631,2350000,Wandsworth,SW18 2RS,3801,7,7,7,London,House
+2632,2632,800000,55 Peloton Avenue,E20 1GY,1039,3,3,3,London,Penthouse
+2633,2633,1100000,Elm Tree Road,NW8 9JT,1152,3,3,3,London,Flat / Apartment
+2634,2634,799950, Putney,SW18 1AX,1160,3,3,3,London,House
+2635,2635,500000,Northwood,HA6 1DU,792,2,2,2,Middlesex,House
+2636,2636,575000,,SW11 1DB,625,2,2,2,London,Flat / Apartment
+2637,2637,1375000,,SW11 1RD,1712,4,4,4,London,New development
+2638,2638,1675000,Islington,N1 3HX,1845,5,5,5,London,House
+2639,2639,700000,Eaton Rise,W5 2EX,964,2,2,2,London,Flat / Apartment
+2640,2640,1400000,Ealing,W5 4JB,2151,5,5,5,London,House
+2641,2641,3295000,,SW5 0JE,1846,3,3,3,London,Flat / Apartment
+2642,2642,489000,Rotherhithe Street,SE16 5UA,660,2,2,2,London,Flat / Apartment
+2643,2643,1395000,Hollywood Road,SW10 9HR,831,2,2,2,London,Penthouse
+2644,2644,1200000,,SW5 0QH,834,1,1,1,London,Flat / Apartment
+2645,2645,695000,Chiswick,W4 1TE,784,2,2,2,London,Flat / Apartment
+2646,2646,500000,18 Western Gateway,E16 1BL,822,2,2,2,London,Flat / Apartment
+2647,2647,950000, Battersea,SW11 3GN,880,2,2,2,London,Flat / Apartment
+2648,2648,1525000,Thirleby Road,SW1P 1HN,1215,2,2,2,London,Flat / Apartment
+2649,2649,649950,Park Road,NW1 4SN,510,1,1,1,London,Flat / Apartment
+2650,2650,3495000,Knightsbridge,SW7 1PL,1409,3,3,3,London,Penthouse
+2651,2651,850000,,SW11 6PY,1010,2,2,2,London,Flat / Apartment
+2652,2652,4250000,Little Venice,W9 1EL,2750,4,4,4,London,Flat / Apartment
+2653,2653,2125000,Esher,KT10 9HD,3763,5,5,5,Surrey,House
+2654,2654,775000,,SW5 0PT,624,2,2,2,London,Flat / Apartment
+2655,2655,450000, Clerkenwell,EC1R 4TW,386,1,1,1,London,Flat / Apartment
+2656,2656,650000,Pimlico,SW1V 4DJ,458,2,2,2,London,Flat / Apartment
+2657,2657,3850000,Fulham Road,SW3 6RS,1776,3,3,3,London,New development
+2658,2658,5500000,124 Knightsbridge,SW1X 7PE,2651,4,4,4,London,Flat / Apartment
+2659,2659,1300000,Chelsea Manor Gardens,SW3 5PN,832,2,2,2,London,Flat / Apartment
+2660,2660,900000,,W5 1JX,1253,3,3,3,London,House
+2661,2661,1500000,,W11 1HR,1107,3,3,3,London,Flat / Apartment
+2662,2662,1075000,,SW11 5RY,1295,3,3,3,London,Duplex
+2663,2663,1150000,Little Venice,W9 1EL,928,2,2,2,London,Flat / Apartment
+2664,2664,2950000,Barnes,SW13 9PD,3953,4,4,4,London,House
+2665,2665,2795000,Battersea,SW11 4XW,2768,4,4,4,London,House
+2666,2666,1150000,Richmond Way,W14 0EB,1100,3,3,3,London,Flat / Apartment
+2667,2667,1200000,Thames Ditton,KT7 0HY,1813,4,4,4,Surrey,House
+2668,2668,2850000,,W2 2NX,1543,3,3,3,London,House
+2669,2669,1900000,Ravenscourt Park,W6 0SN,2090,4,4,4,London,House
+2670,2670,550000,Hammersmith,W6 0RR,517,1,1,1,London,Flat / Apartment
+2671,2671,1550000,Wandsworth,SW17 7DH,1777,4,4,4,London,House
+2672,2672,2195000,Teddington,TW11 0DR,3467,5,5,5,Middlesex,House
+2673,2673,1000000, Shoreditch,N1 6ND,902,1,1,1,London,Flat / Apartment
+2674,2674,2500000,Blackheath,SE3 7RH,3682,5,5,5,London,New development
+2675,2675,895000,,SW19 1JR,1305,3,3,3,London,House
+2676,2676,650000,45 East Hill,SW18 2QZ,797,2,2,2,London,Flat / Apartment
+2677,2677,4150000,,SW1X 0JW,1504,2,2,2,London,Flat / Apartment
+2678,2678,1950000,Hampstead,NW3 6DN,1883,3,3,3,London,Flat / Apartment
+2679,2679,1195000, Esher,KT10 0TT,2389,4,4,4,Surrey,House
+2680,2680,2750000,Old Brompton Road,SW5 0ED,1821,4,4,4,London,Flat / Apartment
+2681,2681,550000,,W12 8JF,529,2,2,2,London,Flat / Apartment
+2682,2682,1500000,,W12 7BG,1860,4,4,4,London,House
+2683,2683,1950000,,SW11 4PT,2090,4,4,4,London,House
+2684,2684,2150000,,W2 4JH,1830,4,4,4,London,Flat / Apartment
+2685,2685,2800000,Fulham,SW6 3BB,2682,5,5,5,London,House
+2686,2686,750000,,SW12 8UH,816,2,2,2,London,Flat / Apartment
+2687,2687,7000000,East Sheen,SW14 7AN,6388,8,8,8,London,House
+2688,2688,395000,Greenwich,SE10 0NN,553,1,1,1,London,Flat / Apartment
+2689,2689,685000,Maida Vale,W9 1NH,661,2,2,2,London,Flat / Apartment
+2690,2690,795000,21 Ravenscourt Gardens,W6 0TU,986,2,2,2,London,Flat / Apartment
+2691,2691,699950,,NW10 7HG,1029,3,3,3,London,House
+2692,2692,600000,14 Lanark Road,W9 1DB,570,2,2,2,London,Flat / Apartment
+2693,2693,625000,,W9 3HR,616,2,2,2,London,Flat / Apartment
+2694,2694,775000,Knighten Street,E1W 1PW,832,3,3,3,London,Flat / Apartment
+2695,2695,1175000,3 Wood Crescent,W12 7GN,880,2,2,2,London,Flat / Apartment
+2696,2696,1200000,,SW11 2QD,1449,4,4,4,London,House
+2697,2697,3000000,Primrose Hill,NW1 7TX,1901,4,4,4,London,Flat / Apartment
+2698,2698,1895000,Richmond,TW10 6TH,1772,4,4,4,Surrey,House
+2699,2699,975000,Maida Vale,W9 2NS,787,2,2,2,London,Flat / Apartment
+2700,2700,2650000,Highgate,N6 5AD,2402,5,5,5,London,Penthouse
+2701,2701,575000, Barnes,SW13 9DH,793,3,3,3,London,Flat / Apartment
+2702,2702,3750000,,W2 4TJ,1657,3,3,3,London,Flat / Apartment
+2703,2703,730000,,SW12 8AZ,893,2,2,2,London,Flat / Apartment
+2704,2704,1095000,,SW4 0QH,1268,3,3,3,London,House
+2705,2705,4400000,Belgravia,SW1W 9PE,2087,4,4,4,London,House
+2706,2706,1850000,,N1 4HR,1625,4,4,4,London,House
+2707,2707,1100000,Hampstead,NW3 2BD,908,2,2,2,London,Flat / Apartment
+2708,2708,430000, Esher,KT10 0LR,826,2,2,2,Surrey,Flat / Apartment
+2709,2709,1495000,The Little Boltons,SW5 0DL,971,2,2,2,London,Flat / Apartment
+2710,2710,375000,,SW16 2AE,504,1,1,1,London,Flat / Apartment
+2711,2711,425000,,SW17 0GU,473,1,1,1,London,Flat / Apartment
+2712,2712,675000,,SW12 8BY,767,2,2,2,London,Flat / Apartment
+2713,2713,3250000,Barnes,SW13 9ED,3203,5,5,5,London,House
+2714,2714,599950,Edgeley Road,SW4 6HA,680,2,2,2,London,Flat / Apartment
+2715,2715,1795000,,SW4 9HQ,2336,5,5,5,London,House
+2716,2716,1495000,Brentford,TW8 8BJ,2322,4,4,4,Middlesex,House
+2717,2717,1000000,,W5 2DW,1380,2,2,2,London,Flat / Apartment
+2718,2718,940000,Putney,SW15 6QQ,1155,2,2,2,London,Flat / Apartment
+2719,2719,399950,Wimbledon,SW19 4QF,305,1,1,1,London,Flat / Apartment
+2720,2720,365000,60 Fairfield Road,E3 2UJ,415,1,1,1,London,Flat / Apartment
+2721,2721,750000,Maida Vale,W9 1RW,892,2,2,2,London,Flat / Apartment
+2722,2722,1850000,Wandsworth,SW18 2EE,2247,5,5,5,London,House
+2723,2723,1825000,Stapleford Abbotts,RM4 1LT,3918,6,6,6,Romford,House
+2724,2724,1000000,Primrose Hill,NW3 3QP,892,2,2,2,London,Flat / Apartment
+2725,2725,1275000,,SW7 1PD,675,2,2,2,London,Flat / Apartment
+2726,2726,2250000, Battesea,SW18 1AY,1945,3,3,3,London,Flat / Apartment
+2727,2727,775000,Loughton,IG10 2QP,1285,3,3,3,Essex,House
+2728,2728,3750000,Camden,NW1 1NJ,4847,6,6,6,London,House
+2729,2729,750000,Lower Holloway,N7 8PG,880,2,2,2,London,Flat / Apartment
+2730,2730,500000, Battersea,SW18 1GJ,680,2,2,2,London,Flat / Apartment
+2731,2731,1600000, Chelsea Harbour,SW10 0UU,1282,2,2,2,London,Flat / Apartment
+2732,2732,700000,Clerkenwell,EC1V 3PA,836,2,2,2,London,Flat / Apartment
+2733,2733,780000,Maida Vale,W9 2EQ,767,2,2,2,London,Flat / Apartment
+2734,2734,2750000,Belgravia,SW1W 8JE,1782,4,4,4,London,House
+2735,2735,660000,,W8 6JE,603,1,1,1,London,Flat / Apartment
+2736,2736,1195000,,SW17 7PT,1602,5,5,5,London,House
+2737,2737,1699000,Fulham,SW6 6NX,1993,5,5,5,London,House
+2738,2738,800000,3 Albert Road,NW6 5FT,937,2,2,2,Queens Park,Flat / Apartment
+2739,2739,1250000,,SW12 8BG,1450,3,3,3,London,House
+2740,2740,800000, St. John's Wood,NW8 7NT,945,3,3,3,London,Flat / Apartment
+2741,2741,2250000,,SW11 6JE,2351,5,5,5,London,House
+2742,2742,1250000, Canary Wharf,E14 9RG,1203,2,2,2,London,Flat / Apartment
+2743,2743,1875000,,SW16 1QW,3478,7,7,7,London,House
+2744,2744,1250000,Hanwell,W7 3QS,2804,5,5,5,London,House
+2745,2745,2750000, Fulham,SW6 3TR,2605,6,6,6,London,House
+2746,2746,550000,,SW18 3BD,896,2,2,2,London,Flat / Apartment
+2747,2747,745000,Fitzrovia,W1W 6RR,703,2,2,2,London,Flat / Apartment
+2748,2748,525000, Putney,SW15 2UG,654,2,2,2,London,Flat / Apartment
+2749,2749,1150000,257 City Road,EC1V 1AE,882,2,2,2,London,Flat / Apartment
+2750,2750,2500000,,W12 7JY,2861,5,5,5,London,House
+2751,2751,799999,Waltham Abbey,EN9 3QR,2156,4,4,4,Essex,House
+2752,2752,1050000,Primrose Hill,NW3 3DS,612,1,1,1,London,New development
+2753,2753,2900000,Marylebone,W1U 6BN,1455,2,2,2,London,Penthouse
+2754,2754,11950000,Marylebone,W1G 6LU,7226,5,5,5,London,House
+2755,2755,3750000,Esher,KT10 9NT,5554,6,6,6,Surrey,House
+2756,2756,850000, Esher,KT10 9BW,1344,2,2,2,Surrey,Flat / Apartment
+2757,2757,1975000,,SW17 8QY,2910,7,7,7,London,House
+2758,2758,2800000, Chiswick,W4 1EW,2959,5,5,5,London,House
+2759,2759,1400000,South Kensington,SW7 3BD,732,2,2,2,London,Flat / Apartment
+2760,2760,725000,Barnes,SW13 0PZ,1242,2,2,2,London,Flat / Apartment
+2761,2761,2000000,,WC1E 6HU,1335,2,2,2,London,Flat / Apartment
+2762,2762,850000,Prince of Wales Drive,SW11 4HA,838,2,2,2,London,Flat / Apartment
+2763,2763,255000,De Beauvoir,N1 4EP,440,1,1,1,London,Flat / Apartment
+2764,2764,795000,,SW12 9NZ,919,2,2,2,London,Flat / Apartment
+2765,2765,1500000,Soho,W1F 8AZ,843,1,1,1,London,New development
+2766,2766,5950000,4 De Vere Gardens,W8 5AE,1993,3,3,3,London,Penthouse
+2767,2767,3250000,,W2 5BX,1813,3,3,3,London,House
+2768,2768,550000,54 Crowder Street,E1 0EZ,893,2,2,2,London,Flat / Apartment
+2769,2769,500000,Kentish Town,NW5 2JY,418,1,1,1,London,Flat / Apartment
+2770,2770,2950000,Wimbledon,SW20 0HJ,3601,6,6,6,London,House
+2771,2771,1135000, Wandsworth,SW18 3BG,1675,4,4,4,London,House
+2772,2772,775000,Northwood,HA6 1QH,1469,4,4,4,Middlesex,House
+2773,2773,1799500,Holloway,N7 9RG,2761,6,6,6,London,House
+2774,2774,650000,Hackney,E8 1LX,1018,2,2,2,London,Flat / Apartment
+2775,2775,2350000,Hampstead Garden Suburb,NW11 7LD,2835,4,4,4,London,House
+2776,2776,795000,,SW5 9DG,666,2,2,2,London,Flat / Apartment
+2777,2777,1900000, Limehouse,E14 8DH,1963,4,4,4,London,Flat / Apartment
+2778,2778,1950000,Barnes,SW13 0PG,1907,5,5,5,London,House
+2779,2779,950000, Northwood,HA6 2FS,1580,3,3,3,Middlesex,Flat / Apartment
+2780,2780,1850000,,W8 5LY,1332,2,2,2,London,Flat / Apartment
+2781,2781,4950000,Duchess of Bedfords Walk,W8 7QQ,2011,2,2,2,London,New development
+2782,2782,2685000,Hampton,TW12 2EG,3873,6,6,6,Middlesex,House
+2783,2783,3995000,Hampstead,NW3 5BX,3480,3,3,3,London,House
+2784,2784,6975000,St John's Wood,NW8 7ED,2583,3,3,3,London,Flat / Apartment
+2785,2785,2250000,Marylebone,W1G 6BT,1269,2,2,2,London,House
+2786,2786,2595000,Barnes,SW13 0BX,3100,5,5,5,London,House
+2787,2787,650000, Islington,N1 2HJ,767,2,2,2,London,Flat / Apartment
+2788,2788,685000, Barnes,SW13 0HA,783,3,3,3,London,Flat / Apartment
+2789,2789,19450000,,SW1X 0AD,4699,5,5,5,London,Flat / Apartment
+2790,2790,1650000,Kingston upon Thames,KT2 7RF,2809,4,4,4,Surrey,House
+2791,2791,600000,Bethnal Green,E2 6FX,1026,3,3,3,London,Flat / Apartment
+2792,2792,515000,Hackney,E8 1JH,518,1,1,1,London,Flat / Apartment
+2793,2793,699950,18A Varden Street,E1 2AR,743,2,2,2,London,Flat / Apartment
+2794,2794,750000,Queen Caroline Street,W6 9DY,1072,4,4,4,London,Flat / Apartment
+2795,2795,599950,Battersea,SW11 4ND,657,2,2,2,London,Flat / Apartment
+2796,2796,2695000,,SW4 9SD,2567,5,5,5,London,House
+2797,2797,3600000,,SW10 9DZ,2000,3,3,3,London,New development
+2798,2798,1050000, Canary Wharf,E14 9DQ,1075,3,3,3,London,New development
+2799,2799,525000,Richmond,TW10 6AU,583,2,2,2,Surrey,Bungalow
+2800,2800,575000, Newham,E16 2TF,810,2,2,2,London,Flat / Apartment
+2801,2801,500000,Alexandra Avenue,SW11 4GA,536,1,1,1,London,Flat / Apartment
+2802,2802,795000,Duke of Wellington Avenue,SE18 6EY,753,2,2,2,London,Flat / Apartment
+2803,2803,550000,Coborn Street,E3 2AB,574,2,2,2,London,Flat / Apartment
+2804,2804,1235000,4 Wood Crescent,W12 7GP,960,2,2,2,London,Flat / Apartment
+2805,2805,2595000,Marylebone,W1H 2LW,1452,3,3,3,London,Flat / Apartment
+2806,2806,2350000, Tadworth,KT20 6PP,5303,5,5,5,Surrey,House
+2807,2807,900000,Bollo Bridge Road,W3 8AY,1467,3,3,3,London,House
+2808,2808,1275000,,E5 0NH,1730,3,3,3,London,House
+2809,2809,2700000,33 Prince Albert Road,NW8 7LU,1665,3,3,3,London,Flat / Apartment
+2810,2810,650000, Brick Lane,E1 6LF,798,3,3,3,London,Flat / Apartment
+2811,2811,475000,,SW11 5NR,425,1,1,1,London,Flat / Apartment
+2812,2812,450000,,SW9 9PH,647,1,1,1,London,Flat / Apartment
+2813,2813,550000,Highbury,N7 7EZ,728,2,2,2,London,New development
+2814,2814,1150000,Hackney,E8 1AP,1398,3,3,3,London,House
+2815,2815,595000,Chiswick,W4 5NH,702,2,2,2,London,Flat / Apartment
+2816,2816,7500000,,SW7 1QJ,2290,3,3,3,London,Flat / Apartment
+2817,2817,4850000,Hampstead,NW3 7UH,5613,5,5,5,London,House
+2818,2818,3195000,Putney,SW15 3JX,4923,6,6,6,London,House
+2819,2819,795000,Fortune Green,NW2 2BX,925,2,2,2,London,New development
+2820,2820,3100000,Richmond,TW10 7AY,3080,5,5,5,Surrey,House
+2821,2821,2295000,,SW4 0QD,2454,4,4,4,London,House
+2822,2822,2800000,,SW12 8JL,2872,5,5,5,London,House
+2823,2823,1450000,,SW19 3ND,2147,3,3,3,London,House
+2824,2824,2950000,,SW17 7ED,3336,6,6,6,London,New development
+2825,2825,625000,Fulham,SW6 7DB,537,2,2,2,London,Flat / Apartment
+2826,2826,1000000,,W3 6DP,1502,3,3,3,London,House
+2827,2827,575000, West Ealing,W13 8RA,800,2,2,2,London,New development
+2828,2828,1095000,Esher,KT10 9QA,1885,4,4,4,Surrey,House
+2829,2829,425000,Balham High Road,SW17 7AQ,590,2,2,2,London,Flat / Apartment
+2830,2830,349995,,E3 3TF,486,1,1,1,London,Flat / Apartment
+2831,2831,1100000, Barons Court,W14 9TP,1335,3,3,3,Fulham,Flat / Apartment
+2832,2832,1800000,,W12 8JN,2366,4,4,4,London,House
+2833,2833,1050000,,W6 7RF,958,2,2,2,London,Flat / Apartment
+2834,2834,1600000,Fulham,SW6 4JZ,1763,4,4,4,London,Flat / Apartment
+2835,2835,4500000,Barnes,SW13 9JS,3908,6,6,6,London,House
+2836,2836,1095000,Woodford Green,IG8 0AR,1838,4,4,4,Essex,House
+2837,2837,1200000,Montaigne Close,SW1P 4BB,1083,2,2,2,London,Flat / Apartment
+2838,2838,2495000,Ennismore Gardens,SW7 1NF,1753,3,3,3,London,Flat / Apartment
+2839,2839,1275000,Battersea,SW11 2PN,1750,4,4,4,London,House
+2840,2840,1500000, St. James's,SW1Y 6BL,798,2,2,2,London,Flat / Apartment
+2841,2841,600000,Maida Vale,W9 2EL,630,2,2,2,London,Flat / Apartment
+2842,2842,1100000,,W9 1PF,908,2,2,2,London,Flat / Apartment
+2843,2843,575000,Raynes Park,SW20 9DG,971,3,3,3,London,House
+2844,2844,925000,Clapham,SW4 9EE,893,2,2,2,London,Flat / Apartment
+2845,2845,1495000, Loughton,IG10 4AD,2433,4,4,4,Essex,House
+2846,2846,4750000,,SW7 4SB,2500,3,3,3,London,Flat / Apartment
+2847,2847,2000000,,W14 8LQ,2189,3,3,3,London,House
+2848,2848,799950,,SW11 3AS,1040,2,2,2,Battersea,Flat / Apartment
+2849,2849,1300000,Chiswick,W4 1DB,1347,3,3,3,London,House
+2850,2850,1100000,Putney,SW15 2QS,2043,4,4,4,London,Flat / Apartment
+2851,2851,1200000,,EC2A 3EP,890,1,1,1,London,Flat / Apartment
+2852,2852,9250000,,W1U 5LU,5139,4,4,4,London,House
+2853,2853,1499000,East Molesey,KT8 9AZ,3238,5,5,5,Surrey,House
+2854,2854,475000, Watford,WD19 4PU,977,3,3,3,Hertfordshire,Flat / Apartment
+2855,2855,925000,,SW11 1BP,944,2,2,2,London,Flat / Apartment
+2856,2856,1450000,Holland Villas Road,W14 8DA,961,2,2,2,London,Flat / Apartment
+2857,2857,1995000,Thames Ditton,KT7 0TU,3443,5,5,5,Surrey,House
+2858,2858,2195000,,SW7 4DG,1623,3,3,3,London,Flat / Apartment
+2859,2859,550000,Great West Road,W6 9AG,797,2,2,2,London,Flat / Apartment
+2860,2860,1950000,Bishops Park,SW6 5LU,2054,5,5,5,Fulham,House
+2861,2861,1375000,Putney,SW15 2NJ,1360,3,3,3,London,House
+2862,2862,799999,,SW11 5SU,1090,2,2,2,London,Flat / Apartment
+2863,2863,440000,10 Frobisher Yard,E16 2GY,847,2,2,2,London,Flat / Apartment
+2864,2864,3500000,Marylebone,W1U 5NH,1956,3,3,3,London,Flat / Apartment
+2865,2865,475000, Bow,E3 4EF,895,2,2,2,London,Flat / Apartment
+2866,2866,825000,Brondesbury,NW6 7XP,1312,3,3,3,London,Flat / Apartment
+2867,2867,3500000,Primrose Hill,NW3 3AY,2956,5,5,5,London,House
+2868,2868,950000,,TW10 6BH,1239,3,3,3,Richmond Hill,Flat / Apartment
+2869,2869,2750000,,SW3 2SB,1474,3,3,3,London,Flat / Apartment
+2870,2870,625000, Stratford,E15 1FY,928,2,2,2,London,Flat / Apartment
+2871,2871,1295000,63 Mortlake High Street,SW14 8HL,1487,2,2,2,London,New development
+2872,2872,2950000,Putney,SW18 1LE,2995,5,5,5,London,House
+2873,2873,899995,Notting Hill,W2 5DP,834,2,2,2,London,Flat / Apartment
+2874,2874,1300000,Hackney,E8 2NW,1907,4,4,4,London,House
+2875,2875,1495000,Belsize Park,NW3 4UH,1020,2,2,2,London,House
+2876,2876,795000,Barnes,SW13 8HL,922,2,2,2,London,Flat / Apartment
+2877,2877,1450000,Chiswick,W4 3UR,2106,4,4,4,London,House
+2878,2878,795000,,SW11 5ED,860,2,2,2,London,Flat / Apartment
+2879,2879,765000,Wandsworth,SW18 2DT,993,2,2,2,London,Flat / Apartment
+2880,2880,2150000,,SW14 8RX,2309,5,5,5,London,House
+2881,2881,825000,East Smithfield,E1W 1AT,616,1,1,1,London,Flat / Apartment
+2882,2882,9500000,,SW3 6QJ,4277,4,4,4,London,House
+2883,2883,1575000, Fulham,SW6 1JJ,1703,4,4,4,London,House
+2884,2884,1575000,Kingston upon Thames,KT2 7HZ,2514,4,4,4,Surrey,House
+2885,2885,1350000,,SW8 3JF,1900,4,4,4,London,House
+2886,2886,2050000,,SW1X 0LJ,1003,2,2,2,London,Flat / Apartment
+2887,2887,1999950,,SW3 1PS,802,2,2,2,London,Flat / Apartment
+2888,2888,875000,Hampstead,NW3 2PS,943,2,2,2,London,Flat / Apartment
+2889,2889,1275000,,SW17 7NE,1445,3,3,3,London,House
+2890,2890,2850000,Chiswick,W4 4QU,2833,5,5,5,London,House
+2891,2891,3500000,Bedford Park,W4 1LJ,3775,7,7,7,London,House
+2892,2892,1875000,,W12 7HG,2618,5,5,5,London,House
+2893,2893,2100000,Chiswick,W4 5UF,2139,5,5,5,London,House
+2894,2894,3750000, St John's Wood,NW8 7RJ,2315,4,4,4,London,Flat / Apartment
+2895,2895,2450000,Little Venice,W9 2PD,1289,2,2,2,London,Flat / Apartment
+2896,2896,498000, Canary Wharf,E14 9TA,554,1,1,1,London,Flat / Apartment
+2897,2897,590000,33 Eltringham Street,SW18 1GS,795,2,2,2,London,Flat / Apartment
+2898,2898,900000,,EC1M 5PY,756,2,2,2,London,Flat / Apartment
+2899,2899,1195000,,SW7 3DD,850,1,1,1,London,Flat / Apartment
+2900,2900,2195000,,SW5 0PD,1268,2,2,2,London,Flat / Apartment
+2901,2901,2400000,,W12 9RZ,3029,6,6,6,London,House
+2902,2902,850000, Battersea,SW11 4HQ,975,3,3,3,London,Flat / Apartment
+2903,2903,4250000,East Molesey,KT8 9DN,6632,7,7,7,Surrey,House
+2904,2904,1025000, Marylebone,NW1 5NP,1070,3,3,3,London,Flat / Apartment
+2905,2905,520000,Marylebone,NW1 6HD,411,1,1,1,London,Flat / Apartment
+2906,2906,1950000,Putney,SW15 1PW,2158,3,3,3,London,House
+2907,2907,8950000,10 Whitehall Place,SW1A 2BD,2956,3,3,3,London,New development
+2908,2908,799950,,N7 8LE,686,2,2,2,London,House
+2909,2909,1295000,Hackney,E8 3ER,1364,3,3,3,London,House
+2910,2910,775000,Esher,KT10 8LJ,1149,2,2,2,Surrey,House
+2911,2911,410000,Blackheath,SE10 8AX,547,1,1,1,London,Flat / Apartment
+2912,2912,625000,10-12 Lawn Lane,SW8 1UD,541,1,1,1,London,Flat / Apartment
+2913,2913,650000,,EC1V 3AN,571,1,1,1,London,Flat / Apartment
+2914,2914,595000,1 Spectrum Way,SW18 4GL,735,2,2,2,London,Flat / Apartment
+2915,2915,2650000,Stone Hall Gardens,W8 5UP,1191,2,2,2,London,New development
+2916,2916,2500000,Wandsworth,SW18 2ED,2882,6,6,6,London,House
+2917,2917,950000,Battersea,SW8 3QD,1661,4,4,4,London,House
+2918,2918,820000,,SW11 8EU,797,1,1,1,4 Circus Road West,New development
+2919,2919,1225000, Putney,SW15 3HF,2056,3,3,3,London,Flat / Apartment
+2920,2920,1795000,Notting Hill,W11 3EL,1118,2,2,2,London,Flat / Apartment
+2921,2921,1000000,Esher,KT10 8DD,1666,3,3,3,Surrey,House
+2922,2922,2295000,Putney,SW15 6LN,2899,4,4,4,London,House
+2923,2923,5000000,Campden Hill Road,W8 7HX,2248,4,4,4,London,Flat / Apartment
+2924,2924,2895000,Putney,SW15 6NN,3414,6,6,6,London,House
+2925,2925,1000000,,SW7 1BH,728,2,2,2,London,Flat / Apartment
+2926,2926,625000,,N5 2DJ,825,2,2,2,London,Flat / Apartment
+2927,2927,3000000,Ealing,W5 3HR,4088,6,6,6,London,House
+2928,2928,3950000,Wimbledon,SW19 4NP,4438,5,5,5,London,New development
+2929,2929,2999000,,SW11 6JE,3295,6,6,6,London,House
+2930,2930,965000,Pimlico,SW1V 2DB,925,2,2,2,London,Flat / Apartment
+2931,2931,2000000,Barnes,SW13 9HP,2127,4,4,4,London,House
+2932,2932,5000000,,W1H 2EE,2332,4,4,4,Marylebone,House
+2933,2933,3450000,Wimbledon,SW19 5BL,3802,5,5,5,London,New development
+2934,2934,895000,,SW3 6BJ,555,1,1,1,London,Flat / Apartment
+2935,2935,5000000,,KT22 0QB,7879,6,6,6,Surrey,House
+2936,2936,1095000,,SW8 3PB,1256,4,4,4,London,House
+2937,2937,5650000,Belgravia,SW1X 8LY,2753,4,4,4,London,House
+2938,2938,2820000,Blackheath,SE3 7RH,3900,5,5,5,London,New development
+2939,2939,2250000,Wimbledon,SW19 4JQ,2835,5,5,5,London,House
+2940,2940,1450000,South Hackney,E9 7EH,1667,4,4,4,London,House
+2941,2941,700000,,EC1V 2NR,997,2,2,2,London,Flat / Apartment
+2942,2942,1850000, Spitalfields,E1 6NQ,1836,2,2,2,London,Penthouse
+2943,2943,3000000,Bloomsbury,WC1N 2AA,3325,7,7,7,London,House
+2944,2944,1525000,,SW12 8HG,2232,5,5,5,London,House
+2945,2945,1350000,Clerkenwell,EC1N 8JJ,1117,2,2,2,London,Penthouse
+2946,2946,625000,Clerkenwell,EC1V 0DB,636,1,1,1,London,Flat / Apartment
+2947,2947,1650000,Fulham,SW6 7BB,1576,4,4,4,London,House
+2948,2948,450000,Camden,NW1 7HB,500,1,1,1,London,Flat / Apartment
+2949,2949,1625000,,SW1V 3AE,1372,4,4,4,London,House
+2950,2950,1000000,,HA6 1HW,1528,4,4,4,Northwood,House
+2951,2951,850000,Clerkenwell,EC1R 4UL,848,2,2,2,London,Flat / Apartment
+2952,2952,2495000,,TW2 5TH,3609,6,6,6,Twickenham,House
+2953,2953,2250000,,W4 3UR,2469,4,4,4,London,House
+2954,2954,3950000,St. John's Wood,NW8 9UG,2803,5,5,5,London,House
+2955,2955,1750000,,SE17 2JX,2396,5,5,5,London,House
+2956,2956,1195000, Marylebone,W1U 5BR,678,1,1,1,London,Flat / Apartment
+2957,2957,650000,Wandsworth,SW18 3NY,1077,2,2,2,London,Flat / Apartment
